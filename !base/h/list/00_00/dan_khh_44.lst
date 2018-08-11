@@ -1,0 +1,8 @@
+Idle	0		0								
+Stop_Idle	0	k_f_spine03_03	1	0	4	0	0	-0.01	0	0	0
+WLoop	0	k_f_spine03_03	1	0	4	0	0	-0.01	0	0	0
+SLoop	0	k_f_spine03_03	1	0	4	0	0	-0.01	0	0	0
+OLoop	0	k_f_spine03_03	1	0	4	0	0	-0.005	0	0	0
+M_OUT_Start	0	k_f_spine03_03	1	0	4	0	0	-0.005	0	0	0
+M_OUT_Loop	0	k_f_spine03_03	1	0	4	0	0	-0.005	0	0	0
+OUT_A	0	k_f_spine03_03	1	0	4	0	0	-0.005	0	0	0

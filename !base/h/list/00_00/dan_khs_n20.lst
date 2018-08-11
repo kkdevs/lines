@@ -1,0 +1,24 @@
+Idle	0		0								
+Insert	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+InsertIdle	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+WLoop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+SLoop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+OLoop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+M_IN_Start	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+M_IN_Loop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+WF_IN_Start	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+WF_IN_Loop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+WS_IN_Start	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+WS_IN_Loop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+WS_IN_A	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+SF_IN_Start	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+SF_IN_Loop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+SS_IN_Start	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+SS_IN_Loop	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+SS_IN_A	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+IN_A	0	k_f_kokan_00	1	1	25	0	0	0	0	0	-0.01
+M_OUT_Start	0	k_f_kosi02_00	0	1	25	0	0	0	0	0	-0.01
+M_OUT_Loop	0	k_f_kosi02_00	0	1	25	0	0	0	0	0	-0.01
+OUT_A	0		0								
+Pull	0		0								
+Drop	0		0								

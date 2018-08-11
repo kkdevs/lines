@@ -1,0 +1,11 @@
+cf_hit_arm_L	H/Aibu/Hit/Reaction/armL	Chara
+cf_hit_arm_R	H/Aibu/Hit/Reaction/armR	Chara
+cf_hit_berry	H/Aibu/Hit/Reaction/bodydown	Chara
+cf_hit_bust02_L	H/Aibu/Hit/muneL	Chara
+cf_hit_bust02_R	H/Aibu/Hit/muneR	Chara
+cf_hit_spine01	H/Aibu/Hit/Reaction/bodyup	Chara
+cf_hit_spine02_L	H/Aibu/Hit/Reaction/bodyup	Chara
+cf_hit_spine03	H/Aibu/Hit/Reaction/bodyup	Chara
+cf_hit_waist_L	H/Aibu/Hit/Reaction/bodydown	Chara
+cf_hit_wrist_L	H/Aibu/Hit/Reaction/armL	Chara
+cf_hit_wrist_R	H/Aibu/Hit/Reaction/armR	Chara

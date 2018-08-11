@@ -1,0 +1,9 @@
+0		h/common/00_00.unity3d	p_handL	o_hand_L	1	1	o_hand_L_silhouette	0	0			-1	0
+1		h/common/00_00.unity3d	p_handR	o_hand_R	1	1	o_hand_R_silhouette	0	1			-1	0
+2		h/common/00_00.unity3d	p_fingerL	o_hand_L	1	1	o_hand_L_silhouette	1	0			-1	0
+3		h/common/00_00.unity3d	p_fingerR	o_hand_R	1	1	o_hand_R_silhouette	1	1			-1	0
+4		h/common/00_00.unity3d	p_tang	o_tang	1	0	o_tang_silhouette	2	2			-1	0
+5		h/common/00_00.unity3d	p_item_denma_L	O_massajiki_L_00_00	0	0		3	0	sound/data/se/h/00/00_00.unity3d	khse_denma	0	0
+6		h/common/00_00.unity3d	p_item_denma_R	O_massajiki_R_00_00	0	0		3	1	sound/data/se/h/00/00_00.unity3d	khse_denma	0	0
+7		h/common/00_00.unity3d	p_item_vibe	mo_hs_ha_bai_00	0	0		4	0	sound/data/se/h/00/00_00.unity3d	khse_baibu	1	1
+8		h/common/00_00.unity3d	p_item_vibe	mo_hs_ha_bai_00	0	0		4	1	sound/data/se/h/00/00_00.unity3d	khse_baibu	1	1

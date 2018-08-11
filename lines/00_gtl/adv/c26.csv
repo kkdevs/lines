@@ -1,0 +1,338 @@
+key,jp,en,comment
+1815216222,「えっと……いま大丈夫かな？　よければ君とお話ししたいんだけど」,"""Er ... OK, are you OK right now? I'd like to talk to you if you do not mind.""",[P名] adm_02_25_007
+-1193210862,「……あなた確か……転校してきた人……？」,"""... ... you sure ... ... the person who has been transferred ...?""",[H名] adv_ev_26_000
+-860688154,「そうそう、覚えててくれたんだ？」,"""Oh yeah, did you remember?""",[P名] adv_ev_26_000
+841622932,「……顔だけは……。いつもならすぐに忘れるけど……」,"""... only face ... .... I will forget it as usual ... but ...""",[H名] adv_ev_26_001
+-1974078438,「そ、そんなに特徴的な顔してるかな？」,"""Well, you look so distinctive?""",[P名] adv_ev_26_001
+-438729404,「よくわからない……。本当に、なんとなく……それで話って？」,"""I do not quite understand .... Really, somehow ... ... Do you talk?""",[H名] adv_ev_26_002
+-902056615,（感情が読み取りにくい子だな……どんな話なら興味を引くんだろう？）,(It is a child whose emotions are hard to read ...... What kind of story would you be interested in?,[P名] adv_ev_26_002
+-157215180,「あっ、[H姓]さん。よかったら一緒に話でもどうかな？」,"""Oh, [H姓] - san, how about we talking together?""",[P名] adv_ev_26_002
+-1051350015,「……私と？　何故？」,"""... with me ... why?""",[H名] adv_ev_26_003
+-2108467505,「[H姓]さんとあまり話したことなかったし、これを機にどうかなって」,"""I had never talked to [H姓] very much, so I got something about it""",[P名] adv_ev_26_003
+-1448102698,「……そう。別に少しくらいなら、構わないけど」,"""... .... Yes, I do not mind if it's a little bit different.""",[H名] adv_ev_26_004
+2128483959,「ありがとう、それじゃ……」,"""Thank you, then then ...""",[P名] adv_ev_26_004
+-1676923457,「……うん、別にいいよ」,"""... Yeah, it's okay,""",[H名] adv_ev_26_027
+-1409766751,「本当？　ありがとう」,"""Thank you, truly?""",[P名] adv_ev_26_027
+1776763786,「……あなたと一緒にいるだけでいいんでしょ？」,"""... You only have to be with you, are not you?""",[H名] adv_ev_26_028
+1514815196,「まぁ、そんなところかな？　えーと、他にはね……」,"""Well, that kind of place? Uh, else ... ....""",[P名] adv_ev_26_028
+1010813469,「いい、あなたと一緒にいられるんだったら……他は別に……」,"""Well, if you can stay with you ... ... others are ... ....""",[H名] adv_ev_26_029
+596609928,「ほ、本当に……？　説明しなくても大丈夫？」,"""Well, really ... ... I do not need to explain?""",[P名] adv_ev_26_029
+-1523732290,「うん……。それさえ確認できれば……」,"""Yeah .... If you can confirm it even ...""",[H名] adv_ev_26_030
+79208989,「……もう、私に近づかないで」,"""... ... Please do not approach me anymore.""",[H名] adv_ev_26_031
+841090154,「え……な、なんで？」,"""Well ... Why?""",[P名] adv_ev_26_031
+1930550862,「もう、自分の気持ちに嘘はつけないから。ごめん、[P]といても、楽しくない……」,"""I can not lie to my feelings anymore, sorry, even with [P], it's not fun ...""",[H名] adv_ev_26_032
+-1932971953,「ま、待ってよ。そんな急に……！」,"""Wait a second, suddenly ... ...!""",[P名] adv_ev_26_032
+1376278869,「……さようなら」,"""……goodbye""",[H名] adv_ev_26_033
+-401392297,「……うん、いいよ」,"""……yep, OK""",[H名] adv_ev_26_034
+-874566222,「[H]……本当に、俺でいいの？」,"""[H] ...... Really, is it okay with me?""",[P名] adv_ev_26_034
+2105580719,「……うん。[P]が好きだからいい……」,"""... Yeah ... I like [P] so it's okay ...""",[H名] adv_ev_26_035
+-805508671,「[P]……初めてはいい思い出にさせてね……」,"""[P] ... ... Let me have good memories for the first time ...""",[H名] adv_ev_26_036
+-1933137271,「……うん、わかった」,"""……O.K. I understand""",[H名] adv_ev_26_037
+1618100430,「よかった。俺、楽しくなるように頑張るよ」,"""Good, I'll do my best to be fun""",[P名] adv_ev_26_037
+-711062129,「……期待してる」,"""... I'm expecting""",[H名] adv_ev_26_038
+1908689407,「……おはよう、[P]。もう朝だよ……」,"""... Good morning, [P]. It's already morning ...""",[H名] adv_ev_26_039
+-1891516454,「……なんで顔を隠すの？　寝顔が恥ずかしい、から……？」,"""... Why are you hiding your face? Embarrassing your sleeping face ...?",[H名] adv_ev_26_040
+1453140915,「……おはよう、[P]。シャワーかりたよ」,"""... Good morning, [P]. I took a shower.""",[H名] adv_ev_26_041
+-2056231342,「……どうしたの？　私の身体、何かついてる……？」,"""... What did you do? My body, something lucky ...?""",[H名] adv_ev_26_042
+133273684,（ん？　昨日はあの後すぐ寝ちゃったのか、……っていうか、何だか下半身がムズムズして……）,"(Did you fall asleep soon yesterday, ......, or something, the lower body is muzzled ... ...)",[P名] adv_ev_26_042
+-1141644309,「って、うおっ！？」,"""Wow!""",[P名] adv_ev_26_042
+-1973992714,「……あっ、起きた」,"""... .... Ah, I got up.""",[H名] adv_ev_26_043
+-1919146376,「[H]！？　あ、朝から何して……！」,"""[H] !? Oh, what have you done since morning ...?!""",[P名] adv_ev_26_043
+1241927145,「……？　[P]のむすこが辛そうだったから、慰めてあげようと思って……」,"""......? Because [P]'s son looked spicy, I decided to comfort him ...""",[H名] adv_ev_26_044
+1409351477,「んーっ、よく寝た。……あれ？　メモがある。なになに――」,"""Well, I slept well ... ... There is a memo ... What?""",[P名] adv_ev_26_044
+606048865,『おはよう。[P]、起きなかったから先に行ってるよ』,"""Good morning. [P], I went ahead because I did not get up. """,[H名] adv_ev_26_045
+926279233,『念のため、遅刻には気をつけて』,"""Just be careful, be careful late.""",[H名] adv_ev_26_046
+-183429279,『P.S.また学園で、お話聞かせてね』,"""P.S. Please tell me again at the school.""",[H名] adv_ev_26_047
+140556038,「……おはよう」,"""……Good morning""",[H名] adv_ev_26_048
+-1156258707,「……おはよう」,"""……Good morning""",[H名] adv_ev_26_049
+753645038,「……あなたと話す時間は、楽しいから好き」,"""... ... I like the time to talk with you because it's fun""",[H名] adv_ev_26_005
+2114573550,「はは、そういってもらえると嬉しいよ」,"""Haha, I will be glad if you say that.""",[P名] adv_ev_26_005
+-795763110,「……あなたのする話は、面白いから全部覚えてる」,"""... ... the stories you do are interesting so I remember everything.""",[H名] adv_ev_26_006
+-1302807820,「だから……また話を聞かせて」,"""So ... let's talk again""",[H名] adv_ev_26_007
+1185915832,「任せて、今度も面白い話をきかせるからさ」,"""Leave it to me, because I can make an interesting story next time""",[P名] adv_ev_26_007
+-264667157,「……うん」,"""……Yup""",[H名] adv_ev_26_008
+-1905144270,「じゃあ……またね」,"""I will see you around""",[H名] adv_ev_26_009
+-1078408570,「おはよう、[P]……その……また後でね」,"""Good morning, [P] ... ... that ... later again later""",[H名] adv_ev_26_050
+356961605,「……[P]、おはよう」,"""... ... [P], good morning""",[H名] adv_ev_26_051
+318963561,「おはよう。昨日、面白いことがあったんだけど、良かったら聞いてくれないかな？」,"""Good morning. Yesterday there was something interesting, but would you listen if you were okay?""",[P名] adv_ev_26_051
+-575814795,「うん……話してみて……。[P]の話、聞きたい」,"""Yeah ... ... Try and talk ... ... I want to hear about [P] story.""",[H名] adv_ev_26_052
+-1302293901,「ねぇ……家庭科でお菓子焼いたけど、食べる……？」,"""Hey ... ... I baked some candy at home economics but would I eat ...?""",[H名] adv_ev_26_053
+361378960,「知り合い、あなたくらいしかいないし……あげる」,"""I know you, there is only you ... I will give it""",[H名] adv_ev_26_054
+-80814932,「……あなた、これ……食べる？」,"""... ... you, you ... eat this?""",[H名] adv_ev_26_055
+1003607941,「[P]が喜ぶと思って、クッキー……焼いてきた」,"""I thought [P] would be delighted, cookie ... I baked it.""",[H名] adv_ev_26_056
+-726283495,「……感想は、後で聞かせてほしい」,"""... Please let me know your impressions later""",[H名] adv_ev_26_057
+-1174651487,「……[P]、家庭科でスイートポテト作った。食べて」,"""...... [P], I made sweet potatoes at home economics, eat it.""",[H名] adv_ev_26_058
+1997825328,「たぶんおいしい……と、思う……。感想を聞かせてくれるとうれしい……」,"""I think it is probably tasty ... I think .... I'm glad to hear your thoughts ...""",[H名] adv_ev_26_059
+-155088557,「……プレゼント？　なに……？」,"""... .... a gift? What ... ...?""",[H名] adv_ev_26_060
+-2032366025,「えっ……私に、プレゼント……？」,"""Eh ... ... to me, present ...?""",[H名] adv_ev_26_061
+-1237955581,「私にプレゼント？　……嬉しい」,"""Present for me? ... ... I'm happy""",[H名] adv_ev_26_062
+1420951783,「……ありがとう。これ、好き……」,"""... Thank you. I like this ... ....""",[H名] adv_ev_26_063
+913683136,「……！　ありがとう。これ、好き……だから」,"""... .... Thank you. I like this, so ...""",[H名] adv_ev_26_064
+-1743658281,「……誰かと一緒に帰ったことは……ないから……」,"""... ... It is because there is no way that I returned with someone ... ...""",[H名] adv_ev_26_010
+1897576065,「そうなの？　一緒に話もできるから楽しいよ」,"""Is that so? It's fun because we can talk together.""",[P名] adv_ev_26_010
+350662419,「……うん、わかった……。じゃあ、一緒に帰る……」,"""... Yeah, I understand .... Then, I will go home together ...""",[H名] adv_ev_26_011
+1284251511,「ありがとう、すごく……嬉しい。こういうの好き……」,"""Thank you, I'm so happy ... I like that kind of thing ...""",[H名] adv_ev_26_065
+-1739215956,「正直……他の物がよかった……」,"""To be honest ... ... other things were good ...""",[H名] adv_ev_26_066
+1721453446,「ん……一応、貰っとく……」,"""... ... for once, get it ...""",[H名] adv_ev_26_067
+231982944,「うーん、いくら[P]がくれるものでも……これはちょっと……」,"""Well, no matter how much [P] gives ... this is kinda ...""",[H名] adv_ev_26_068
+1890762269,「……ありがとう」,"""……Thank you""",[H名] adv_ev_26_069
+207640317,「……別にいいけど」,"""...... Separately ...""",[H名] adv_ev_26_012
+1628120775,「ありがとう。今やってるとこが難しくてさ……」,"""Thank you. It is difficult to do now ...""",[P名] adv_ev_26_012
+-1349273620,「……多少は、教えられる。私に分かる範囲なら……」,"""... ... somewhat taught, as long as I understand ... ....""",[H名] adv_ev_26_013
+1835782371,「……理由はいらない、早く出て行って」,"""... ... I do not need reason, get out early""",[H名] adv_ev_26_083
+1790597742,「……最低。早く出てって」,"""... ... Lowest, get out soon""",[H名] adv_ev_26_084
+-585119871,「……あなたと会えたのは嬉しいけど、覗きはダメだと思う……」,"""... I'm glad I met you, but I do not think peeping ....""",[H名] adv_ev_26_085
+-463002857,「へえ、色々あるんだね」,"""Oh, there are many things,""",[P名] adv_ev_26_085
+190024813,「私は……バナナクレープが食べたい」,"""I ... I want to eat banana crepe""",[H名] adv_ev_26_086
+-413211679,「うん、いいよ」,"""yep, OK""",[P名] adv_ev_26_086
+-1497424094,「……楽しかった、ありがとう」,"""... ... It was fun, thank you""",[H名] adv_ev_26_087
+1442759739,（よかった、喜んでもらえたみたいだ）,"(I'm glad, you seem to be pleased)",[P名] adv_ev_26_087
+1911531869,「良かった……私の初めてが、あなたで」,"""It was good ... my first time, with you""",[H名] adv_ev_26_088
+-740047629,「……どう？　気持ちよかった？」,"""... ... How'd he feels good?""",[H名] adv_ev_26_089
+1321697656,「うん、最高だったよ……」,"""Yeah, it was awesome ... ....""",[P名] adv_ev_26_089
+829623071,「……なら、良かった」,"""……Then that's good""",[H名] adv_ev_26_090
+726688739,「……その、すごく気持ちよかった。ありがとう……」,"""... ... that, I felt very comfortable. Thank you ......""",[H名] adv_ev_26_091
+-2121093696,「あなたのおちんちん、よかった……。また……しようね」,"""Your dumplings were good, let's ... let's do it again.""",[H名] adv_ev_26_092
+-423395411,「……すごく、激しかったね……私もう、立てない……かも」,"""... ... It was very fierce .... I can not stand anymore ... maybe ...""",[H名] adv_ev_26_093
+-306027026,「運動……？　何するの？」,"""Exercise ... ... What are you going to do?""",[H名] adv_ev_26_014
+-209492589,「まだ決めてないけど、そんなに激しいことはしないつもりだよ」,"""I have not decided yet, I will not do such a fierce thing""",[P名] adv_ev_26_014
+715444030,「そう……わかった……それなら、いいよ」,"""Yeah ... I understand ... ... then, good.""",[H名] adv_ev_26_015
+436481450,「あなたの傍にいると……すごく落ち着く」,"""When you are next to you ... ... It will be quite calm.""",[H名] adv_ev_26_094
+-1760724577,「こうしてくっついてるだけなのに……胸の中が温かくなる」,"""It's just being stuck in this way ... inside the chest becomes warm""",[H名] adv_ev_26_095
+-1325059151,「えっ……終わり？　私……まだイってない……」,"""Oh ... end ... I ... ... I have not heard yet ...""",[H名] adv_ev_26_096
+-845371038,「……ひどい。私まだ、あなたに満たされてない……」,"""... ... terrible ... I am not satisfied with you yet ...""",[H名] adv_ev_26_097
+-273957077,「……どうしたの？　具合、悪いの？」,"""... ... What's the matter, how bad is it?""",[H名] adv_ev_26_098
+439745751,「見つかるかもって……はらはらした。なんだかすごく……変態になったみたい……」,"""It might be found ... ... It's frustrating ... something really ... seems to have turned into a metaphor ...""",[H名] adv_ev_26_099
+2010564226,「……なんだか、大胆。でも、いつもより興奮して……すごく気持ちよかった」,"""... ... somewhat bold, but I was more excited than usual ... ... It was a very pleasant experience.""",[H名] adv_ev_26_100
+1506712263,「……えっ？　なん、で……？」,"""...... Eh-hmm, what is it ...??""",[H名] adv_ev_26_101
+150521018,「……ごめん」,"""……sorry""",[P名] adv_ev_26_101
+279422944,「なんで……私、[P]に嫌われるようなことした？」,"""Why ... did I like being hated by [P]?""",[H名] adv_ev_26_102
+150521018,「……ごめん」,"""……sorry""",[P名] adv_ev_26_102
+1356800681,「……ひどいよ、そんなの……捨てないで……」,"""... ... terrible, that kind of ... ... do not throw it away ...""",[H名] adv_ev_26_103
+-693158054,「少し……緊張してきた……」,"""A bit ... ... I was nervous ...""",[H名] adv_ev_26_104
+-1945794288,「大丈夫？　もうちょっと肩の力を抜いていいんだよ」,"""Do not worry, you can take over the power of your shoulders a bit more""",[P名] adv_ev_26_104
+490788578,「手、つないでくれたら……リラックスできるかも……」,"""If you hold hands, ... ... may be able to relax ...""",[H名] adv_ev_26_105
+-1935461641,「そ、そうか、わかった。じゃあ、手をかして」,"""Well, I understand, then, please hold out my hands.""",[P名] adv_ev_26_105
+-1397451650,「ありがとう……だんだん落ち着いてきた。こうしてると、安心する……」,"""Thank you ... ... It's getting calmer and it's comforting .... I am relieved ...""",[H名] adv_ev_26_106
+1540476250,「よかった……。だいぶほぐれてきたかな？　じゃあこの調子で楽しもう！」,"""Okay ... ... have you gotten loose much? Well then let's have fun with this condition!""",[P名] adv_ev_26_106
+-1100404897,「うん、手……このまま離さないでね……」,"""Yeah, hand ... ... Do not leave me like this ...""",[H名] adv_ev_26_107
+1505001587,（……よかった、喜んでもらえて。この調子で最後まで頑張ろう！）,"(... good, I'm glad that you will do my best in this condition!",[P名] adv_ev_26_107
+714012107,「……今日はありがとう。本当に、楽しかった」,"""... ... Thank you for today, I really enjoyed it.""",[H名] adv_ev_26_108
+-1000663423,「それじゃあ、そろそろ……って、どうかした？　そんなにじっと手を見て……」,"""Well then, it was about time ... what happened? Watch your hands so much ......""",[P名] adv_ev_26_108
+974559264,「……手、つないでほしい」,"""... ... Hands, I want you to connect""",[H名] adv_ev_26_109
+-1703817854,「この紅茶、おいしいね」,"""This tea is delicious, is not it?""",[P名] adv_ev_26_109
+-919029919,「……こっちの紅茶もおいしい。あなたのも飲ませて……」,"""...... This tea is delicious, let me drink you ......""",[H名] adv_ev_26_110
+85643637,…………,............, adv_ev_26_110
+-1768882427,「その……今日はありがとう」,"""That ... ... Thank you for today.""",[H名] adv_ev_26_111
+536324988,「……またデートしようね。それじゃあ……また」,"""... ... Let's go out with dates again ... well then ....""",[H名] adv_ev_26_112
+111019481,「……行くって、どこに？」,"""... Where are you going?""",[H名] adv_ev_26_016
+-2020698024,「ついてからのお楽しみ」,"""Fun from after""",[P名] adv_ev_26_016
+546267961,「……？」,"""... ...?""",[H名] adv_ev_26_017
+-2040794428,「……今日は、楽しかった。それじゃ……また」,"""... ... Today was fun, then ... well ...""",[H名] adv_ev_26_113
+-1283256378,「……私、すごく幸せ。これから、[P]と……デート、できるから」,"""...... I am very happy. From now on, I can date with [P] .... I can do it.""",[H名] adv_ev_26_114
+2020997399,「ははは、まだこれからじゃないか。ふたりでもっと幸せになっていこうよ」,"""Haha, are not you going to come yet, let's be more happy in the two of us""",[P名] adv_ev_26_114
+483862843,「[P]……映画、面白かったね……」,"""[P] ...... movie, it was funny ...",[H名] adv_ev_26_115
+-1836427381,「そうだね、ただ、映画に集中しすぎてポップコーンがだいぶ残ったね……」,"""Yes, but I concentrate too much on the movie and a lot of popcorn left ...""",[P名] adv_ev_26_115
+162211037,「じゃあ……公園で食べよう。あそこなら、ベンチがある」,"""Well then ... let 's eat in the park, if there is a bench.""",[H名] adv_ev_26_116
+-1197214955,「公園なんかでいいの？　もっと[H]の行きたいところがあれば、そこで……」,"""Is it OK in the park? If there is a place where [H] wants to go, there ... ....""",[P名] adv_ev_26_116
+-173044832,「私は……あなたの隣にいられるなら、それだけでも……幸せ……」,"""I ... ... if you are next to you, that alone ... ... happy ...""",[H名] adv_ev_26_117
+461133500,「……ありがとう、[P]。すごく楽しかった」,"""... ... Thank you, [P]. It was a lot of fun""",[H名] adv_ev_26_118
+-407372745,「もう少し、一緒にいない？」,"""Is not there a little more?""",[P名] adv_ev_26_118
+919909486,「うん、私もそう思った。じゃあ、もう少し……」,"""Yeah, I thought so, then ... a bit more ...""",[H名] adv_ev_26_119
+1292705266,「俺もすごく楽しかった、また遊ぼうね」,"""I also enjoyed myself, let's play again""",[P名] adv_ev_26_119
+-1168138595,「……うん、またね。今日は……ありがとう」,"""... Yeah, see you again ... Thank you for today ...""",[H名] adv_ev_26_120
+223326244,………………,.................., adv_ev_26_120
+830446275,…………,............, adv_ev_26_120
+-1717486528,……,... ...., adv_ev_26_120
+-1626129413,「……あっ、そろそろお別れ……」,"""... .... Ah, it's about time we left ...""",[H名] adv_ev_26_121
+1343330888,「よかったら……このまま家に来ない？」,"""If you do not mind ...... You can not come home as it is?""",[P名] adv_ev_26_121
+972708303,「……うん、いいよ」,"""……yep, OK""",[H名] adv_ev_26_122
+1359344618,「そっか、じゃあまたね」,"""Oh, well then, see you later""",[P名] adv_ev_26_122
+1454509520,「うん、またね……」,"""Yeah, see you later ...""",[H名] adv_ev_26_123
+-1352235845,「……ここが、[P]の部屋……」,"""... .... This is the room of [P] ......""",[H名] adv_ev_26_124
+42995915,「……なんか、嬉しい」,"""... ... somewhat, I'm glad""",[H名] adv_ev_26_125
+549043867,「[P]、私としたいの？　……うん、いいよ。私も触れ合いたいから……」,"""[P], do you want to do with me? ... Yeah, well, I also want to touch ... ....""",[H名] adv_ev_26_126
+2050748259,「……おじゃまします」,"""……excuse me for disturbing you""",[H名] adv_ev_26_127
+-814976691,「いきなりエッチなことするの……？　……でも、うん。いいよ」,"""Suddenly doing horny things ......? ... but ... well, yes.""",[H名] adv_ev_26_128
+-326454425,「……楽しい」,"""……pleasant""",[H名] adv_ev_26_129
+1440537774,「えっ、何が？」,"""What, what?""",[P名] adv_ev_26_129
+1533632906,「……わからない。けど多分、あなたがいるから……だと思う」,"""... I do not know but, maybe, I think you are ... ....""",[H名] adv_ev_26_130
+-1836443271,「ねえ、少し遊具で遊んで行かない？」,"""Hey, are not you going playing with a little plaything?""",[P名] adv_ev_26_130
+1207973807,「……うん、いいよ」,"""……yep, OK""",[H名] adv_ev_26_131
+-938171415,「じゃあブランコ乗ろうよ、ちょうど空いてるし」,"""Let's ride a swing, it's just free.""",[P名] adv_ev_26_131
+1907590896,「……壊さないでね？」,"""... ... Do not break it?""",[H名] adv_ev_26_132
+-629865416,「壊さないよ！？」,"""I will not break!""",[P名] adv_ev_26_132
+-828985482,「……[P]、手」,"""...... [P], hand""",[H名] adv_ev_26_133
+1553605904,「えっ？　あ、うん！　手、繋ごうか」,"""Ohhh, yeah! Hands, how about connecting?""",[P名] adv_ev_26_133
+-1507201256,「……うん。[P]の手、暖かい……」,"""... ... Yup, [P]'s hand, warm ... ....""",[H名] adv_ev_26_134
+1329538165,「じゃあ、しばらくこのまま繋いでいようか」,"""Well, let's keep connecting as it is for a while""",[P名] adv_ev_26_134
+1585221845,………………,.................., adv_ev_26_134
+-1763937257,…………,............, adv_ev_26_134
+677520816,……,... ...., adv_ev_26_134
+549362053,「じゃあ、またね」,"""I will see you around""",[P名] adv_ev_26_134
+-668650947,「……うん」,"""……Yup""",[H名] adv_ev_26_135
+-460699500,「……あれ？　ここはどうするんだっけ？」,"""... What ... what are you going to do here?""",[P名] adv_ev_26_135
+-2042623566,「……そこは、こうして別の方式に置き換えて……」,"""...... There, replace it with another method ...""",[H名] adv_ev_26_136
+-1025455282,「お～なるほど。ごめん、こんな簡単な問題で呼んじゃって」,"""Oh I see ... I'm sorry, call me with such a simple problem""",[P名] adv_ev_26_136
+-348966383,「……別に。あなたに教えるのは……嫌じゃない、から」,"""... .... Separately ... what I teach you .... I do not dislike,""",[H名] adv_ev_26_137
+667722318,「えっ！　そ、そっか……ありがとう」,"""Oh, that's right! ... Thank you""",[P名] adv_ev_26_137
+-389200261,「……えっ、私を……？　本気で言ってる……？」,"""... .... Well, I am ... seriously saying ... ....?""",[H名] adv_ev_26_018
+714949939,「冗談でこんなことは言わないよ！　俺は本当にきみのことが好きだ！」,"""I will not say such a thing by joke! I really like you too!""",[P名] adv_ev_26_018
+581417401,「……そ、そんなふうに気持ちを伝えられるの……初めて……」,"""... ... that, I can convey my feelings like that ... ... for the first time ...""",[H名] adv_ev_26_019
+-1522148453,「もしかして、迷惑だったか……？」,"""Did you mean it was annoying ...?",[P名] adv_ev_26_019
+-1355986318,「そんな……迷惑なんて……。違うの、少しびっくりしただけ……」,"""Such ... .... annoying ... ... different, just a little surprised ... ....""",[H名] adv_ev_26_020
+-1004083472,「驚いたけど……うれしかった。その、私も……あなたのこと好き……」,"""I was surprised, but ... it was a pleasure ... I, I love you ... ....""",[H名] adv_ev_26_021
+1916721375,「……ねえ、この問題、覚えてる？」,"""... Hey, do you remember this problem?""",[H名] adv_ev_26_138
+1422840730,「ん？　あ～えっと、ここは……こうするんだよ」,"""Oh, oh-oh, here, do it ...""",[P名] adv_ev_26_138
+725187932,「……そう、ありがとう……って、何で笑ってるの？」,"""... .... Yes, thanks ... ... Why are you laughing?""",[H名] adv_ev_26_139
+-1407345172,「ううん。前は俺が教えてもらってたから、なんか新鮮だなって」,"""No, because I was taught before, it's kind of fresh""",[P名] adv_ev_26_139
+-1104364885,「……ここ、どうするんだっけ？」,"""... ... what are you going to do here?""",[H名] adv_ev_26_140
+-1411610907,「えっとそこは……って、なにも俺の膝の上でやらなくても」,"""Wow there ... there is no need to do anything on my knee""",[P名] adv_ev_26_140
+-2033479472,「……私は、ここがいいの。で、この問題は……」,"""...... I am here, this problem is ... ....""",[H名] adv_ev_26_141
+-838721110,（ぜ、全然集中できない……！）,"(But, I can not concentrate at all ...!",[P名] adv_ev_26_141
+-1846686504,………………,.................., adv_ev_26_141
+-296467759,…………,............, adv_ev_26_141
+1828729549,……,... ...., adv_ev_26_141
+1282496045,「……お疲れ。じゃあ、また」,"""... .... Tired, see you again""",[H名] adv_ev_26_142
+-1273427828,………………,.................., adv_ev_26_142
+-779026965,…………,............, adv_ev_26_142
+-1184387303,……,... ...., adv_ev_26_142
+1836636078,「[P]、お疲れ……また一緒に、勉強しようね」,"""[P], tired ... ... Let's study together again""",[H名] adv_ev_26_143
+-83127574,「……遅い」,"""……slow""",[H名] adv_ev_26_144
+1631317575,「はぁ……はぁ……！　そ、そっちが速過ぎるだけだと思うんだけど……！」,"""Haa ...... Haa ... .... I guess that's just too fast ...!""",[P名] adv_ev_26_144
+1758684986,「……私は普通に、走ってるだけ……遅いのはそっち」,"""...... I am running normally, ... only slow.""",[H名] adv_ev_26_145
+-1015072907,「そ、そうかな……」,"""Well, that's right ......""",[P名] adv_ev_26_145
+-995242872,「……ほら、続き……行くよ」,"""... Here, see, continuation ......""",[H名] adv_ev_26_146
+689938619,「……っ、やったぁ！　一位だ！」,"""......, I did it! First place!""",[P名] adv_ev_26_146
+-526739735,「……むぅ」,"""...... Muu""",[H名] adv_ev_26_147
+-840678640,「じゃあ約束のジュース、お願いね」,"""Well, promised juice, please.""",[P名] adv_ev_26_147
+482032962,「……残念。けど次は、勝つ……！」,"""... Sorry, but the next will win ...!""",[H名] adv_ev_26_148
+771560097,「……ね、ねぇ[H]？」,"""... ..., hey [H]?""",[P名] adv_ev_26_148
+509749732,「……なに？　[P]」,"""... What? [P]""",[H名] adv_ev_26_149
+396760579,「えっと……そんなにくっつかれると動きにくいんだけど……」,"""Well ... ... if it sticks so much it's hard to move ....""",[P名] adv_ev_26_149
+942204755,「……ダメ。[P]は、私と一緒に運動するの」,"""... .... No, [P] exercises with me""",[H名] adv_ev_26_150
+194472352,………………,.................., adv_ev_26_150
+-1711175301,…………,............, adv_ev_26_150
+-1367648882,……,... ...., adv_ev_26_150
+605994444,「……ふぅ。じゃあ、また」,"""... .... Fu, then again.""",[H名] adv_ev_26_151
+-1774594012,………………,.................., adv_ev_26_151
+169577955,…………,............, adv_ev_26_151
+1282185663,……,... ...., adv_ev_26_151
+-933902325,「いい汗かいた……また一緒に、運動しようね」,"""I got a good sweat ... Let's exercise together again.""",[H名] adv_ev_26_152
+-1601052873,「……涼しい」,"""……It's cool""",[H名] adv_ev_26_153
+-1514258433,「屋上でお昼っていうのも良いよね」,"""It's okay to have lunch at the rooftop.""",[P名] adv_ev_26_153
+842659956,「……うん」,"""……Yup""",[H名] adv_ev_26_154
+-1600385903,「……うん、いいよ」,"""……yep, OK""",[H名] adv_ev_26_022
+357702761,「そうだよね。けどそれでも……って、いいの！？」,"""That's right, but even so ... is it okay?""",[P名] adv_ev_26_022
+-1392417107,「……したくないの？」,"""... You do not want to do?""",[H名] adv_ev_26_023
+1866117574,「いや、したいけど……本当にいいの？」,"""No, I want to, but ... is it really okay?""",[P名] adv_ev_26_023
+-50354426,「……うん。あなたとなら……いい、よ」,"""... Yeah ... If it's with you ... OK, OK.""",[H名] adv_ev_26_024
+1311543232,「……今日は、それだけ？」,"""... Today, is that all?""",[H名] adv_ev_26_155
+1012335050,「う、うん！　あんまりお腹が空いてなくて……」,"""Oh, yes! I am not hungry enough ...""",[P名] adv_ev_26_155
+93728632,「……本音は？」,"""... What is your true intention?""",[H名] adv_ev_26_156
+1366329616,「……少しお金を使い過ぎました」,"""... ... I used too much money a little""",[P名] adv_ev_26_156
+1801735879,「……[P]。あ～ん」,"""... ... [P]. Ah ~""",[H名] adv_ev_26_157
+1427349229,「えっ？　あ～……むぐっ！」,"""Er ... Ah ... .... Pig!""",[P名] adv_ev_26_157
+819946207,「……美味しい？　今日の玉子焼きは、自信作」,"""...... delicious? Tamagoyaki of today is self confident""",[H名] adv_ev_26_158
+1258234013,「い、いきなり口の中に入れるから驚いたよ……すごく美味しいけど」,"""Well, I was surprised to put it in my mouth suddenly .... It is very delicious,""",[P名] adv_ev_26_158
+-1492900333,「そう……良かった」,"""Yeah ... that's good.""",[H名] adv_ev_26_159
+-945869565,………………,.................., adv_ev_26_159
+-450571548,…………,............, adv_ev_26_159
+1387369230,……,... ...., adv_ev_26_159
+1503733287,「……ご馳走さま。じゃあ、また……」,"""... ... feast, then again ... ...""",[H名] adv_ev_26_160
+1077906293,………………,.................., adv_ev_26_160
+-207146468,…………,............, adv_ev_26_160
+239115872,……,... ...., adv_ev_26_160
+1634426529,「ご馳走さま……またね」,"""Farewell ... ... See you again""",[H名] adv_ev_26_161
+748207362,「……コイカツって、何をやるの？」,"""... ... What do you do with ko-cuts?""",[H名] adv_ev_26_162
+2001063655,「えっと、ざっくり言えば恋愛の研究……ってところかな」,"""Well, roughly speaking, research on love ... ... is it?""",[P名] adv_ev_26_162
+1591333886,「……私、鯉に勝つ部活だと思ってた」,"""... ... I thought that it was a club activity that would win the carp.""",[H名] adv_ev_26_163
+1913820803,「そ、それはそれで興味があるような……」,"""Well, that seems to be interesting ...""",[P名] adv_ev_26_163
+1303341219,「でも恋愛研究も……悪くない、かも。よろしくね」,"""But even romantic study ... not bad, maybe.""",[H名] adv_ev_26_164
+-776061698,「うん、よろしく。それじゃあ、今日は……」,"""Yeah. Regards, then, today ... ....""",[P名] adv_ev_26_164
+2131497005,「ねえ……床ドンって、何？」,"""Hey ... ... What is a floor don?""",[H名] adv_ev_26_165
+285502881,「えっと、床ドンっていうのは……こんな感じの～」,"""Well, floor don is ...... Such feeling""",[P名] adv_ev_26_165
+-1787507300,「……面白そう。やろう」,"""... ... It sounds interesting, let's do it""",[H名] adv_ev_26_166
+1073161065,「……どう？　ドキッとした」,"""... ... How are you doing?""",[H名] adv_ev_26_167
+1032889151,「う、うん。俺が受けなんだってことに、少々……」,"""Well, yeah, that's what I am doing, a bit ... ....""",[P名] adv_ev_26_167
+-250853066,「……[P]の体。暖かい……」,"""... ... [P]'s body, warm ... ....""",[H名] adv_ev_26_168
+-1776044890,「それは何よりだけど……ずっと抱きついてるだけで飽きない？」,"""That's more than anything ...... Do not get tired of just hugging forever?""",[P名] adv_ev_26_168
+-662875602,「飽きない、けど……[P]もギュッてしてくれないと、やだ」,"""I do not get tired, but ... [P] should do it well, you can do it""",[H名] adv_ev_26_169
+-542792938,「はは。はいはい……」,"""Hahaha ... yeah ... ....""",[P名] adv_ev_26_169
+-652861257,「ん……」,"""Hmm……""",[H名] adv_ev_26_170
+-1346411183,「……ね、ねえ[H]。少し休憩しても……」,"""... ...., hey [H]. Even if you take a break ...""",[P名] adv_ev_26_170
+1268738785,「……それはダメ。私が良いっていうまで、ギュッてして」,"""... No, that's not good until I say good""",[H名] adv_ev_26_171
+-1925258498,（くう……！　幸せだけど……辛いっ）,(Oooh ... ... I am happy but ... painful),[P名] adv_ev_26_171
+-1752859483,………………,.................., adv_ev_26_171
+-546417313,…………,............, adv_ev_26_171
+-1502786138,……,... ...., adv_ev_26_171
+-1219885470,「……お疲れ。また恋愛研究、しようね」,"""... .... Tired, let's study love again""",[H名] adv_ev_26_172
+1277866445,………………,.................., adv_ev_26_172
+-916134924,…………,............, adv_ev_26_172
+-653453020,……,... ...., adv_ev_26_172
+30484073,「……次もまた、やろうね」,"""... ... Let's do it again next time""",[H名] adv_ev_26_173
+-1840908263,「ちょっとお願いがあるんだけど、一回でいいからお互いに愛称で呼び合ってみない？」,"""I have a favor to ask, but because I do not have to do it for a while, why do not you call each other with a nickname?""",[P名] adv_ev_26_173
+297749893,「……愛称？　……別にいいけど、どうして急に？」,"""...... Nickname? ...... Separately it is OK, why suddenly?""",[H名] adv_ev_26_174
+-2022516315,「恋愛漫画を読んで、羨ましいと思ってさ」,"""Reading love cartoon, think that you are envious""",[P名] adv_ev_26_174
+-1892637822,「けっこう、単純。……いいよ、やってみよ」,"""Pretty, simple ... ... ... OK, do it""",[H名] adv_ev_26_175
+1027215170,「やった！　それじゃあ、俺のことは[Pあだ名]って呼んでくれないかな」,"""You did it, then I wonder if you call me [Pあだ名]""",[P名] adv_ev_26_175
+783236014,「……あなたの名前と一致しないけど」,"""... ... I do not agree with your name,""",[H名] adv_ev_26_176
+405419046,「それでもいいんだ……お願いします！」,"""Even then it's okay ... please!""",[P名] adv_ev_26_176
+819098448,「……よくわからないけど、わかった」,"""... I do not really understand, but I understand""",[H名] adv_ev_26_177
+2037302435,「ありがとう。……じゃあ早速、俺から呼びかけるね」,"""Thank you ... .... Then we will call from you soon""",[P名] adv_ev_26_177
+564055400,「[Hあだ名]……」,"""[Hあだ名] ......""",[P名] adv_ev_26_177
+-1053464027,「……[Pあだ名]」,"""... ... [Pあだ名]""",[H名] callName0
+-1704887364,「おお……じゃっかん気恥ずかしい気もするけど、いい……」,"""Oh ...... Jackpan though I feel ashamed, but good ...""",[P名] callName0
+256129915,「……何だか、すごく嬉しそう。……また、呼んであげようか？」,"""... ... somewhat, it seems to be very happy ... ... Shall I call you again?""",[H名] adv_ev_26_178
+-948674666,「本当？　それじゃあ、是非呼んでほしいな！」,"""Really? Well then, I'd like you to invite me!""",[P名] adv_ev_26_178
+1236647049,「……デート？　私と？」,"""... ... Dating? With me?""",[H名] adv_ev_26_025
+-1815737711,「ど、どうかな」,"""Well, how about""",[P名] adv_ev_26_025
+1332910956,「……うん、いいよ。行ってみたい」,"""... Yeah, that's fine, I want to go""",[H名] adv_ev_26_026
+847754229,「ねえ……愛称で呼び合ってみたい」,"""Hey ... ... I want to call you by nickname""",[H名] adv_ev_26_179
+-1472581060,「いいね。じゃあお互いの愛称を考えてみよっか」,"""Well, let's think about each other's nickname""",[P名] adv_ev_26_179
+924515224,「……どんなのがいいんだろう？」,"""... What kind of thing is good?""",[H名] adv_ev_26_180
+-62692483,「そう難しく考える事ないんじゃないかな。直観というか、感覚でさ」,"""I guess it's not difficult to think so, either intuition or feeling""",[P名] adv_ev_26_180
+1950755952,「なるほど……わかった。じゃあ……」,"""I see ... .... OK, well then ...""",[H名] adv_ev_26_181
+894005670,「……[Pあだ名]」,"""... ... [Pあだ名]""",[H名] callName0
+546819594,「おー、いいんじゃないかな。俺は好きだよ」,"""Oh, I guess it's okay, I like it.""",[P名] callName0
+-38511104,「……あなたは、思いついた？」,"""... ... Have you thought of it?""",[H名] adv_ev_26_182
+-1204992803,「うーん……[Hあだ名]、なんてどう？」,"""Well ... ... [Hあだ名], how are you?""",[P名] adv_ev_26_182
+-1655537636,「……悪くない、響き」,"""... ... Not bad, it sounds""",[H名] adv_ev_26_183
+-2107072550,「……また、愛称で呼んでみても、いい？」,"""... ... Also, can you call it by your nickname, is it OK?""",[H名] adv_ev_26_184
+-1535073133,「もちろん。気に入ったの？」,"""Of course. Did you like it?""",[P名] adv_ev_26_184
+-947638451,「……わりと」,"""……Comparatively""",[H名] adv_ev_26_185
+903476080,「おはよう、[Pあだ名]」,"""Good morning, [Pあだ名]""",[H名] callName1
+-1118987389,「うん。おはよう、[Hあだ名]。愛称で呼んでくれて嬉しいよ」,"""Yeah good morning, [Hあだ名]. I am glad to call you nickname.""",[P名] callName1
+-1627105427,「……そう。喜んでくれたなら、よかった」,"""... .... Yes, I'm glad if you 're happy.""",[H名] adv_ev_26_187
+-1337120909,「……エッチしてくれて、すごく嬉しい」,"""...... I'm so happy that I've done it for you.""",[H名] adv_ev_26_188
+-826331269,「すぅ……すぅ…………ん、んん……」,"""Wow ... ... ... ... ... ....""",[P名] adv_ev_26_188
+-2012832952,（ん、んん……何だか下半身に違和感が……？）,"(Hmm, I feel something wrong with the lower half ... ...?",[P名] adv_ev_26_188
+-1199646131,「…………」,"""............""",[P名] adv_ev_26_188
+-1974451818,「って……え？　え？」,"""Huh ... what ...?""",[P名] adv_ev_26_188
+164826355,「気持ち、いい？　辛そうだったから……慰めてたの」,"""It feels good, it seems to be spicy ... I'm comforting.""",[H名] h_hh_26_02_050
+-1758522549,「……けっこう大胆なことするね」,"""... ... It's pretty daring.""",[P名] h_hh_26_02_050
+-1130973811,「そう、かな？　……そう、かも」,"""Oh, maybe?",[H名] com_ev_26_458_02
+-291948137,（無自覚だったのか……）,(Was it unaware ...?),[P名] com_ev_26_458_02
+-261387040,「すぅ……すぅ…………ん、んん……」,"""Wow ... ... ... ... ... ....""",[P名] com_ev_26_458_02
+-1309062198,（んぅ……すごく気持ちいいような……いったい、何が……？）,"(Huh ...... I feel so comfortable .... What on earth, what ... ...?",[P名] com_ev_26_458_02
+1631437795,「…………」,"""............""",[P名] com_ev_26_458_02
+-152503728,「へっ！　ど、どうして俺の上に……？」,"""Why, why on top of me ...?""",[P名] com_ev_26_458_02
+-1122264254,「フフッ……エッチ、したかったの……」,"""Fuh ... ... I wanted to etch, ... ....""",[H名] com_ev_26_464_00
+1631437795,「…………」,"""............""",[P名] com_ev_26_464_00
+-1737891289,「……？　どうしたの」,"""……? What's wrong""",[H名] com_ev_26_226
+492694885,「いや、ちょっと驚いてただけだよ。えっと、続きをお願いしていいかな？」,"""No, I was just a little surprised. Well, may I ask your continuance?""",[P名] com_ev_26_226
+123400274,「……ん……いいよ。いっぱい、気持ちよくするね……」,"""...... I do not mind ... a lot of it makes you feel good ...""",[H名] h_ka_26_02_021
+237545821,「すぅ……すぅ……ん、んん……」,"""Wow ...... ... ....""",[P名] h_ka_26_02_021
+-1580221366,（んぅ……ん……なんか、下半身に違和感が……？）,"(... ... ... something, I feel something wrong with the lower body ...?",[P名] h_ka_26_02_021
+1538875804,「…………」,"""............""",[P名] h_ka_26_02_021
+-363383734,「って……え？　え？」,"""Huh ... what ...?""",[P名] h_ka_26_02_021
+1519784213,「……おはよう。ぐっすり、寝てたね」,"""... Good morning, you were sound asleep, right?""",[H名] adm_00_26_009
+577420980,「……もしかして、ずっとこうしてたの？」,"""... Did you mean, have you been doing this for a long time?""",[P名] adm_00_26_009
+-335358315,「うん……おちんちん、辛そうだったから……」,"""Yeah ... .... Penny, it looked so spicy ...""",[H名] com_ev_26_459_00
+-1124622203,「すぅ……すぅ…………ん、んん……」,"""Wow ... ... ... ... ... ....""",[P名] com_ev_26_459_00
+946014845,（んぅ……ん……なにか、やわらかいものが……あたって……？）,"(... ... ... something, something soft ... ... ...?",[P名] com_ev_26_459_00
+1135166041,「…………」,"""............""",[P名] com_ev_26_459_00
+1338146142,「……って、え？　え？」,"""... Wait, huh?""",[P名] com_ev_26_459_00
+2112589768,「おっぱい……気持ち、いいかな？」,"""Boob ... ... Do you feel good?""",[H名] h_hh_26_02_003
+1416739383,「っ、気持ちいいけど……どうしたの……？」,"""Well, it feels good ... but what's wrong ...?""",[P名] h_hh_26_02_003
+-721633906,「ん……エッチな気分……だったから」,"""... ... It was a horny mood ......""",[H名] adv_ev_26_170

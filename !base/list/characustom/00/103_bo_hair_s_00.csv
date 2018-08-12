@@ -1,8 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,ThumbAB,ThumbTex
-"0","0","1","なし","abdata","chara/etc.unity3d","p_dummy","chara/etc.unity3d","thumb_none"
-"1","0","1","ほそロング","abdata","chara/bo_hair_s_00.unity3d","p_cf_hair_s_01","chara/thumb/bo_hair_s_00.unity3d","p_cf_hair_s_01"
-"2","0","1","おさげ","abdata","chara/bo_hair_s_00.unity3d","p_cf_hair_s_02","chara/thumb/bo_hair_s_00.unity3d","p_cf_hair_s_02"
-"3","0","1","太い","abdata","chara/bo_hair_s_00.unity3d","p_cf_hair_s_03","chara/thumb/bo_hair_s_00.unity3d","p_cf_hair_s_03"
-"4","0","1","ふとロング","abdata","chara/bo_hair_s_00.unity3d","p_cf_hair_s_05","chara/thumb/bo_hair_s_00.unity3d","p_cf_hair_s_05"
-"6","0","1","はねロング","abdata","chara/bo_hair_s_00.unity3d","p_cf_hair_s_07","chara/thumb/bo_hair_s_00.unity3d","p_cf_hair_s_07"
-"7","0","1","ウェーブロング","abdata","chara/bo_hair_s_00.unity3d","p_cf_hair_s_06","chara/thumb/bo_hair_s_00.unity3d","p_cf_hair_s_06"

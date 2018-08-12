@@ -1,3 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,NormalData,StateType,Coordinate,Sex,OverBodyMaskAB,OverBodyMask,OverBraMaskAB,OverBraMask,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,KokanHide,ThumbAB,ThumbTex
-"19","2","2","全身タイツ","add10","chara/co_bra_10.unity3d","p_o_bodytights","0","0","2","3","0","0","0","0","0","cf_bodytights_t","0","cf_bodytights_mc","0","0","0","0","1","chara/thumb/co_bra_10.unity3d","p_o_bodytights"
-"20","2","2","大人ワンピース","add10","chara/co_bra_10.unity3d","p_o_top_swim_otona","0","0","2","3","0","0","0","0","0","cf_swim_otonaonpi_d_t","0","cf_swim_otonaonpi_d_mc","0","cf_swim_otonaonpi_n_t","0","cf_swim_otonaonpi_d_mc","1","chara/thumb/co_bra_10.unity3d","p_o_top_swim_otona"

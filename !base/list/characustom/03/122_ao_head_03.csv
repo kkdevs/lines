@@ -1,4 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,HideHair,ThumbAB,ThumbTex
-"27","1","2","猫耳（右）","add03","chara/ao_head_03.unity3d","p_acs_catear_R","a_n_headtop","0","chara/thumb/ao_head_03.unity3d","p_acs_catear_R"
-"28","1","2","猫耳（左）","add03","chara/ao_head_03.unity3d","p_acs_catear_L","a_n_headtop","0","chara/thumb/ao_head_03.unity3d","p_acs_catear_L"
-"29","0","2","鈴付きリボン","add03","chara/ao_head_03.unity3d","p_acs_head_catribon","a_n_headflont","0","chara/thumb/ao_head_03.unity3d","p_acs_head_catribon"

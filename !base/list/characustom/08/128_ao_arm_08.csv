@@ -1,7 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
-"21","0","2","メカショルダー","add08","chara/ao_arm_08.unity3d","p_acs_meka2_b","a_n_shoulder_L","chara/thumb/ao_arm_08.unity3d","p_acs_meka_2_b"
-"22","0","2","メカ装甲５","add08","chara/ao_arm_08.unity3d","p_acs_meka2_c","a_n_wrist_L","chara/thumb/ao_arm_08.unity3d","p_acs_meka_2_c"
-"23","0","2","メカ装甲６","add08","chara/ao_arm_08.unity3d","p_acs_meka2_d","a_n_arm_L","chara/thumb/ao_arm_08.unity3d","p_acs_meka_2_d"
-"24","0","2","メカ装甲６×３","add08","chara/ao_arm_08.unity3d","p_acs_meka2_d_2","a_n_arm_L","chara/thumb/ao_arm_08.unity3d","p_acs_meka_2_d_2"
-"25","0","2","メカシールドⅡ","add08","chara/ao_arm_08.unity3d","p_acs_meka2_f","a_n_arm_L","chara/thumb/ao_arm_08.unity3d","p_acs_meka_2_f"
-"26","0","2","メカブースターⅡ","add08","chara/ao_arm_08.unity3d","p_acs_meka2_h","a_n_arm_L","chara/thumb/ao_arm_08.unity3d","p_acs_meka_2_h"

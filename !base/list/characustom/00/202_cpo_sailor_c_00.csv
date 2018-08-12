@@ -1,8 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,ThumbAB,ThumbTex
-"0","0","1","なし","abdata","chara/etc.unity3d","p_dummy","0","0","0","0","0","0","0","0","chara/etc.unity3d","thumb_none"
-"1","0","1","タイプ１","abdata","chara/cpo_sailor_c_00.unity3d","p_o_top_sailor02_03","0","cf_top_sailor02_03_t","0","cf_top_sailor02_03_mc","0","0","0","0","chara/thumb/cpo_sailor_c_00.unity3d","p_o_top_sailor02_03"
-"2","0","1","タイプ２","abdata","chara/cpo_sailor_c_00.unity3d","p_o_top_sailor03_03","0","cf_top_sailor03_03_t","0","cf_top_sailor03_03_mc","0","0","0","0","chara/thumb/cpo_sailor_c_00.unity3d","p_o_top_sailor03_03"
-"3","0","1","タイプ３","abdata","chara/cpo_sailor_c_00.unity3d","p_o_top_sailor04_03","0","cf_top_sailor04_03_t","0","cf_top_sailor04_03_mc","0","0","0","0","chara/thumb/cpo_sailor_c_00.unity3d","p_o_top_sailor04_03"
-"4","0","1","タイプ４","abdata","chara/cpo_sailor_c_00.unity3d","p_o_top_sailor05_03","0","cf_top_sailor05_03_t","0","cf_top_sailor05_03_mc","0","0","0","0","chara/thumb/cpo_sailor_c_00.unity3d","p_o_top_sailor05_03"
-"5","0","1","タイプ５","abdata","chara/cpo_sailor_c_00.unity3d","p_o_top_sailor01_03","0","cf_top_sailor01_03_t","0","cf_top_sailor01_03_mc","0","0","0","0","chara/thumb/cpo_sailor_c_00.unity3d","p_o_top_sailor01_03"
-"6","0","1","タイプ６","abdata","chara/cpo_sailor_c_00.unity3d","p_o_top_sailor06_03","0","cf_top_sailor06_03_t","0","cf_top_sailor06_03_mc","0","0","0","0","chara/thumb/cpo_sailor_c_00.unity3d","p_o_top_sailor06_03"

@@ -1,4 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,StateType,Coordinate,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,KokanHide,ThumbAB,ThumbTex
-"36","0","2","巫女スカート","add06","chara/co_bot_06.unity3d","p_o_misya_bot","0","0","0","cf_misya_bot_t","0","cf_misya_bot_mc","0","0","0","0","1","chara/thumb/co_bot_06.unity3d","p_o_misya_bot"
-"37","0","2","鬼神の装束A(下)","add06","chara/co_bot_06.unity3d","p_o_bot_onimawashi","0","0","0","cf_bot_oni_d_t","0","cf_bot_oni_d_mc","0","0","0","0","1","chara/thumb/co_bot_06.unity3d","p_o_bot_onimawashi"
-"38","0","2","鬼神の装束B(下)","add06","chara/co_bot_06.unity3d","p_o_bot_oni","1","0","0","cf_bot_oni_d_t","0","cf_bot_oni_d_mc","0","0","0","0","1","chara/thumb/co_bot_06.unity3d","p_o_bot_oni"

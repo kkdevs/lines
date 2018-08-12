@@ -1,4 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
-"21","0","2","騎士の腰当右用","add09","chara/ao_waist_09.unity3d","p_acs_waist_knightR","a_n_waist_R","chara/thumb/ao_waist_09.unity3d","p_acs_waist_knightR"
-"22","0","2","騎士の腰当左用","add09","chara/ao_waist_09.unity3d","p_acs_waist_knightL","a_n_waist_L","chara/thumb/ao_waist_09.unity3d","p_acs_waist_knightL"
-"20","0","2","ロングソードの鞘","add09","chara/ao_waist_09.unity3d","p_acs_longsword_saya","a_n_waist_L","chara/thumb/ao_waist_09.unity3d","p_acs_longsword_saya"

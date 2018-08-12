@@ -1,7 +1,0 @@
-ID,Kind,Possess,Name,MainAB,NormallMapDetail,LineMask,ThumbAB,ThumbTex
-"0","0","1","なし","0","0","0","chara/etc.unity3d","thumb_none"
-"2","0","1","シワ","chara/mt_face_detail_00.unity3d","cf_face_01_n","cf_face_01_line","chara/thumb/mt_face_detail_00.unity3d","thumb_face_detail_01"
-"3","0","1","強調１","chara/mt_face_detail_00.unity3d","cf_face_02_n","cf_face_02_line","chara/thumb/mt_face_detail_00.unity3d","thumb_face_detail_02"
-"5","0","1","強調２","chara/mt_face_detail_00.unity3d","cf_face_04_n","cf_face_04_line","chara/thumb/mt_face_detail_00.unity3d","thumb_face_detail_04"
-"1","0","1","境界線","chara/mt_face_detail_00.unity3d","cf_face_00_n","cf_face_00_line","chara/thumb/mt_face_detail_00.unity3d","thumb_face_detail_00"
-"4","0","1","目周りの影","chara/mt_face_detail_00.unity3d","cf_face_03_n","cf_face_03_line","chara/thumb/mt_face_detail_00.unity3d","thumb_face_detail_03"

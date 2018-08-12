@@ -1,7 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
-"28","0","2","タングルショルダー右用","add09","chara/ao_arm_09.unity3d","p_acs_bat_shoulder_R","a_n_arm_R","chara/thumb/ao_arm_09.unity3d","p_acs_bat_shoulder_R"
-"27","0","2","タングルショルダー左用","add09","chara/ao_arm_09.unity3d","p_acs_bat_shoulder_L","a_n_arm_L","chara/thumb/ao_arm_09.unity3d","p_acs_bat_shoulder_L"
-"29","0","2","騎士の肩当て右用","add09","chara/ao_arm_09.unity3d","p_acs_arm_knightR","a_n_arm_R","chara/thumb/ao_arm_09.unity3d","p_acs_arm_knightR"
-"30","0","2","騎士の肩当て左用","add09","chara/ao_arm_09.unity3d","p_acs_arm_knightL","a_n_arm_L","chara/thumb/ao_arm_09.unity3d","p_acs_arm_knightL"
-"32","0","2","鎧肩当て右用","add09","chara/ao_arm_09.unity3d","p_acs_armorshoulder_cm_R","a_n_arm_R","chara/thumb/ao_arm_09.unity3d","p_acs_armorshoulder_cm_R"
-"31","0","2","鎧肩当て左用","add09","chara/ao_arm_09.unity3d","p_acs_armorshoulder_cm_L","a_n_arm_L","chara/thumb/ao_arm_09.unity3d","p_acs_armorshoulder_cm_L"

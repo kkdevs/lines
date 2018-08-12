@@ -1,8 +1,0 @@
-ID,Kind,Possess,Name,MainTexAB,MainTex
-"4","0","1","浅いなめらか影","chara/mt_ramp_00.unity3d","gt_ramp_04"
-"5","0","1","浅いくっきり影","chara/mt_ramp_00.unity3d","gt_ramp_05"
-"2","0","1","深いなめらか影","chara/mt_ramp_00.unity3d","gt_ramp_02"
-"1","0","1","深いくっきり影","chara/mt_ramp_00.unity3d","gt_ramp_01"
-"3","0","1","境界線のある影","chara/mt_ramp_00.unity3d","gt_ramp_03"
-"0","0","1","完全なめらか影","chara/mt_ramp_00.unity3d","gt_ramp_00"
-"6","0","1","影なし","chara/mt_ramp_00.unity3d","gt_ramp_06"

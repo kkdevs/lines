@@ -1,2 +1,0 @@
-ID,Kind,Possess,Name,MainManifest,MainAB,MainData,NormalData,StateType,Coordinate,NotBra,Sex,OverBodyMaskAB,OverBodyMask,OverBraMaskAB,OverBraMask,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,KokanHide,ThumbAB,ThumbTex
-"33","4","2","魔法学園制服上着","add02","chara/co_top_02.unity3d","p_o_top_magic","0","0","0","0","3","chara/mt_mask_body_02.unity3d","cf_magic_body_mab","chara/mt_mask_bra_02.unity3d","cf_magic_bra_mab","0","cf_top_magic_t","0","cf_top_magic_mc","0","0","0","0","1","chara/thumb/co_top_02.unity3d","p_o_top_magic"

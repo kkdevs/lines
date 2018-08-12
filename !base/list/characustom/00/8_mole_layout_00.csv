@@ -1,9 +1,0 @@
-ID,Kind,Name,PosX,PosY,Scale,ThumbAB,ThumbTex
-"0","0","左の口元",".6",".12",".14","chara/thumb/mole_layout_00.unity3d","mole_layout_00"
-"1","0","右の口元",".4",".12",".14","chara/thumb/mole_layout_00.unity3d","mole_layout_01"
-"2","0","左の口上",".57",".18",".14","chara/thumb/mole_layout_00.unity3d","mole_layout_02"
-"3","0","右の口上",".43",".18",".14","chara/thumb/mole_layout_00.unity3d","mole_layout_03"
-"4","0","左の目元",".88",".39",".57","chara/thumb/mole_layout_00.unity3d","mole_layout_04"
-"5","0","右の目元",".12",".39",".57","chara/thumb/mole_layout_00.unity3d","mole_layout_05"
-"6","0","額中央",".5",".75",".71","chara/thumb/mole_layout_00.unity3d","mole_layout_06"
-"7","0","そばかす",".5",".33",".43","chara/thumb/mole_layout_00.unity3d","mole_layout_07"

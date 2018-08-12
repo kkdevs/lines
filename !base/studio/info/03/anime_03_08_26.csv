@@ -1,0 +1,8 @@
+"","","","","",""
+"管理番号","大きい項目","中間項目","表示名","バンドルパス","ファイル名","クリップ名"
+"0","8","26","攻撃１","studio/anime/03.unity3d","f_01_FightB","attack_00"
+"1","8","26","攻撃２","studio/anime/03.unity3d","f_01_FightB","attack_01"
+"2","8","26","攻撃３","studio/anime/03.unity3d","f_01_FightB","attack_02"
+"3","8","26","攻撃４","studio/anime/03.unity3d","f_01_FightB","attack_03"
+"4","8","26","防御","studio/anime/03.unity3d","f_01_FightB","defense_00"
+"5","8","26","倒れる","studio/anime/03.unity3d","f_01_FightB","down_00"

@@ -1,0 +1,1270 @@
+map_00_00,スフィア(通常）,Sphere (normal)
+p_koi_stu_cube01_02,キューブ(通常）,Cube (normal)
+p_koi_stu_pyramid01_02,ピラミッド(通常）,Pyramid (normal)
+p_koi_stu_cone01_02,コーン(通常）,Cone (normal)
+p_koi_stu_cylinder01_02,シリンダー(通常）,Cylinder (normal)
+p_koi_stu_octahedron01_02,クリスタル(通常）,Crystal (normal)
+p_koi_stu_torus01_02,リング(通常）,Ring (normal)
+p_koi_stu_star01_02,星1(通常）,Star 1 (normal)
+p_koi_stu_kihon01_00,星2(通常）,Star 2 (normal)
+p_koi_stu_kihon02_00,星3(通常）,Star 3 (normal)
+p_koi_stu_kihon09_00,星4(通常）,Star 4 (normal)
+p_koi_stu_heart01_02,ハート1(通常）,Heart 1 (normal)
+p_koi_stu_kihon13_00,ハート2(通常）,Heart 2 (normal)
+p_koi_stu_claw01_02,爪(通常）,Nail (Normal)
+p_koi_stu_tube01_02,筒(通常）,Tubular (normal)
+p_koi_stu_tube03_01_02,筒2(通常）,Tube 2 (normal)
+p_koi_stu_pipe01_01_02,パイプ1(通常）,Pipe 1 (normal)
+p_koi_stu_pipe03_01_02,パイプ2(通常）,Pipe 2 (normal)
+p_koi_stu_trapezoid00_01_02,台形1(通常）,Trapezoid 1 (normal)
+p_koi_stu_trapezoid01_01_02,台形2(通常）,Trapezoid 2 (normal)
+p_koi_stu_arrow00_01_02,矢印1(通常）,Arrow 1 (Normal)
+p_koi_stu_arrow01_01_02,矢印2(通常）,Arrow 2 (normal)
+p_koi_stu_arrow02_01_02,矢印3(通常）,Arrow 3 (normal)
+p_koi_stu_anacube00_01_02,穴あきキューブ(通常）,Perforated cube (normal)
+p_koi_stu_corner00_01_02,直角1(通常）,Right angle 1 (normal)
+p_koi_stu_corner01_01_02,直角2(通常）,Right angle 2 (normal)
+p_koi_stu_corner03_01_02,直角3(通常）,Right angle 3 (normal)
+p_koi_stu_kihon00_00,三日月1(通常）,Crescent 1 (Normal)
+p_koi_stu_kihon04_00,三日月2(通常）,Crescent 2 (Normal)
+p_koi_stu_kihon06_00,三日月3(通常）,Crescent 3 (normal)
+p_koi_stu_kihon03_00,十字(通常）,Cross (normal)
+p_koi_stu_kihon08_00,Ｖ字(通常）,V character (normal)
+p_koi_stu_kihon05_00,穴あき楕円(通常）,Perforated oval (normal)
+p_koi_stu_kihon07_00,先尖り棒(通常）,Pointed bar (normal)
+p_koi_stu_kihon10_00,三角(通常）,Triangular (normal)
+p_koi_stu_kihon11_00,穴あき三角(通常),Perforated triangle (normal)
+p_koi_stu_kihon12_00,弧1(通常）,Arc 1 (normal)
+p_koi_stu_arc01_01_02,弧2(通常）,Arc 2 (normal)
+p_koi_stu_arc02_01_02,弧3(通常）,Arc 3 (normal)
+p_koi_stu_cqcircle_01_02,四分円(通常）,Quadrant (normal)
+p_koi_stu_cscircle_01_02,半円(通常）,Semicircle (normal)
+p_koi_stu_pentagon01_01_02,五角形(通常）,Pentagon (normal)
+p_koi_stu_hexagon01_01_02,六角形(通常）,Hexagon (normal)
+p_koi_stu_hexagon02_01_02,穴あき六角形(通常）,Perforated hexagon (normal)
+p_koi_stu_octagon01_01_02,八角形(通常）,Octagon (normal)
+p_koi_stu_chead01_02,頭(通常）,Head (normal)
+p_koi_stu_kihon14_00,平面（通常）,Flat (normal)
+p_koi_stu_kihon15_00,輪(通常),Ring (Normal)
+p_koi_stu_kihon16_00,カプセル(通常),Capsule (normal)
+p_koi_stu_trapezoid02_01_02,正台形(通常),Positive trapezoid (normal)
+p_koi_stu_sphere00_02,スフィア(キャラ),Sphere (character)
+p_koi_stu_cube00_02,キューブ(キャラ）,Cube (character)
+p_koi_stu_pyramid00_02,ピラミッド(キャラ）,Pyramid (character)
+p_koi_stu_cone00_02,コーン(キャラ）,Cone (character)
+p_koi_stu_cylinder00_02,シリンダー(キャラ）,Cylinder (character)
+p_koi_stu_octahedron00_02,クリスタル(キャラ）,Crystal (character)
+p_koi_stu_torus00_02,リング(キャラ）,Ring (character)
+p_koi_stu_star00_02,星1(キャラ）,Star 1 (character)
+p_koi_stu_kihon01c_00,星2(キャラ）,Star 2 (character)
+p_koi_stu_kihon02c_00,星3(キャラ）,Star 3 (character)
+p_koi_stu_kihon09c_00,星4(キャラ）,Star 4 (character)
+p_koi_stu_heart00_02,ハート1(キャラ）,Heart 1 (character)
+p_koi_stu_kihon13c_00,ハート2(キャラ）,Heart 2 (character)
+p_koi_stu_claw00_02,爪(キャラ）,Nail (character)
+p_koi_stu_tube00_02,筒(キャラ）,Cylinder (character)
+p_koi_stu_tube03_00_02,筒2(キャラ）,Cylinder 2 (character)
+p_koi_stu_pipe01_00_02,パイプ1(キャラ）,Pipe 1 (character)
+p_koi_stu_pipe03_00_02,パイプ2(キャラ）,Pipe 2 (character)
+p_koi_stu_trapezoid00_00_02,台形1(キャラ）,Trapezoid 1 (character)
+p_koi_stu_trapezoid01_00_02,台形2(キャラ）,Trapezoid 2 (character)
+p_koi_stu_arrow00_00_02,矢印1(キャラ）,Arrow 1 (character)
+p_koi_stu_arrow01_00_02,矢印2(キャラ）,Arrow 2 (character)
+p_koi_stu_arrow02_00_02,矢印3(キャラ）,Arrow 3 (character)
+p_koi_stu_anacube00_00_02,穴あきキューブ(キャラ）,Perforated cube (character)
+p_koi_stu_corner00_00_02,直角1(キャラ）,Right angle 1 (character)
+p_koi_stu_corner01_00_02,直角2(キャラ）,Right angle 2 (character)
+p_koi_stu_corner03_00_02,直角3(キャラ）,Right angle 3 (character)
+p_koi_stu_kihon00c_00,三日月1(キャラ）,Crescent 1 (Character)
+p_koi_stu_kihon04c_00,三日月2(キャラ）,Crescent 2 (Character)
+p_koi_stu_kihon06c_00,三日月3(キャラ）,Crescent 3 (Character)
+p_koi_stu_kihon03c_00,十字(キャラ）,Cross (character)
+p_koi_stu_kihon08c_00,Ｖ字(キャラ）,V character (character)
+p_koi_stu_kihon05c_00,穴あき楕円(キャラ）,Perforated ellipse (character)
+p_koi_stu_kihon07c_00,先尖り棒(キャラ）,Pointed bar (character)
+p_koi_stu_kihon10c_00,三角(キャラ）,Triangle (character)
+p_koi_stu_kihon11c_00,穴あき三角(キャラ）,A perforated triangle (character)
+p_koi_stu_kihon12c_00,弧1(キャラ）,Arc 1 (character)
+p_koi_stu_arc01_00_02,弧2(キャラ）,Arc 2 (character)
+p_koi_stu_arc02_00_02,弧3(キャラ）,Arc 3 (character)
+p_koi_stu_cqcircle_00_02,四分円(キャラ）,Quadrant (character)
+p_koi_stu_cscircle_00_02,半円(キャラ）,Semicircle (character)
+p_koi_stu_pentagon01_00_02,五角形(キャラ）,Pentagon (character)
+p_koi_stu_hexagon01_00_02,六角形(キャラ）,Hexagon (character)
+p_koi_stu_hexagon02_00_02,穴あき六角形(キャラ）,Hole hexagon with a hole (character)
+p_koi_stu_octagon01_00_02,八角形(キャラ）,Octagon (character)
+p_koi_stu_chead00_02,頭(キャラ）,Head (character)
+p_koi_stu_kihon14c_00,平面（キャラ）,Plane (character)
+p_koi_stu_kihon15c_00,輪(キャラ),Ring (character)
+p_koi_stu_kihon16c_00,カプセル(キャラ),Capsule (character)
+p_koi_stu_trapezoid02_00_02,正台形(キャラ),Positive Trapezoid (character)
+p_koi_stu_tatami00_00,畳1,Tatami 1
+p_koi_stu_tatami01_00,畳2,Tatami 2
+p_koi_stu_tatami02_00,畳3,Tatami 3
+p_koi_stu_tatami03_00,畳4,Tatami 4
+p_koi_stu_tatami04_00,畳5,Tatami 5
+p_koi_stu_irori00_00,囲炉裏,hearth
+o_koi_stu_asufaruto00_01,アスファルト床1,Asphalt floor 1
+o_koi_stu_yuka_03_01,アスファルト床2,Asphalt floor 2
+o_koi_stu_yuka_04_01,アスファルト床3,Asphalt floor 3
+o_koi_stu_cyurinyuka00_01,アスファルト床4,Asphalt floor 4
+o_koi_stu_yuka_00_01,石床1,Stone floor 1
+o_koi_stu_yuka_01_01,石床2,Stone floor 2
+o_koi_stu_ishigaki00_01,石畳1,Cobblestone 1
+o_koi_stu_ishigaki01_01,石畳2,Cobblestone 2
+o_koi_stu_yuka_05_01,レンガ床1,Brick Floor 1
+o_koi_stu_yuka_06_01,レンガ床2,Brick Floor 2
+o_koi_stu_yuka_08_01,タイル床１,Tile floor 1
+o_koi_stu_yuka_09_01,タイル床2,Tile floor 2
+p_koi_stu_shawer03_00,タイル床3,Tile floor 3
+o_koi_stu_nyuka00_01,校内床,School floor
+p_koi_stu_taiikuyuka_00_00,体育館床,Gymnasium floor
+o_koi_stu_yuka_02_01,砂地1,Sand 1
+o_koi_stu_sunaba00_01,砂地2,Sand land 2
+o_koi_stu_yuka_10_01,地面(土),Ground (earth)
+o_koi_stu_kadan00_01,花壇1,Flowerbed 1
+o_koi_stu_kadan01_01,花壇2,Flower garden 2
+o_koi_stu_block02_01,花壇3,Flowerbed 3
+o_koi_stu_yuka_07_01,草原,Prairie
+p_koi_stu_umi00_00,水面(海),Water surface (sea)
+p_koi_stu_kawa00_00,水面(川),Water surface (river)
+p_koi_stu_husuma00_00,襖1,Fusuma 1
+p_koi_stu_husuma01_00,襖2,Sliding door 2
+o_koi_stu_watobira00_01,ガラス入り障子,Glazed Shoji
+p_koi_stu_syouzi00_00,障子1,Shoji 1
+p_koi_stu_syouzi01_00,障子2,Shoji 2
+p_koi_stu_to00_00,戸,door
+p_koi_stu_toiletdoa00_00,トイレドア1,Toilet door 1
+p_koi_stu_toiletdoa01_00,トイレドア2,Toilet door 2
+p_koi_stu_shawerdoa00_00,シャワー室ドア,Shower room door
+o_koi_stu_wall00_01,石壁1,Stone wall 1
+p_koi_stu_wallita01_01,石壁2,Stone wall 2
+p_koi_stu_wallita02_01,石壁3,Stone wall 3
+o_koi_stu_ishirwnga00_01,石壁4,Stone wall 4
+o_koi_stu_hashira00_01,石柱,Stone column
+o_koi_stu_kihashira00_01,木柱,Wooden pillar
+o_koi_stu_kinokabe00_01,木製壁,Wooden wall
+o_koi_stu_block00_01,ブロック壁1,Block wall 1
+o_koi_stu_block01_01,ブロック壁2,Block wall 2
+p_koi_stu_wallita00_01,ブロック壁3,Block wall 3
+p_koi_stu_taikukabe00_00,体育館壁,Gymnasium wall
+o_koi_stu_kokuban00_01,黒板,blackboard
+o_koi_stu_mado00_01,窓,window
+p_koi_stu_screen00_00,スクリーン,screen
+p_koi_stu_kaidan00_00,階段(木),Stairs (Thursday)
+o_koi_stu_kaidan00_01,石階段1,Stone staircase 1
+o_koi_stu_kaidan01_01,石階段2,Stone staircase 2
+p_koi_stu_skyhiru00_01,青空,blue sky
+p_koi_stu_skyyugata00_01,夕空,Evening sky
+p_koi_stu_skyyo00_01,夜空,night sky
+p_koi_stu_plane00_00,長方形,Rectangle
+p_koi_stu_saku00_00,柵,fence
+o_koi_stu_takesaku00_01,竹柵,Bamboo fence
+o_koi_stu_kfen00_01,金網フェンス,Wire mesh fence
+o_koi_stu_kiobj00_01,木製コーナー,Wooden corner
+p_koi_stu_kabehako00_00,壁ボックス1,Wall Box 1
+p_koi_stu_kabehako02_00,壁ボックス2,Wall Box 2
+p_koi_stu_kabehako03_00,壁ボックス3,Wall Box 3
+p_koi_stu_bord00_00,ホワイトボード1,Whiteboard 1
+p_koi_stu_bord01_00,ホワイトボード2,Whiteboard 2
+p_koi_stu_bord02_00,ホワイトボード3,Whiteboard 3
+p_koi_stu_kanban01_00,立て看板,Signboard
+p_koi_stu_tyui00_00,注意看板,Attention sign
+o_koi_stu_shishio00_01,ししおどし,Shishido
+o_koi_stu_iwa00_01,岩1,Rock 1
+o_koi_stu_iwa01_01,岩2,Rock 2
+o_koi_stu_iwa02_01,岩3,Rock 3
+o_koi_stu_iwa03_01,岩4,Rock 4
+o_koi_stu_iwa04_01,岩5,Rock 5
+p_koi_stu_tekkotu00_00,鉄骨,Steel frame
+o_koi_stu_guardrail00_01,ガードレール,guardrail
+o_koi_stu_cyurin00_01,駐輪場屋根,Bicycle parking lot
+o_koi_stu_wrouka00_01,渡り廊下,Bridges
+o_koi_stu_denwabox00_01,公衆電話,Public phone
+o_koi_stu_gasutou00_01,街頭,Street
+o_koi_stu_bir00_01,ビル1,Building 1
+o_koi_stu_bir01_01,ビル2,Building 2
+o_koi_stu_bir02_01,ビル3,Building 3
+o_koi_stu_bir03_01,ビル4,Building 4
+o_koi_stu_bir04_01,公衆トイレ,Public toilet
+p_koi_stu_bed00_00,自室ベッド,Your own bed
+p_koi_stu_bed01_00,保健室ベッド,Health room bed
+o_koi_stu_futon00_01,布団,futon
+p_koi_stu_desk00_00,机1,Desk 1
+p_koi_stu_desk02_00,机2,Desk 2
+p_koi_stu_desk01_00,折り畳み用机,Folding desk
+p_koi_stu_desk03_00,コーナー机,Corner desk
+p_koi_stu_kyoudan00_00,教壇,Teacher
+p_koi_stu_table00_00,四角テーブル,Square table
+p_koi_stu_table01_00,三角テーブル,Triangular table
+p_koi_stu_desk07_00,長テーブル低,Long table low
+p_koi_stu_desk08_00,長テーブル高,Long table height
+p_koi_stu_desk09_00,丸テーブル高,Round table height
+p_koi_stu_lowtable00_00,ちゃぶ台1,Cabbage table 1
+p_koi_stu_desk04_00,ちゃぶ台2,Shabu-bot 2
+p_koi_stu_desk06_00,食堂テーブル,Dining room table
+p_koi_stu_desk05_00,食堂長テーブル,Dining room length table
+p_koi_stu_gtable00_00,ガラステーブル(四角),Glass table (square)
+p_koi_stu_gtable01_00,ガラステーブル(円),Glass table (circle)
+p_koi_stu_desk00_01,教室机,Classroom desk
+p_koi_stu_kyoutaku00_01,教卓,Teacher
+p_koi_stu_isu00_00,椅子1,Chair 1
+p_koi_stu_isu03_00,椅子2,Chair 2
+p_koi_stu_isu06_00,食堂椅子1,Dining room chair 1
+p_koi_stu_isu07_00,食堂椅子2,Dining room chair 2
+p_koi_stu_isu04_00,丸椅子,A round chair
+p_koi_stu_isu05_00,木椅子,Wooden chair
+p_koi_stu_isu01_00,パイプ椅子1,Pipe chair 1
+p_koi_stu_isu02_00,パイプ椅子2,Pipe chair 2
+p_koi_stu_isu10_00,パイプ椅子3,Pipe chair 3
+p_koi_stu_zaisu00_00,座椅子,Seat chair
+p_koi_stu_nisu05_00,長椅子1,Chaise lounge 1
+p_koi_stu_nisu06_00,長椅子2,Chaise lounge 2
+p_koi_stu_nisu00_00,ソファ1,Sofa 1
+p_koi_stu_nisu01_00,ソファ2,Sofa 2
+o_koi_stu_sofa00_01,豪華ソファ1,Luxury sofa 1
+o_koi_stu_sofa01_01,豪華ソファ2,Luxury sofa 2
+p_koi_stu_nisu02_00,ベンチ1,Bench 1
+p_koi_stu_nisu03_00,ベンチ2,Bench 2
+p_koi_stu_nisu04_00,ベンチ3,Bench 3
+p_koi_stu_isu09_00,監視台,Monitoring table
+p_koi_stu_nisu07_00,和風長椅子1,Japanese style chaise longue 1
+p_koi_stu_nisu08_00,和風長椅子2,Japanese style chaise lounge 2
+p_koi_stu_isu00_01,教室椅子,Classroom chair
+p_koi_stu_reel00_00,仕切りカーテン,Partition curtain
+p_koi_stu_reel01_00,カーテンレール1,Curtain rail 1
+p_koi_stu_reel02_00,カーテンレール2,Curtain rail 2
+p_koi_stu_reel03_00,カーテン1,Curtain 1
+p_koi_stu_reel04_00,カーテン2,Curtain 2
+p_koi_stu_braind00_00,ブラインド1,Blind 1
+p_koi_stu_braind01_00,ブラインド2,Blind 2
+p_koi_stu_braind02_00,ブラインド3,Blind 3
+p_koi_stu_braind03_00,ブラインド4,Blind 4
+p_koi_stu_part00_00,パーテーション,Partition
+p_koi_stu_shawerwall00_00,シャワー室仕切り1,Shower room partition 1
+p_koi_stu_shawerwall01_00,シャワー室仕切り2,Shower room partition 2
+p_koi_stu_shawerwall02_00,シャワー室仕切り3,Shower room partition 3
+p_koi_stu_toiletwall00_00,トイレ仕切り1,Toilet divider 1
+p_koi_stu_toiletwall01_00,トイレ仕切り2,Toilet divider 2
+p_koi_stu_toiletwall02_00,トイレ仕切り3,Toilet divider 3
+p_koi_stu_toiletwall03_00,トイレ仕切り4,Toilet divider 4
+p_koi_stu_locker01_00,ロッカー1,Locker 1
+p_koi_stu_locker01a_00,ロッカー2,Locker 2
+p_koi_stu_locker01b_00,ロッカー3,Locker 3
+p_koi_stu_locker00_00,ロッカー4,Locker 4
+p_koi_stu_tana13_00,ロッカー5,Locker 5
+p_koi_stu_tana14_00,ロッカー6,Locker 6
+p_koi_stu_shawer01_00,壁棚1,Wall shelf 1
+p_koi_stu_kabekake02_00,壁棚2,Wall shelf 2
+p_koi_stu_kodana00_00,小棚1,Small shelf 1
+p_koi_stu_kodana01_00,小棚2,Small shelf 2
+p_koi_stu_kodana02_00,小棚3,Small shelf 3
+p_koi_stu_kodana02a_00,小棚4,Small shelf 4
+p_koi_stu_kodana04_00,小棚5,Small shelf 5
+p_koi_stu_kodana05_00,小棚6,Small shelf 6
+p_koi_stu_kodana06_00,小棚7,Small shelf 7
+p_koi_stu_tana03_00,事務棚1,Office shelf 1
+p_koi_stu_tana04_00,事務棚2,Office shelf 2
+p_koi_stu_tana05_00,事務棚3,Office shelf 3
+p_koi_stu_tana06_00,事務棚4,Office shelf 4
+p_koi_stu_tana07_00,事務棚5,Office shelf 5
+p_koi_stu_tana08_00,事務棚6,Office shelf 6
+p_koi_stu_tana09_00,事務棚7,Office shelf 7
+p_koi_stu_syokkidana00_00,大棚1,Large shelf 1
+p_koi_stu_kidana00_00,大棚2,Large shelf 2
+p_koi_stu_tana00_00,自室棚1,My room rack 1
+p_koi_stu_tana00a_00,自室棚2,My room rack 2
+p_koi_stu_tana01_00,自室棚3,My room rack 3
+p_koi_stu_tana02_00,自室棚4,My room rack 4
+p_koi_stu_tvtana00_00,自室棚5,My room rack 5
+p_koi_stu_kitana00_00,図書室棚1,Library Shelf 1
+p_koi_stu_kitana00a_00,図書室棚2,Library shelf 2
+p_koi_stu_kitana01_00,図書室棚3,Library Shelf 3
+p_koi_stu_kitana01a_00,図書室棚4,Library shelf 4
+p_koi_stu_kitana02_00,図書室棚5,Library shelves 5
+p_koi_stu_kitana02a_00,図書室棚6,Library shelf 6
+p_koi_stu_kodana03_00,棚1,Shelf 1
+p_koi_stu_tana10_00,棚2,Shelf 2
+p_koi_stu_tana11_00,棚3,Shelf 3
+p_koi_stu_tana12_00,棚4,Shelf 4
+p_koi_stu_tana15_00,棚5,Shelf 5
+p_koi_stu_tana16_00,棚6,Shelf 6
+o_koi_stu_tana00_01,棚7,Shelf 7
+p_koi_stu_tana17_00,棚8,Shelf 8
+p_koi_stu_toilet00_00,便器1,Toilet 1
+p_koi_stu_toilet01_00,便器2,Toilet 2
+p_koi_stu_toilet02_00,便器3,Toilet 3
+p_koi_stu_toilet03_00,便器4,Toilet 4
+p_koi_stu_toiletpaper00_00,トイレットペーパー1,Toilet paper 1
+p_koi_stu_toiletpaper01_00,トイレットペーパー2,Toilet paper 2
+p_koi_stu_toiletpaper02_00,トイレットペーパー3,Toilet paper 3
+p_koi_stu_dai03_00,流し台,sink
+p_koi_stu_suido00_00,水道,Water supply
+p_koi_stu_zyaguti00_00,蛇口1,Faucet 1
+p_koi_stu_zyaguti01_00,蛇口2,Faucet 2
+p_koi_stu_shawer00_00,シャワーノズル,Shower nozzle
+p_koi_stu_shawer02_00,シャワーノブ,Shower knob
+p_koi_stu_senmenki00_00,洗面器1,Basin 1
+p_koi_stu_senmenki01_00,洗面器2,Basin 2
+p_koi_stu_senmenki02_00,洗面器3,Basin 3
+p_koi_stu_baske00_00,バスケットゴール,Basketball goal
+p_koi_stu_heikin00_00,平均台,Balance beam
+p_koi_stu_kago00_00,ボール入れ,Bowl
+p_koi_stu_mat01_00,マット1,Mat 1
+p_koi_stu_mat02_00,マット2,Mat 2
+p_koi_stu_mat03_00,マット3,Mat 3
+p_koi_stu_mat04_00,マット4,Mat 4
+p_koi_stu_mat00_00,マット5,Mat 5
+p_koi_stu_tobibako00_00,跳び箱1,Leap 1
+p_koi_stu_tobibako01_00,跳び箱2,Jump 2
+p_koi_stu_tobibako02_00,踏切版,Level crossing edition
+p_koi_stu_tokuten00_00,得点台,Scoreboard
+p_koi_stu_ball00_00,ボール1,Ball 1
+p_koi_stu_ball01_00,ボール2,Ball 2
+p_koi_stu_ball02_00,ボール3,Ball 3
+p_koi_stu_ball03_00,ボール4,Ball 4
+p_koi_stu_bar01_00,ハードル,hurdle
+p_koi_stu_poolrope00_00,プールロープ1,Pool rope 1
+p_koi_stu_poolrope01_00,プールロープ2,Pool rope 2
+p_koi_stu_tobikomi00,飛び込み台1,Diving board 1
+p_koi_stu_tobikomi01,飛び込み台2,Diving board 2
+p_koi_stu_tobikomi02,飛び込み台3,Diving board 3
+p_koi_stu_tesuri00_00,手すり1,Handrail 1
+p_koi_stu_tesuri01_00,手すり2,Handrail 2
+p_koi_stu_tesuri02_00,手すり3,Handrail 3
+p_koi_stu_tesuri03_00,手すり4,Handrail 4
+o_koi_stu_cyourei00_01,朝礼台,A chapel
+o_koi_stu_goal00_01,サッカーゴール,Soccer goal
+o_koi_stu_roller00_01,ローラー,roller
+o_koi_stu_saku00_01,ネット,Net
+p_koi_stu_kusa01_00,観葉植物1,Houseplant 1
+p_koi_stu_kusa02_00,観葉植物2,Houseplant 2
+p_koi_stu_kusa03_00,観葉植物3,Houseplant 3
+o_koi_stu_ueki00_01,生垣1,Hedge 1
+o_koi_stu_ueki01_01,生垣2,Hedge 2
+o_koi_stu_momizi00_01,カエデ,Maple
+o_koi_stu_ki_02_01,木,wood
+p_koi_stu_pall00_00,ポール,Pole
+p_koi_stu_bangasa01_00,野点傘,Umbrella
+o_koi_stu_touki02_01,ウサギの置物,Rabbit figurine
+o_koi_stu_tanuki_00_01,狸の置物,Raccoon ornament
+o_stneo_hako00,木箱,wooden box
+p_koi_stu_mokubaki00_00,三角木馬,Triangular wooden horse
+p_koi_stu_kubiki00_00,木製拘束具,Wooden restraint
+p_koi_stu_tekkyu00_00,錘,A weight
+p_koi_stu_nomimono00_00,ドリンク缶,Drink cans
+p_koi_stu_otyapet00_00,ペットボトルのお茶,PET bottle tea
+p_koi_stu_petmizu00_00,ペットボトルの水,PET bottle water
+p_koi_stu_pack00_00,パックのお茶,Pack tea
+p_koi_stu_pack01_00,いちごみるく,Ichigo Milk
+p_koi_stu_pack02_00,牛乳コーヒー,Milk coffee
+p_koi_stu_pack03_00,バナナジュース,Banana juice
+p_koi_stu_cup01_00,コーヒー,coffee
+p_koi_stu_cup02_00,受け皿,Pan
+p_koi_stu_cup00_00,抹茶ラテ,Matcha Latte
+p_koi_stu_sadotyawan00_00,茶碗,Cup
+p_koi_stu_tyasen00_00,茶筅,Brown rice
+p_koi_stu_cup03_00,紙コップ,paper cup
+p_koi_stu_bento00_00,弁当1,Bento 1
+p_koi_stu_bento01_00,弁当2,Lunch box 2
+p_koi_stu_bento02_00,弁当3,Lunch box 3
+p_koi_stu_ice00_00,アイスクリーム,ice cream
+p_koi_stu_kasi00_00,お茶菓子,A cake
+p_koi_stu_onigiri00_00,おにぎり,rice ball
+p_koi_stu_pans00_00,カツサンド,Katsushando
+p_koi_stu_pans01_00,サンドイッチ1,Sandwich 1
+p_koi_stu_pans02_00,サンドイッチ2,Sandwich 2
+p_koi_stu_pans03_00,メロンパン1,Melo pan 1
+p_koi_stu_pan03_00,メロンパン2,Melon pen 2
+p_koi_stu_poundcake00_00,パウンドケーキ,Pound Cake
+p_koi_stu_teisyoku00s_00,ごはん,rice
+p_koi_stu_teisyoku00_00,定食1,Set menu 1
+p_koi_stu_teisyoku01_00,定食2,Set meal 2
+p_koi_stu_teisyoku02_00,定食3,Set meal 3
+p_koi_stu_teisyoku03_00,定食4,Set menu 4
+p_koi_stu_teisyoku04_00,定食5,Set menu 5
+p_koi_stu_teisyoku05_00,定食6,Set meal 6
+p_koi_stu_banana00_00,バナナ1,Banana 1
+p_koi_stu_banana01_00,バナナ2,Banana 2
+p_koi_stu_kyuuri00_00,胡瓜,cucumber
+p_koi_stu_sausage00_00,魚肉ソーセージ,Fish sausage
+p_koi_stu_hanga00_00,ハンガー,Hanger
+p_koi_stu_hotyo00_00,包丁,Knife
+p_koi_stu_spoon00_00,スプーン,spoon
+p_koi_stu_hasi00_00,箸,chopsticks
+p_koi_stu_pen00_00,シャーペン,mechanical pencil
+p_koi_stu_pen01_00,色ペン,Color pen
+p_koi_stu_pen02_00,鉛筆,pencil
+p_koi_stu_kesigomu00_00,消しゴム,eraser
+p_koi_stu_note00_00,ノート1,Note 1
+p_koi_stu_note01_00,ノート2,Note 2
+p_koi_stu_souzi00_00,ちりとり,Dust
+p_koi_stu_souzi01_00,バケツ1,Bucket 1
+p_koi_stu_souzi02_00,バケツ2,Bucket 2
+p_koi_stu_zoukin00_00,雑巾,Dust cloth
+p_koi_stu_syouka00_00,消火器,Fire extinguisher
+p_koi_stu_kagami00_00,手鏡,hand mirror
+p_koi_stu_dai00_00,踏み台1,Step 1
+p_koi_stu_dai01_00,踏み台2,Step 2
+p_koi_stu_mat05_00,すのこ,Spinach
+p_koi_stu_harigami04_00,カレンダー1,Calendar 1
+p_koi_stu_harigami22_00,カレンダー2,Calendar 2
+p_koi_stu_hontate00_00,本立て,Freshly
+p_koi_stu_hon00_07,本1,Book 1
+p_koi_stu_hon00_05,本2,Book 2
+p_koi_stu_hon00_08,本3,Book 3
+p_koi_stu_honretu01_00,本列,This column
+p_koi_stu_note02_00,見開き本1,Two-page spread book 1
+p_koi_stu_note03_00,見開き本2,Two-page spread book 2
+p_koi_stu_note05_00,見開き本3,Two-page spread book 3
+p_koi_stu_note04_00,見開き本4,Two-page spread book 4
+p_koi_stu_komono01_00,テッシュ,Tesh
+p_koi_stu_gomibako00_00,ゴミ箱1,Trash 1
+p_koi_stu_gomibako01_00,ゴミ箱2,Trash 2
+p_koi_stu_gomibako02_00,ゴミ箱3,Trash 3
+p_koi_stu_gomibako03_00,ゴミ箱4,Trash 4
+p_koi_stu_gomibako04_00,ゴミ箱5,Trash can 5
+p_koi_stu_gomibako05_00,ゴミ箱6,Trash bin 6
+p_koi_stu_komono00_00,ダンボール1,Cardboard 1
+p_koi_stu_danbo00_00,ダンボール2,Cardboard 2
+p_koi_stu_hako00_00,ツールボックス,Tool box
+p_koi_stu_hako01_00,紙箱1,Paper box 1
+p_koi_stu_hako02_00,紙箱2,Paper box 2
+p_koi_stu_con09_00,照明スイッチ,Lighting switch
+p_koi_stu_tokei00_00,時計1,Watch 1
+p_koi_stu_tokei01_00,時計2,Watch 2
+p_koi_stu_time00_00,時計3,Watch 3
+o_koi_stu_tokei00_01,時計4,Watch 4
+p_koi_stu_aircon00_00,エアコン,Air condition
+p_koi_stu_ear00_00,イヤホン,earphone
+p_koi_stu_game00_00,ゲームコントローラー,Game controller
+p_koi_stu_denma00_00,マッサージ器,Massager
+p_koi_stu_kanki00_00,換気扇,Ventilator
+p_koi_stu_senpu00_00,サーキュレーター,circulator
+p_koi_stu_senpu01_00,レトロな扇風機,Retro Fan
+p_koi_stu_reizo01_00,冷蔵庫,refrigerator
+p_koi_stu_renzi00_00,電子レンジ,microwave
+p_koi_stu_pot00_00,ポット,pot
+p_koi_stu_smaho00_00,スマホ,smartphone
+p_koi_stu_pc00_00,ノートＰＣ,Notebook PC
+p_koi_stu_printer00_00,プリンター,printer
+p_koi_stu_compo00_00,コンポ,component
+p_koi_stu_tv00_00,テレビ1,Television 1
+p_koi_stu_tv01_00,テレビ2,Television 2
+p_koi_stu_water00_00,冷水器1,Water cooler 1
+p_koi_stu_water01_00,冷水器2,Water cooler 2
+p_koi_stu_zihanki00_00,自販機1,Vending machine 1
+p_koi_stu_zihanki01_00,自販機2,Vending machine 2
+o_koi_stu_spk00_01,教室スピーカー,Classroom speaker
+p_koi_stu_con00_00,コンセント,Outlet
+p_koi_stu_con01_00,たこ足配線1,Tako foot wiring 1
+p_koi_stu_con06_00,たこ足配線2,Tako foot wiring 2
+p_koi_stu_con07_00,たこ足配線3,Tako foot wiring 3
+p_koi_stu_con02_00,コンセントコード1,Outlet code 1
+p_koi_stu_con03_00,コンセントコード2,Outlet code 2
+p_koi_stu_con04_00,コンセントコード3,Outlet code 3
+p_koi_stu_con05_00,コンセントコード4,Outlet code 4
+p_koi_stu_con08_00,コンセントコード5,Outlet code 5
+p_koi_stu_hight00_00,身長計,Height meter
+p_koi_stu_hight01_00,座高計,Sitting height meter
+p_koi_stu_hight02_00,体重計,Weight scale
+p_koi_stu_eye00_00,視力検査機,Vision inspection machine
+p_koi_stu_dai02_00,洗面器台,Washbasin stand
+p_koi_stu_usanui00_00,うさぎの人形,Rabbit doll
+p_o_koi_ei_jitomeusagi_stu,ジト目うさぎ,Zito eyes rabbit
+p_koi_stu_gaku00_00,額縁,Picture frame
+p_koi_stu_kabekake00_00,壁掛け1,Wall hanging 1
+p_koi_stu_kabekake01_00,壁掛け2,Wall hanging 2
+p_koi_stu_komono04_00,バインダー,binder
+p_koi_stu_komono03_00,デスクマット,Desk mat
+p_koi_stu_kokukesi00_00,黒板消し,Blackboard eraser
+p_koi_stu_komono02_00,書類入れ,Document holder
+p_koi_stu_harigami02_00,掲載物1,Publication 1
+p_koi_stu_harigami13_00,掲載物2,Publication 2
+p_koi_stu_harigami14_00,掲載物3,Publication 3
+p_koi_stu_harigami19_00,掲載物４,Publication 4
+p_koi_stu_harigami23_00,漫研部チラシ,Flyer of the junior college department
+p_koi_stu_pura01_00,プラモデル1,Plastic model 1
+p_koi_stu_pura03_00,プラモデル2,Plastic model 2
+p_koi_stu_tikyuu00_00,地球儀,globe
+p_koi_stu_zyougi00_00,大型定規1,Large ruler 1
+p_koi_stu_zyougi01_00,大型定規2,Large ruler 2
+p_koi_stu_zyougi02_00,大型定規3,Large ruler 3
+p_koi_stu_colk00_00,コルクボード,Cork board
+o_koi_stu_hera00_01,木製トンボ,Wooden dragonfly
+p_koi_stu_corn00_00,カラーコーン,Color cone
+p_koi_stu_bar00_00,コーンバー,Cone bar
+p_koi_stu_syougi00_00,将棋盤,Shogi board
+p_koi_stu_syougi01_00,将棋駒入れ,Put the shogi piece
+p_koi_stu_tubo00_00,壺1,Vase 1
+p_koi_stu_tubo01_00,壺2,Vase 2
+p_koi_stu_zabuton00_00,座布団1,Cushion 1
+o_koi_stu_zabuton00_01,座布団2,Cushion 2
+p_koi_stu_kakeziku00_00,掛け軸1,Hanging scroll 1
+p_koi_stu_kakeziku01_00,掛け軸2,Hanging scroll 2
+o_koi_stu_touki00_01,陶器1,Pottery 1
+o_koi_stu_touki01_01,陶器2,Pottery 2
+p_koi_stu_sabo00_00,柄杓,Ladder
+p_koi_stu_irori01_00,釜,A pot
+p_koi_stu_rousoku00_00,蝋燭,candle
+p_koi_stu_tabako00_00,タバコ,tobacco
+p_koi_stu_masageoil00_00,マッサージオイル,Massage oil
+p_koi_stu_zyoubamuti00_00,乗馬鞭,Riding whip
+p_koi_stu_butterfly00_00,蝶の髪飾り,Butterfly's hair accessories
+p_koi_stu_flower00_00,花,flower
+p_koi_stu_flower01_00,花の髪飾り（揺れ）,Flower hair ornament (shaking)
+p_koi_stu_flower02_00,ハイビスカス,hibiscus
+p_koi_stu_flower03_00,牡丹の髪飾り,Peony's hair ornament
+p_koi_stu_hairapin00_00,ヘアピン,hairpin
+p_koi_stu_heart00_00,ハートのバレッタ,Heart's Valletta
+p_koi_stu_heart01_00,ハートの髪飾り,Heart hair ornament
+p_koi_stu_kamidome00_00,髪留め,A hair clamp
+p_koi_stu_pin00_00,安全ピン,Safety pin
+p_koi_stu_ribon00_00,大きなリボン,Big ribbon
+p_koi_stu_ribon02_00,細リボンA,Small ribbon A
+p_koi_stu_ribon01_00,細リボンB,Small ribbon B
+p_koi_stu_skull00_00,ドクロの髪飾り,Skull hair ornament
+p_koi_stu_star00_00,星のバレッタ,Star's Valletta
+p_koi_stu_star01_00,星の髪飾り,Stars hair ornament
+p_koi_stu_xpin00_00,クロスヘアピン,Cross hairpin
+p_koi_stu_ahoge00_00,あほ毛A,Aho hair A
+p_koi_stu_ahoge00a_00,あほ毛B,Baby hair B
+p_koi_stu_ahoge01_00,くるくるあほ毛A,Spinning Ahoge A
+p_koi_stu_ahoge01a_00,くるくるあほ毛B,Spinning ahoge B
+p_koi_stu_ahoge02_00,ギザギザあほ毛A,Jagged curly hair A
+p_koi_stu_ahoge02a_00,ギザギザあほ毛B,Jagged curly hair B
+p_koi_stu_ahoge03_00,ちょびあほ毛A,Chubby hair A
+p_koi_stu_ahoge03a_00,ちょびあほ毛B,Chobiho Hair B
+p_koi_stu_ahoge04_00,ハートあほ毛A,Heart aho hair A
+p_koi_stu_ahoge04a_00,ハートあほ毛B,Heart aho hair B
+p_koi_stu_bele00_00,ベレー帽,beret
+p_koi_stu_cap00_00,カラー帽子,Color hat
+p_koi_stu_hatimaki00_00,鉢巻,headband
+p_koi_stu_headband00_00,結びヘアバンド,Conclusion hair band
+p_koi_stu_headband01_00,ヘアバンド,hair band
+p_koi_stu_headhon00_00,密着型ヘッドホン,Close headphone
+p_koi_stu_headhon01_00,ヘッドホン,headphone
+p_koi_stu_mugiwara00_00,麦わら帽子,Straw Hat
+p_koi_stu_sunb00_00,サンバイザー,Sun visor
+p_koi_stu_sankakukin00_00,三角巾,Sling width
+p_koi_stu_swimcap00_00,水泳キャップ,Swimming cap
+p_koi_stu_ribon03_00,リボン,ribbon
+p_koi_stu_ribon04_00,紐リボン,String Ribbon
+p_koi_stu_patyhat00_00,パーティーハット,Party Hat
+p_koi_stu_met00_00,野球ヘルメット,Baseball Helmet
+p_koi_stu_crown00_00,王冠,crown
+p_koi_stu_encircle00_00,天使の輪,Angel's ring
+p_koi_stu_kiguinu00_00,いぬの着ぐるみ頭,The dog's head of the dog
+p_koi_stu_kiguusa00_00,うさぎの着ぐるみ頭,Rabbit costume head
+p_koi_stu_mendako00_00,めんだこ,Menko
+p_koi_stu_mimifox00_00,キツネ耳,Fox ears
+p_koi_stu_mushroom00_00,きのこ,mushroom
+p_koi_stu_neko00_00,猫のおもちゃ,Cat Toy
+p_koi_stu_unagi00_00,うなぎ,eel
+p_koi_stu_usamimi00_00,うさ耳バンド,Rabbit ear band
+p_koi_stu_akutuno00_00,悪魔の角,The corner of the devil
+p_acs_tuno_05_stu,羊の角,Sheep horn
+p_acs_tuno_06_stu,牛の角,Cow horn
+p_acs_tuno_04_stu,一角,narwhal
+p_acs_face_onikamen_stu,鬼神の額当て(右),Demonic forehead restriction (right)
+p_acs_face_onikamen_L_stu,鬼神の額当て(左),Devil's forehead rest (left)
+p_koi_stu_megane00_00,スクエア,Square
+p_koi_stu_megane01_00,ウェリントン,Wellington
+p_koi_stu_megane02_00,スポーツ,Sports
+p_koi_stu_megane03_00,オーバル,Oval
+p_koi_stu_megane04_00,ラウンド,round
+p_koi_stu_megane05_00,シューティンググラス,Shooting glasses
+p_koi_stu_megane06_00,アンダーリム(細),Under rim (fine)
+p_koi_stu_megane07_00,アンダーリム,Under rim
+p_koi_stu_megane08_00,フレームレス,Frameless
+p_koi_stu_megane09_00,水泳ゴーグル,Swimming goggles
+p_koi_stu_megane10_00,丸瓶底眼鏡,Round bottoms glasses
+p_koi_stu_gandair00_00,眼帯右用,For the right eye zone
+p_koi_stu_gantail00_00,眼帯左用,For the left eye zone
+p_koi_stu_mouthmask00_00,プリーツマスク,Pleated mask
+p_koi_stu_dia00_00,ダイア,Dia
+p_koi_stu_heart02_00,ハートA,Heart A
+p_koi_stu_heart03_00,ハートB,Heart B
+p_koi_stu_speade00_00,スペード,spade
+p_koi_stu_clover00_00,クローバー,Clover
+p_koi_stu_saturn00_00,土星,Saturn
+p_koi_stu_moon00_00,ムーン,Moon
+p_koi_stu_star02_00,スター,Star
+p_koi_stu_star03_00,ビッグスター,Big star
+p_koi_stu_engel00_00,エンジェル,Angel
+p_koi_stu_skul00_00,ソードスカル,Sword skull
+p_koi_stu_onepoint00_00,ワンポイント,one point
+p_koi_stu_idolicam00_00,ハートインカム,Heart Income
+p_koi_stu_syokupan00_00,トースト,toast
+p_koi_stu_tama00_00,ピエロの鼻,Clown's nose
+p_koi_stu_tamaglas00_00,ガラスの鼻,Glass nose
+p_koi_stu_3rdeye00_00,第三の目,Third Eye
+p_koi_stu_sring00_00,リング,ring
+p_koi_stu_sring01_00,リングジュエル,Ring Jewel
+p_koi_stu_mafrar00_00,マフラー,Scarf
+p_koi_stu_menkenneck00_00,小悪魔チョーカー,Small devil choker
+p_koi_stu_neckbuny00_00,蝶ネクタイ,A bow tie
+p_koi_stu_neckchain00_00,首枷,Hanging
+p_koi_stu_neckheart00_00,ハートのペンダント,Heart pendant
+p_koi_stu_neckmegahon00_00,首掛けメガホン,Neck megaphone
+p_koi_stu_neckonepoint00_00,一粒ペンダント,One grain pendant
+p_koi_stu_neckribon00_00,リボンペンダント,Ribbon pendant
+p_koi_stu_necktie00_00,ロングネクタイ,Long necktie
+p_koi_stu_ribonchoker00_00,リボンチョーカー,Ribbon choker
+p_koi_stu_star04_00,星のペンダント,Star pendant
+p_koi_stu_sturn01_00,土星のペンダント,Saturn's pendant
+p_koi_stu_tyosinki00_00,聴診器,Stethoscope
+p_koi_stu_whistlle00_00,ホイッスル,whistle
+p_acs_suzu_stu,鈴,bell
+p_acs_shide_stu,シデ,Side
+p_acs_neck_oniribon_stu,鬼神のリボン,Demon ribbon
+p_acs_neck_magatama_oni_stu,勾玉の首飾り,Jewel necklace
+p_koi_stu_bag01_00,リュックサック,rucksack
+p_koi_stu_guitercase00_00,ギターケース,Guitar case
+p_koi_stu_hadnbag00_00,背負いカバン,Shoulder bag
+p_koi_stu_otabag00_00,ポスターリュックサック,Poster Backpack
+p_koi_stu_scbosbag00_00,背負いボストン,Back ship Boston
+p_koi_stu_angelwing00_00,天使の翼右用,Angel wing for right
+p_koi_stu_angelwing01_00,天使の翼左用,Angel wing for left
+p_koi_stu_bwing00_00,小悪魔の翼右用,Small devil wing for right
+p_koi_stu_bwing01_00,小悪魔の翼左用,For small devil's wing left
+p_koi_stu_devilwing00_00,悪魔の翼右用,Devil's wing for right
+p_koi_stu_devilwing01_00,悪魔の翼左用,Devil's wing for left
+p_koi_stu_akukotaile00_00,小悪魔尻尾,Little devil tail
+p_koi_stu_akutail00_00,悪魔尻尾,Devil tail
+p_koi_stu_bunnyrail00_00,ウサギ尻尾,Rabbit tail
+p_koi_stu_foxtail00_00,キツネ尻尾,Fox tail
+p_koi_stu_guiter00_00,エレキギター,Electric guitar
+p_koi_stu_kosibelt00_00,ベルト,belt
+p_koi_stu_waeltchai00_00,ウォレットチェーン,Wallet Chain
+p_koi_stu_waistcardi00_00,腰巻カーディガン,Ladicular cardigan
+p_koi_stu_waistribon00_00,テールリボン,Tail ribbon
+p_koi_stu_waistribonw00_00,エレガントリボン,Elegant ribbon
+p_acs_waistL_kosiate_oni_stu,鬼神の腰当右用,Demonic waist paw for right
+p_koi_stu_akuarm00_00,腕ベルト,Arm Belt
+p_koi_stu_bangle00_00,メタルバングル,Metal Bangle
+p_koi_stu_scboston02_00,ナイロンボストン,Nylon Boston
+p_koi_stu_syusyu00_00,シュシュ,Chouchu
+p_koi_stu_bunycuffs00_00,カフス,cuffs
+p_acs_kuno1_shoulder_R_stu,くノ一肩当て,Kunoichi shoulder rest
+p_acs_mikosode_R_stu,巫女袖,Shrine maiden sleeve
+p_acs_shoulder_onikata_stu,鬼神の肩当て,Demonic shoulder rest
+p_koi_stu_hugou00_00,お金持ちの指輪,The rich ring
+p_koi_stu_icebar00_00,食べかけアイスバー,Eating Ice Bar
+p_koi_stu_kasa00_00,傘,umbrella
+p_koi_stu_bangasa00_00,番傘,Umbrella
+p_koi_stu_meibo00_00,出席名簿,Attendance list
+p_koi_stu_mic00_00,ステージマイク,Stage microphone
+p_koi_stu_ponpon00_00,ポンポン,Ponpon
+p_koi_stu_racket00_00,テニスラケット,tennis racket
+p_koi_stu_sizibou00_00,指示棒,Indicator bar
+p_koi_stu_tenisball00_00,テニスボール,Tennis ball
+p_koi_stu_crip00_00,クリップ,clip
+p_koi_stu_sentaku00_00,洗濯ばさみ,Washing scissors
+p_koi_stu_kanban00_00,持ち看板,Signboard
+p_koi_stu_cont00_00,コントローラー,controller
+p_koi_stu_vibe00_00,アナルバイブ,Anal Vibration
+p_koi_stu_vibe01_00,アナルバイブ(長),Anal Vibe (long)
+p_koi_stu_vibe02_00,バイブ,A vibe
+p_koi_stu_dild00_00,ディルド,Dildo
+p_koi_stu_onaho00_00,オナホ,Onaho
+p_koi_stu_rota00_00,ローター,rotor
+p_koi_stu_anaball00_00,ギャグボール,Gag ball
+p_koi_stu_anaball01_00,棘ボール,Barb ball
+p_koi_stu_huki01_00_L00_02,丸吹き出し１左,Round callout 1 left
+p_koi_stu_huki01_00d_L00_02,丸吹き出し１左(影あり),Round callout 1 Left (with shadow)
+p_koi_stu_huki01_00_R00_02,丸吹き出し１右,Round callout 1 right
+p_koi_stu_huki01_00d_R00_02,丸吹き出し１右(影あり),Round callout 1 right (with shadow)
+p_koi_stu_huki01_01_L00_02,丸吹き出し2左,Round callout 2 left
+p_koi_stu_huki01_01d_L00_02,丸吹き出し2左(影あり),Round callout 2 left (with shadow)
+p_koi_stu_huki01_01_R00_02,丸吹き出し2右,Round callout 2 right
+p_koi_stu_huki01_01d_R00_02,丸吹き出し2右(影あり),Round callout 2 right (with shadow)
+p_koi_stu_huki02_00_L00_02,丸吹き出し3左,Round callout 3 left
+p_koi_stu_huki02_00d_L00_02,丸吹き出し3左(影あり),Round callout 3 Left (with shadow)
+p_koi_stu_huki02_00_R00_02,丸吹き出し3右,Round callout 3 right
+p_koi_stu_huki02_00d_R00_02,丸吹き出し3右(影あり),Round callout 3 Right (with shadow)
+p_koi_stu_huki02_01_L00_02,丸吹き出し4左,Round callout 4 left
+p_koi_stu_huki02_01d_L00_02,丸吹き出し4左(影あり),Round callout 4 left (with shadow)
+p_koi_stu_huki02_01_R00_02,丸吹き出し4右,Round callout 4 right
+p_koi_stu_huki02_01d_R00_02,丸吹き出し4右(影あり),Round callout 4 right (with shadow)
+p_koi_stu_huki03_00_L00_02,角吹き出し１左,Horn callout 1 left
+p_koi_stu_huki03_00d_L00_02,角吹き出し１左(影あり),Horn callout 1 Left (with shadow)
+p_koi_stu_huki03_00_R00_02,角吹き出し１右,Horn callout 1 right
+p_koi_stu_huki03_00d_R00_02,角吹き出し１右(影あり),Horizontal balloon 1 right (with shadow)
+p_koi_stu_huki03_01_L00_02,角吹き出し2左,Horn callout 2 left
+p_koi_stu_huki03_01d_L00_02,角吹き出し2左(影あり),Corner bubble 2 left (with shadow)
+p_koi_stu_huki03_01_R00_02,角吹き出し2右,Horn callout 2 right
+p_koi_stu_huki03_01d_R00_02,角吹き出し2右(影あり),Horizontal balloon 2 right (with shadow)
+p_koi_stu_huki04_00_L00_02,四角吹き出し１左,Square bubbles 1 left
+p_koi_stu_huki04_00d_L00_02,四角吹き出し１左(影あり),Square bubble 1 Left (with shadow)
+p_koi_stu_huki04_00_R00_02,四角吹き出し１右,Square bubble 1 right
+p_koi_stu_huki04_00d_R00_02,四角吹き出し１右(影あり),Square bubble 1 right (with shadow)
+p_koi_stu_huki04_01_L00_02,四角吹き出し2左,Squirrel balloon 2 left
+p_koi_stu_huki04_01d_L00_02,四角吹き出し2左(影あり),Squirrel balloon 2 left (with shadow)
+p_koi_stu_huki04_01_R00_02,四角吹き出し2右,Square bubble 2 right
+p_koi_stu_huki04_01d_R00_02,四角吹き出し2右(影あり),Squirrel balloon 2 right (with shadow)
+p_koi_stu_huki05_00_L00_02,正円吹き出し１左,Circle balloon 1 left
+p_koi_stu_huki05_00d_L00_02,正円吹き出し１左(影あり),Circle balloon 1 Left (with shadow)
+p_koi_stu_huki05_00_R00_02,正円吹き出し１右,Circular balloon 1 right
+p_koi_stu_huki05_00d_R00_02,正円吹き出し１右(影あり),Circle balloon 1 right (with shadow)
+p_koi_stu_huki05_01_L00_02,正円吹き出し2左,Circular balloon 2 left
+p_koi_stu_huki05_01d_L00_02,正円吹き出し2左(影あり),Circular balloon 2 Left (with shadow)
+p_koi_stu_huki05_01_R00_02,正円吹き出し2右,Round balloon 2 right
+p_koi_stu_huki05_01d_R00_02,正円吹き出し2右(影あり),Circular balloon 2 right (with shadow)
+p_koi_stu_huki06_00_L00_02,雲吹き出し１左,Cloud Callout 1 Left
+p_koi_stu_huki06_00d_L00_02,雲吹き出し１左(影あり),Cloud callout 1 left (with shadow)
+p_koi_stu_huki06_00_R00_02,雲吹き出し１右,Cloud Callout 1 Right
+p_koi_stu_huki06_00d_R00_02,雲吹き出し１右(影あり),Cloud callout 1 right (with shadow)
+p_koi_stu_huki06_01_L00_02,雲吹き出し2左,Cloud callout 2 left
+p_koi_stu_huki06_01d_L00_02,雲吹き出し2左(影あり),Cloud Callout 2 Left (with shadow)
+p_koi_stu_huki06_01_R00_02,雲吹き出し2右,Cloud callout 2 right
+p_koi_stu_huki06_01d_R00_02,雲吹き出し2右(影あり),Cloud balloon 2 right (with shadow)
+p_koi_stu_huki07_00_L00_02,雷吹き出し１左,Lightning speech 1 left
+p_koi_stu_huki07_00d_L00_02,雷吹き出し１左(影あり),Lightning speech 1 left (with shadow)
+p_koi_stu_huki07_00_R00_02,雷吹き出し１右,Lightning Blowout 1 right
+p_koi_stu_huki07_00d_R00_02,雷吹き出し１右(影あり),Lightning Speech 1 right (with shadow)
+p_koi_stu_huki08_00_L00_02,雷吹き出し2左,Lightning Speech 2 Left
+p_koi_stu_huki08_00d_L00_02,雷吹き出し2左(影あり),Lightning Speech 2 Left (with shadow)
+p_koi_stu_huki08_00_R00_02,雷吹き出し2右,Lightning Speech 2 Right
+p_koi_stu_huki08_00d_R00_02,雷吹き出し2右(影あり),Lightning Speech 2 Right (with shadow)
+p_koi_stu_huki09_00_L00_02,回想吹き出し１左,Remembrance Callout 1 Left
+p_koi_stu_huki09_00d_L00_02,回想吹き出し１左(影あり),Recollection Call 1 Left (with shadow)
+p_koi_stu_huki09_00_R00_02,回想吹き出し１右,Remembrance Callout 1 Right
+p_koi_stu_huki09_00d_R00_02,回想吹き出し１右(影あり),Retrospective Callout 1 Right (with shadow)
+p_koi_stu_huki10_00_L00_02,楕円吹き出し１左,Oval bubbles 1 left
+p_koi_stu_huki10_00d_L00_02,惰円吹き出し１左(影あり),Elliary balloon 1 left (with shadow)
+p_koi_stu_huki10_00_R00_02,惰円吹き出し１右,Elliary Callout 1 Right
+p_koi_stu_huki10_00d_R00_02,惰円吹き出し１右(影あり),Elliary balloon 1 right (with shadow)
+p_koi_stu_huki11_00_L00_02,惰円吹き出し2左,Ellipse Callout 2 Left
+p_koi_stu_huki11_00_R00_02,惰円吹き出し2左(影あり),Earth blowoff 2 left (with shadow)
+p_koi_stu_huki11_00d_L00_02,惰円吹き出し2右,Elliary Callout 2 Right
+p_koi_stu_huki11_00d_R00_02,惰円吹き出し2右(影あり),Earth blowoff 2 right (with shadow)
+p_koi_stu_huki12_00_L00_02,棘吹き出し１左,Spin blow-out 1 left
+p_koi_stu_huki12_00d_L00_02,棘吹き出し１左(影あり),Spin blow-out 1 left (with shadow)
+p_koi_stu_huki12_00_R00_02,棘吹き出し１右,Spin blow-out 1 right
+p_koi_stu_huki12_00d_R00_02,棘吹き出し１右(影あり),Spin blow-out 1 right (with shadow)
+p_koi_stu_huki13_00_02,先なし吹き出し(楕円1),None No Callout (Ellipse 1)
+p_koi_stu_huki14_00_02,先なし吹き出し(楕円2),None No Callout (Ellipse 2)
+p_koi_stu_huki15_00_02,先なし吹き出し(角),None No Callout (Horn)
+p_koi_stu_huki16_00_02,先なし吹き出し(四角1),No None Balloons (Square 1)
+p_koi_stu_huki19_00_02,先なし吹き出し(四角2),No None Balloons (Square 2)
+p_koi_stu_huki17_00_02,先なし吹き出し(正円),None No Callout (Full circle)
+p_koi_stu_huki18_00_02,先なし吹き出し(雲),None No Callout (Cloud)
+p_koi_stu_fsaki01_L_02,吹き出し先1,Balloon 1
+p_koi_stu_fsaki01_R_02,吹き出し先2,Balloon 2
+p_koi_stu_fsaki02_L_02,吹き出し先3,Speech destination 3
+p_koi_stu_fsaki02_R_02,吹き出し先4,Speech destination 4
+p_koi_stu_fsaki03_L_02,吹き出し先5,Blow destination 5
+p_koi_stu_fsaki03_R_02,吹き出し先6,Speech destination 6
+p_koi_stu_fsaki04_L_02,吹き出し先7,Blowing destination 7
+p_koi_stu_fsaki04_R_02,吹き出し先8,Blowjobs 8
+p_koi_stu_fsaki05_L_02,吹き出し先9,Blowing destination 9
+p_koi_stu_fsaki05_R_02,吹き出し先10,Blowing destination 10
+p_koi_stu_syutyu00_02,集中線,Concentration line
+p_koi_stu_shadow00_02,丸影,Round shadow
+p_koi_stu_flare00_02,レンズフレアA,Lens Flare A
+p_koi_stu_flare01_02,レンズフレアB,Lens Flare B
+p_koi_stu_prorera00_02,回転,rotation
+p_koi_stu_180kansetu00_02,関節180,Joint 180
+p_koi_stu_60kansetu00_02,関節60,Joint 60
+p_koi_stu_piscylinder00_02,ピストン,piston
+p_koi_stu_huriko00_02,吊りパイプ柔らか,Hanging pipe Soft
+p_koi_stu_huriko00h_02,吊りパイプ固い,Hanging pipe hard
+p_koi_stu_huriko01_02,吊りボール柔らか,Hanging ball soft
+p_koi_stu_huriko01h_02,吊りボール固い,Hanging ball hard
+p_koi_stu_huriko03_02,吊りパイプ柔らか(長,Hanging pipe Soft (length
+p_koi_stu_huriko03h_02,吊りパイプ固い(長,Hanging pipe hard (length
+p_koi_stu_huriko04_02,吊りボール柔らか(長,Hanging ball soft
+p_koi_stu_huriko04h_02,吊りボール固い(長,Hanging ball hard (length
+p_koi_stu_kaitennone00_02,回転（obj無し）,Rotation (no obj)
+p_koi_stu_updownnone00_02,ピストン（obj無し）,Piston (without obj)
+p_koi_stu_sindounone00_02,振動（obj無し）,Vibration (no obj)
+p_koi_stu_fuyuunone00_02,浮遊（obj無し）,Floating (no obj)
+p_koi_stu_180kaitennone00_02,回転180（obj無し）,Rotation 180 (no obj)
+p_koi_stu_60kaitennone00_02,回転60（obj無し）,Rotation 60 (no obj)
+p_koi_stu_bound01none00_02,バウンド１（obj無し）,Bound 1 (no obj)
+p_koi_stu_bound02none00_02,バウンド２（obj無し）,Bound 2 (no obj)
+p_koi_stu_3dse00_00,回転音,Rotation sound
+p_koi_stu_3dse01_00,雨音,rain sound
+p_koi_stu_3dse02_00,バイブ音,Vibe
+p_koi_stu_3dse03_00,デンマ音,Danma sound
+p_koi_stu_3dse04_00,水流,Water flow
+p_koi_stu_3dse05_00,水流(激),Water flow (severe)
+p_koi_stu_3dse06_00,犬の鳴き声,Dog's bark
+p_koi_stu_3dse07_00,鳥のさえずり,Chirping of birds
+p_koi_stu_3dse08_00,風,Wind
+p_koi_stu_3dse09_00,木々のざわめき,Rumbling of trees
+p_koi_stu_3dse10_00,電話のコール音,Phone call sound
+p_koi_stu_3dse11_00,夏の夕暮れ,Dusk of summer
+p_koi_stu_3dse12_00,換気扇,Ventilator
+p_koi_stu_3dse13_00,虫の声,Voices of insects
+p_koi_stu_3dse14_00,焚火,fire
+p_koi_stu_00voice00_00,喘ぎ1,Pant 1
+p_koi_stu_00voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_00voice02_00,フェラ1,Blowjob 1
+p_koi_stu_00voice03_00,フェラ2,Blowjob 2
+p_koi_stu_01voice00_00,喘ぎ1,Pant 1
+p_koi_stu_01voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_01voice02_00,フェラ1,Blowjob 1
+p_koi_stu_01voice03_00,フェラ2,Blowjob 2
+p_koi_stu_02voice00_00,喘ぎ1,Pant 1
+p_koi_stu_02voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_02voice02_00,フェラ1,Blowjob 1
+p_koi_stu_02voice03_00,フェラ2,Blowjob 2
+p_koi_stu_03voice00_00,喘ぎ1,Pant 1
+p_koi_stu_03voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_03voice02_00,フェラ1,Blowjob 1
+p_koi_stu_03voice03_00,フェラ2,Blowjob 2
+p_koi_stu_04voice00_00,喘ぎ1,Pant 1
+p_koi_stu_04voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_04voice02_00,フェラ1,Blowjob 1
+p_koi_stu_04voice03_00,フェラ2,Blowjob 2
+p_koi_stu_05voice00_00,喘ぎ1,Pant 1
+p_koi_stu_05voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_05voice02_00,フェラ1,Blowjob 1
+p_koi_stu_05voice03_00,フェラ2,Blowjob 2
+p_koi_stu_06voice00_00,喘ぎ1,Pant 1
+p_koi_stu_06voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_06voice02_00,フェラ1,Blowjob 1
+p_koi_stu_06voice03_00,フェラ2,Blowjob 2
+p_koi_stu_07voice00_00,喘ぎ1,Pant 1
+p_koi_stu_07voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_07voice02_00,フェラ1,Blowjob 1
+p_koi_stu_07voice03_00,フェラ2,Blowjob 2
+p_koi_stu_08voice00_00,喘ぎ1,Pant 1
+p_koi_stu_08voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_08voice02_00,フェラ1,Blowjob 1
+p_koi_stu_08voice03_00,フェラ2,Blowjob 2
+p_koi_stu_09voice00_00,喘ぎ1,Pant 1
+p_koi_stu_09voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_09voice02_00,フェラ1,Blowjob 1
+p_koi_stu_09voice03_00,フェラ2,Blowjob 2
+p_koi_stu_10voice00_00,喘ぎ1,Pant 1
+p_koi_stu_10voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_10voice02_00,フェラ1,Blowjob 1
+p_koi_stu_10voice03_00,フェラ2,Blowjob 2
+p_koi_stu_11voice00_00,喘ぎ1,Pant 1
+p_koi_stu_11voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_11voice02_00,フェラ1,Blowjob 1
+p_koi_stu_11voice03_00,フェラ2,Blowjob 2
+p_koi_stu_12voice00_00,喘ぎ1,Pant 1
+p_koi_stu_12voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_12voice02_00,フェラ1,Blowjob 1
+p_koi_stu_12voice03_00,フェラ2,Blowjob 2
+p_koi_stu_13voice00_00,喘ぎ1,Pant 1
+p_koi_stu_13voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_13voice02_00,フェラ1,Blowjob 1
+p_koi_stu_13voice03_00,フェラ2,Blowjob 2
+p_koi_stu_14voice00_00,喘ぎ1,Pant 1
+p_koi_stu_14voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_14voice02_00,フェラ1,Blowjob 1
+p_koi_stu_14voice03_00,フェラ2,Blowjob 2
+p_koi_stu_15voice00_00,喘ぎ1,Pant 1
+p_koi_stu_15voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_15voice02_00,フェラ1,Blowjob 1
+p_koi_stu_15voice03_00,フェラ2,Blowjob 2
+p_koi_stu_16voice00_00,喘ぎ1,Pant 1
+p_koi_stu_16voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_16voice02_00,フェラ1,Blowjob 1
+p_koi_stu_16voice03_00,フェラ2,Blowjob 2
+p_koi_stu_17voice00_00,喘ぎ1,Pant 1
+p_koi_stu_17voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_17voice02_00,フェラ1,Blowjob 1
+p_koi_stu_17voice03_00,フェラ2,Blowjob 2
+p_koi_stu_18voice00_00,喘ぎ1,Pant 1
+p_koi_stu_18voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_18voice02_00,フェラ1,Blowjob 1
+p_koi_stu_18voice03_00,フェラ2,Blowjob 2
+p_koi_stu_19voice00_00,喘ぎ1,Pant 1
+p_koi_stu_19voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_19voice02_00,フェラ1,Blowjob 1
+p_koi_stu_19voice03_00,フェラ2,Blowjob 2
+p_koi_stu_20voice00_00,喘ぎ1,Pant 1
+p_koi_stu_20voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_20voice02_00,フェラ1,Blowjob 1
+p_koi_stu_20voice03_00,フェラ2,Blowjob 2
+p_koi_stu_21voice00_00,喘ぎ1,Pant 1
+p_koi_stu_21voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_21voice02_00,フェラ1,Blowjob 1
+p_koi_stu_21voice03_00,フェラ2,Blowjob 2
+p_koi_stu_22voice00_00,喘ぎ1,Pant 1
+p_koi_stu_22voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_22voice02_00,フェラ1,Blowjob 1
+p_koi_stu_22voice03_00,フェラ2,Blowjob 2
+p_koi_stu_23voice00_00,喘ぎ1,Pant 1
+p_koi_stu_23voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_23voice02_00,フェラ1,Blowjob 1
+p_koi_stu_23voice03_00,フェラ2,Blowjob 2
+p_koi_stu_24voice00_00,喘ぎ1,Pant 1
+p_koi_stu_24voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_24voice02_00,フェラ1,Blowjob 1
+p_koi_stu_24voice03_00,フェラ2,Blowjob 2
+p_koi_stu_25voice00_00,喘ぎ1,Pant 1
+p_koi_stu_25voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_25voice02_00,フェラ1,Blowjob 1
+p_koi_stu_25voice03_00,フェラ2,Blowjob 2
+p_koi_stu_26voice00_00,喘ぎ1,Pant 1
+p_koi_stu_26voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_26voice02_00,フェラ1,Blowjob 1
+p_koi_stu_26voice03_00,フェラ2,Blowjob 2
+p_koi_stu_27voice00_00,喘ぎ1,Pant 1
+p_koi_stu_27voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_27voice02_00,フェラ1,Blowjob 1
+p_koi_stu_27voice03_00,フェラ2,Blowjob 2
+p_koi_stu_28voice00_00,喘ぎ1,Pant 1
+p_koi_stu_28voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_28voice02_00,フェラ1,Blowjob 1
+p_koi_stu_28voice03_00,フェラ2,Blowjob 2
+p_koi_stu_29voice00_00,喘ぎ1,Pant 1
+p_koi_stu_29voice01_00,喘ぎ2,Pant Pain 2
+p_koi_stu_29voice02_00,フェラ1,Blowjob 1
+p_koi_stu_29voice03_00,フェラ2,Blowjob 2
+p_koi_stu_arow00_00,矢,arrow
+p_koi_stu_bow00_00,弓,bow
+p_koi_stu_bowbag00_00,弓袋,A bow bag
+p_koi_stu_pitchfork00_00,小悪魔フォーク,Small Devil Fork
+p_koi_stu_pitchfork01_00,小悪魔フォーク(小),Small devil fork (small)
+p_koi_stu_katana00_00,刀,sword
+p_koi_stu_sao00_00,刀の鞘,Sword sheath
+p_koi_stu_sinai00_00,竹刀,Bamboo sword
+p_acs_kuno1_kodachi_stu,鞘小太刀,Sheath scallop
+p_acs_kuno1_kodachi_yaiba_stu,小太刀,Odaito
+p_acs_katana_duo_stu,2連鞘刀,Two-tiered sword
+p_acs_katana_siraki_stu,白木拵え刀,Shiraki 拵 え sword
+p_acs_saya_siraki_stu,白木拵えの納刀,Shiraki Ayane's sword
+p_acs_saya_siraki_2_stu,白木拵えの鞘,Sheath of Shiraki Aya
+p_acs_handR_onikana_stu,鬼神の金棒,Demon gold bar
+p_koi_stu_efect00_00,波動・円,Wave / circle
+p_koi_stu_efect01_00,波動・柱,Wave / pillar
+p_koi_stu_efect02_00,波動・斬,Wave / cut
+p_koi_stu_ekitai00_00,液溜まり,Liquid pool
+p_koi_stu_ekitai01_00,液体A,Liquid A
+p_koi_stu_ekitai02_00,液体B,Liquid B
+p_koi_syu_WaterJet_00_01,滝,waterfall
+p_koi_syu_LiquidWater_00_00,液体,liquid
+p_koi_syu_LiquidSio_00_00,濃い液体（弱）,Dense liquid (weak)
+p_koi_syu_LiquidSiru_00_00,濃い液体（中）,Dense liquid (medium)
+p_koi_syu_LiquidKancho_00_00,濃い液体（強）,Dense liquid (strong)
+p_koi_syu_LiquidShower_01_00,シャワー（弱）,Shower (weak)
+p_koi_syu_LiquidShower_00_00,シャワー（強）,Shower (strong)
+p_koi_stu_denki00_00,電気照明1,Electric lighting 1
+p_koi_stu_denki01_00,電気照明2,Electric lighting 2
+p_koi_stu_denki02_00,電気照明3,Electric lighting 3
+p_koi_stu_denki03_00,電気照明4,Electric lighting 4
+p_koi_stu_denki04_00,電気照明5,Electric lighting 5
+p_koi_stu_denki10_00,電気照明6,Electric lighting 6
+p_koi_stu_denki05_00,電気照明(和)1,Electric lighting (in English) 1
+p_koi_stu_denki06_00,電気照明(和)2,Electric lighting (in English) 2
+p_koi_stu_denki07_00,電気スタンド1,Electric stand 1
+p_koi_stu_denki08_00,電気スタンド2,Electric stand 2
+p_koi_stu_denki09_00,電気スタンド3,Electric stand 3
+p_koi_stu_denki11_00,電気スタンド4,Electric stand 4
+p_koi_stu_denki12_00,電気スタンド5,Electric stand 5
+p_koi_stu_hizyou00_00,非常灯1,Emergency light 1
+p_koi_stu_hizyou01_00,非常灯2,Emergency light 2
+p_acs_hagane_a_stu,艦艇の模型,Model of a warship
+p_acs_hagane_b_stu,魚雷発射管の模型,Model of torpedo launch tube
+p_acs_hagane_c_stu,2連装砲台の模型,Model of two consecutive batteries
+p_acs_meka_l_stu,メカ装甲１,Mechanical armor 1
+p_acs_meka_k_stu,メカ装甲２,Mechanical Armor 2
+p_acs_meka_e_stu,メカ装甲３,Mechanical Armor 3
+p_acs_meka_v_stu,メカ装甲４,Mechanical Armor 4
+p_acs_meka2_c_stu,メカ装甲５,Mechanical Armor 5
+p_acs_meka2_d_stu,メカ装甲６,Mechanical armor 6
+p_acs_meka2_d2_stu,メカ装甲６×３,Mechanical Armor 6 x 3
+p_acs_meka2_a_stu,メカアンテナ1,Mechanical antenna 1
+p_acs_meka2_a2_stu,メカアンテナ2,Mechanical antenna 2
+p_acs_meka2_b_stu,メカショルダー,Mechanical shoulder
+p_acs_meka_m_stu,メカウィング,Mechanical wing
+p_acs_meka2_e_stu,メカウイングⅡ,Mechanical wing Ⅱ
+p_acs_meka_b_stu,メカシールド,Mechanical shield
+p_acs_meka2_f_stu,メカシールドⅡ,Mechanical shield Ⅱ
+p_acs_meka_p_stu,メカブースター,Mechanical booster
+p_acs_meka2_h_stu,メカブースターⅡ,Mechanical Booster II
+p_acs_meka_c_stu,メカサークル,Mechanical circle
+p_acs_meka_d_stu,メカボックス,Mechanical box
+p_acs_meka_h_stu,メカポッド,Mechanical pod
+p_acs_meka_f_stu,メカデルタ,Mechanical delta
+p_acs_meka_y_stu,メカチューブ,Mechanical tube
+p_acs_meka_i_stu,メカポール,Mechanpor
+p_acs_meka_i_beam_stu,メカビームポール,Mechanical beam pole
+p_acs_meka_j_stu,メカシザー,Mechaniser
+p_acs_meka_w_stu,メカドリル,Mechanical drill
+p_acs_meka_g_stu,メカバイザー,Mechan visor
+p_acs_meka2_g_stu,メカバイザーⅡ,Mechanical visor Ⅱ
+p_acs_meka_a_stu,メカゴーグル,Mechanical goggles
+p_acs_meka_q_stu,メカボール,Mecha ball
+p_acs_vch_hair_stu,メカヘアー,Mechanical hair
+p_acs_vch_mimi_stu,メカレシーバー,Mechanical receiver
+p_acs_vch_neck_stu,メカタイ,Mechatai
+p_acs_vch_ring_stu,メカループ,Mekalp
+p_acs_vch_waist_stu,メカアンプ,Mechanical amplifier
+p_acs_vch_wing_stu,メカウィングリング,Mechanical wing ring
+p_koi_stu_efect03_00,ビーム・扇,Beam fan
+p_koi_stu_efect04_00,ビーム・剣,Beam / sword
+p_koi_stu_baria00_00,バリア・円(緑),Barrier · circle (green)
+p_koi_stu_baria03_00,バリア・円(赤),Barrier · circle (red)
+p_koi_stu_baria01_00,バリア・四角(緑),Barrier / square (green)
+p_koi_stu_baria04_00,バリア・四角(赤),Barrier / square (red)
+p_koi_stu_baria02_00,バリア・ピラミッド(緑),Barrier pyramid (green)
+p_koi_stu_baria05_00,バリア・ピラミッド(赤),Barrier pyramid (red)
+p_koi_stu_core01_00,シンプルコア1,Simple core 1
+p_koi_stu_core00_00,シンプルコア2,Simple Core 2
+p_koi_stu_denkyu00_00,電球,light bulb
+p_koi_stu_denkyu01_00,電球(細),Light bulb (fine)
+p_koi_stu_glow00_00,球体,sphere
+p_koi_stu_glow02_00,円柱(細),Cylinder (fine)
+p_koi_stu_glow03_00,円柱,Cylinder
+p_koi_stu_glow01_00,円柱(溝あり),Cylinder (with groove)
+p_koi_stu_glow04_00,輪,ring
+p_koi_stu_glow05_00,リング,ring
+p_koi_stu_glow06_00,リング(細),Ring (fine)
+p_koi_stu_glow08_00,ペンライト,Penlight
+p_koi_syu_FK_00_00,FK関節,FK joint
+p_koi_stu_flybace03_00,FK軸,FK axis
+p_koi_stu_flybace01_00,FK先端1,FK tip 1
+p_koi_stu_flybace02_00,FK先端2,FK tip 2
+p_koi_stu_flybace04_00,土台1,Base 1
+p_koi_stu_flybace00_00,土台2,Base 2
+p_koi_stu_syokusyu00_00,FK触手1,FK tentacle 1
+p_koi_stu_syokusyu01_00,FK触手2,FK tentacle 2
+p_koi_syu_analFK_00_00,FKアナルビーズ1,FK Anal Beads 1
+p_koi_syu_analFK_01_00,FKアナルビーズ2,FK Anal Beads 2
+p_koi_syu_analFK_02_00,FKアナルビーズ3,FK Anal Beads 3
+p_koi_stu_taihou00_00,大砲,Cannon
+p_koi_stu_taihou01_00,大砲(筒),Cannon (cylinder)
+p_koi_stu_taihou02_00,大砲(台),Cannon (units)
+p_koi_stu_taihoutama00_00,大砲(玉),Cannon (Ball)
+p_koi_stu_bakudan00_00,爆弾,bomb
+p_koi_stu_barista00_00,バリスタ,Varistor
+p_koi_stu_suyari00_00,バリスタの槍,Spear of barista
+p_koi_stu_takara00_00,宝箱1,Treasure box 1
+p_koi_stu_takara01_00,宝箱2,Treasure Box 2
+p_koi_stu_itemhukuro00_00,布袋,Cloth bag
+p_koi_stu_coin00_00,コイン,coin
+p_acs_armor_headstu,ナイトバイザー,Night visor
+p_acs_armorhead_cm_stu,鎧兜,Armor
+p_acs_armorshoulder_cm__stu,鎧肩当て,Armor shoulder rest
+p_acs_arm_knightL_stu,騎士の肩当て,Knight's shoulder rest
+p_acs_waist_knightL_stu,騎士の腰当,Knight's Lapse
+p_acs_bat_armor_stu,アーマープレート,Armor plate
+p_acs_bat_shoulder_L_stu,タングルショルダー,Tangle shoulder
+p_acs_head_hanekazari_stu,羽の髪飾り左用,Feather hair ornament for left
+p_acs_head_hanekazariRR_stu,羽の髪飾り右用,Feather hair ornament for right
+p_acs_head_royalcrown_stu,ロイヤルクラウン,Royal Crown
+p_acs_neck_knightribon_stu,ロイヤルリボン,Royal ribbon
+p_acs_kedama_stu,毛玉,Hairball
+p_koi_stu_nage00_00_02,投げ01,Throwing 01
+p_koi_stu_nage01_00_02,投げ02,Throwing 02
+p_koi_stu_nagenone00_00_02_anm,投げ01（obj無し）,Throwing 01 (no obj)
+p_koi_stu_nagenone01_00_02_anm,投げ02（obj無し）,Throw 02 (no obj)
+p_acs_longsword_stu,ロングソード,Long sword
+p_acs_longsword_saya_stu,ロングソードの鞘,Longsword sheath
+p_acs_bat_buckler_stu,バックラー,Buckler
+p_acs_runesword_stu,ルーンソード,Rune Sword
+p_acs_runeshield_stu,ルーンシールド,Runeshield
+p_acs_bat_warhummerstu,ウォーハンマー,Warhammer
+p_acs_bat_spear_01_stu,ハルバード,Halberd
+p_acs_bat_twohand_stu,クレイモア,Claymore
+p_acs_bat_knife01_stu,ダガー,Dagger
+p_acs_bat_longbow_stu,ロングボウ,Long bow
+p_acs_bat_rifle01_stu,古式ライフル銃,Ancient rifle
+p_acs_bat_handgun01_stu,古式銃,Ancient gun
+p_bat_book1_01_stu,魔法の書,Magical book
+p_acs_hand_knightsword_stu,騎士のレイピア,Knight Rapier
+p_acs_hand_knightsaya_stu,騎士のレイピア(鞘),Rapier of the knight (sheath)
+p_koi_stu_mahozin00_00,魔法陣,Magic team
+p_koi_stu_jelly00_00,溶解粘液1,Melted mucilage 1
+p_koi_stu_jelly01_00,溶解粘液2,Dissolved mucus 2
+p_koi_stu_jelly02_00,溶解粘液3,Melted mucilage 3
+p_koi_stu_jelly03_00,溶解粘液4,Melted mucilage 4
+p_koi_stu_jelly04_00,溶解粘液5,Melted mucus 5
+p_koi_stu_kihon17_00,山型多角形1(通常),Mountain type polygon 1 (normal)
+p_koi_stu_kihon18_00,山型多角形2(通常),Mountain type polygon 2 (normal)
+p_koi_stu_kihon19_00,長六角形(通常),Long hexagon (normal)
+p_koi_stu_kihon20_00,長五角形（通常）,Long pentagon (normal)
+p_koi_stu_kihon21_00,歪み三角柱(通常),Distorted triangular prism (normal)
+p_koi_stu_kihon22_00,マウス型右(通常),Mouse type right (normal)
+p_koi_stu_kihon23_00,マウス型左(通常),Mouse type left (normal)
+p_koi_stu_kihon26_00,三角横台形(通常),Triangular transverse trapezoid (normal)
+p_koi_stu_kihon24_00,五角横台形(通常),Pentagonal horizontal trapezoid (normal)
+p_koi_stu_kihon25_00,円形横台形(通常),Circular Horizontal Trapezoid (Normal)
+p_koi_stu_kihon27_00,ドロップ立体(通常),Drop solid (normal)
+p_koi_stu_kihon28_00,ドロップ平面(通常),Drop plane (normal)
+p_koi_stu_kihon29_00,ひょうたん立体(通常),Gourd solid (normal)
+p_koi_stu_kihon30_00,ひょうたん平面(通常),Gourd's plane (normal)
+p_koi_stu_kihon17c_00,山型多角形1(キャラ),Mountain type polygon 1 (character)
+p_koi_stu_kihon18c_00,山型多角形2(キャラ),Mountain type polygon 2 (character)
+p_koi_stu_kihon19c_00,長六角形(キャラ),Long hexagon (character)
+p_koi_stu_kihon20c_00,長五角形（キャラ）,Long pentagon (character)
+p_koi_stu_kihon21c_00,歪み三角柱(キャラ),Distorted triangular prism (character)
+p_koi_stu_kihon22c_00,マウス型右(キャラ),Mouse type right (character)
+p_koi_stu_kihon23c_00,マウス型左(キャラ),Mouse type left (character)
+p_koi_stu_kihon26c_00,三角横台形(キャラ),Triangular transverse trapezoid (character)
+p_koi_stu_kihon24c_00,五角横台形(キャラ),Pentagon transverse trapezoid (character)
+p_koi_stu_kihon25c_00,円形横台形(キャラ),Circular Horizontal Trapezoid (Character)
+p_koi_stu_kihon27c_00,ドロップ立体(キャラ),Drop solid (character)
+p_koi_stu_kihon28c_00,ドロップ平面(キャラ),Drop plane (character)
+p_koi_stu_kihon29c_00,ひょうたん立体(キャラ),Gourd solid (character)
+p_koi_stu_kihon30c_00,ひょうたん平面(キャラ),Gourd-shaped plane (character)
+p_koi_stu_maruisu00_00,丸椅子(高),Round chair (high)
+p_koi_stu_terasisu00_00,テラスチェアー,Terrace chair
+p_acs_head_tamakazari_stu,玉飾り,Ball decoration
+p_acs_armorhand_gR_stu,メカハンド握り右用,Mecha hand hand grip for right
+p_acs_armorhand_gL_stu,メカハンド握り左用,Mecha hand hand grip for left
+p_acs_armorhand_nR_stu,メカハンド開き右用,Mechanical hand opening for right
+p_acs_armorhand_nL_stu,メカハンド開き左用,Mechanical hand opening for left
+p_acs_armorboot_stu,メカフット,Mecha-foot
+p_koi_stu_2dLens00_00,レンズフレアC,Lens Flare C
+p_koi_stu_2dLens01_00,レンズフレアD,Lens Flare D
+p_koi_stu_2dLens02_00,レンズフレアE,Lens Flare E
+p_koi_stu_2dLens03_00,レンズフレアF,Lens flare F
+p_koi_stu_2dLens04_00,レンズフレアG,Lens Flare G
+p_koi_stu_10kansetu00_02,関節10,Joint 10
+p_koi_stu_30kansetu00_02,関節30,Joint 30
+p_koi_stu_45kansetu00_02,関節45,Joint 45
+p_koi_stu_10kaitennone00_02,回転10（obj無し）,Rotation 10 (no obj)
+p_koi_stu_30kaitennone00_02,回転30（obj無し）,Rotation 30 (no obj)
+p_koi_stu_45kaitennone00_02,回転45（obj無し）,Rotation 45 (no obj)
+p_acs_bat_rod1_0o_stu,エンシェントロッド,Ancient rod
+p_koi_stu_effBubble00_00,バブルシャワー,Bubble shower
+p_koi_stu_effFire00_00,火,fire
+p_koi_stu_effFire01_00,火の玉,fireball
+p_koi_stu_effRing00_00,動く波動,Moving wave
+p_koi_stu_effStar00_00,キラキラ,Glitter
+p_koi_stu_effElectric00_00,放電,Discharge
+p_koi_stu_effMuzzle00_00,マズルフラッシュ,Muzzle flash
+acs_meka_y_fk_stu,メカチューブ,Mechanical tube
+p_koi_stu_kihon31_00,角リング(通常),Square ring (normal)
+p_koi_stu_kihon32_00,立体半円(通常),Three-dimensional semicircle (normal)
+p_koi_stu_kihon33_00,立体四半円(通常),Cubic quarter circle (normal)
+p_koi_stu_kihon34_00,角型(通常),Square type (normal)
+p_koi_stu_kihon35_00,直角形(通常),Rectangular (normal)
+p_koi_stu_kihon36_00,斜ひし形(通常),Diagonal diamond (normal)
+p_koi_stu_kihon37_00,歪み台形(通常),Distortion trapezoid (normal)
+p_koi_stu_kihon38_00,欠け四角(通常),Chipped squares (normal)
+p_koi_stu_kihon39_00,二対多角形(通常),Two-to-many polygon (normal)
+p_koi_stu_kihon40_00,ヒレ型(通常),Fins (normal)
+p_koi_stu_kihon41_00,歪み多角形(通常),Distortion polygon (normal)
+p_koi_stu_kihon42_00,角なし斜ひし形(通常),Horny diagonal diamond (normal)
+p_koi_stu_kihon43_00,角なし歪み台形(通常),Hornless distortion trapezoid (normal)
+p_koi_stu_kihon44_00,角なし四角錐(通常),Horn square pyramid (normal)
+p_koi_stu_kihon45_00,角なし三角(通常),Hornless triangle (normal)
+p_koi_stu_kihon46_00,角なし四角(通常),Horn square (normal)
+p_koi_stu_kihon47_00,筒四分(通常),Quarter of tube (normal)
+p_koi_stu_kihon31c_00,角リング(キャラ),Square ring (character)
+p_koi_stu_kihon32c_00,立体半円(キャラ),Three-dimensional semicircle (character)
+p_koi_stu_kihon33c_00,立体四半円(キャラ),Three-dimensional solid circle (character)
+p_koi_stu_kihon34c_00,角型(キャラ),Square shape (character)
+p_koi_stu_kihon35c_00,直角形(キャラ),Rectangle (character)
+p_koi_stu_kihon36c_00,斜ひし形(キャラ),Diagonal diamond (character)
+p_koi_stu_kihon37c_00,歪み台形(キャラ),Distortion trapezoid (character)
+p_koi_stu_kihon38c_00,欠け四角(キャラ),Chapped square (character)
+p_koi_stu_kihon39c_00,二対多角形(キャラ),Two-pair polygon (character)
+p_koi_stu_kihon40c_00,ヒレ型(キャラ),Fins (characters)
+p_koi_stu_kihon41c_00,歪み多角形(キャラ),Distorted polygon (character)
+p_koi_stu_kihon42c_00,角なし斜ひし形(キャラ),Angle-less oblique diamond (character)
+p_koi_stu_kihon43c_00,角なし歪み台形(キャラ),Hornless distortion trapezoid (character)
+p_koi_stu_kihon44c_00,角なし四角錐(キャラ),Horn square pyramid (character)
+p_koi_stu_kihon45c_00,角なし三角(キャラ),Hornless triangle (character)
+p_koi_stu_kihon46c_00,角なし四角(キャラ),Horn square (character)
+p_koi_stu_kihon47c_00,筒四分(キャラ),Cylinder quarter (character)
+p_koi_stu_sougen00_00,野原,field
+p_koi_stu_takigi00_00,焚火,fire
+p_koi_stu_takigi01_00,焚火(大),Fire (large)
+p_koi_stu_kirikabu00_00,切り株,stump
+p_koi_stu_baseball00_00,野球バット,Baseball bat
+p_koi_stu_helmet00_00,ヘルメット,helmet
+p_acs_head_tubahiro_stu,つば広帽子,A brim wide hat
+p_acs_ear_sizuku_stu,雫,drop
+p_acs_neck_3point_stu,3ポイント,3 points
+p_acs_arm_watchoval_stu,オーバル腕時計,Oval watches
+p_koi_stu_10kansetu02_02,関節10_Bタイプ,Joint 10 _ B type
+p_koi_stu_30kansetu02_02,関節30_Bタイプ,Joint 30_B Type
+p_koi_stu_45kansetu02_02,関節45_Bタイプ,Joint 45_B type
+p_koi_stu_60kansetu02_02,関節60_Bタイプ,Joint 60 _ B type
+p_koi_stu_180kansetu02_02,関節180_Bタイプ,Joint 180 _ B type
+p_koi_stu_10kaitennone02_02,回転10_Bタイプ（obj無し）,Rotation 10_B type (no obj)
+p_koi_stu_30kaitennone02_02,回転30_Bタイプ（obj無し）,Rotation 30_B type (no obj)
+p_koi_stu_45kaitennone02_02,回転45_Bタイプ（obj無し）,Rotation 45_B type (no obj)
+p_koi_stu_60kaitennone02_02,回転60_Bタイプ（obj無し）,Rotation 60_B type (no obj)
+p_koi_stu_180kaitennone02_02,回転180_Bタイプ（obj無し）,Rotation 180 _ B type (no obj)
+p_koi_stu_kihon48_00,半ピラミッド(通常),Half pyramid (normal)
+p_koi_stu_kihon49_00,角なし半四角錐(通常),Horn semicircular pyramid (normal)
+p_koi_stu_kihon50_00,半コーン(通常),Half cone (normal)
+p_koi_stu_kihon51_00,階段型(通常),Stair type (normal)
+p_koi_stu_kihon52_00,半カプセル(通常),Half capsule (normal)
+p_koi_stu_kihon48c_00,半ピラミッド(キャラ),Half pyramid (character)
+p_koi_stu_kihon49c_00,角なし半四角錐(キャラ),Half quadrangular pyramid with no horn (character)
+p_koi_stu_kihon50c_00,半コーン(キャラ),Half cone (character)
+p_koi_stu_kihon51c_00,階段型(キャラ),Stair type (character)
+p_koi_stu_kihon52c_00,半カプセル(キャラ),Half capsule (character)
+p_koi_stu_hamabe_00_01,浜辺,beach
+p_koi_stu_hamabe_01_01,浜辺(砂),Beach (sand)
+p_koi_stu_beachchair00_01,ビーチチェア,Beach chair
+p_koi_stu_beachumbrella00_01,ビーチパラソル,Beach parasol
+p_koi_stu_kiisu00_01,木の椅子,Wooden chair
+p_koi_stu_woodchair00_01,木の長椅子,Wooden chair
+p_koi_stu_wooddesk00_01,木の机,Wooden desk
+p_koi_stu_woodbox00_01,木の箱,Wooden box
+p_koi_stu_take00_00,竹,bamboo
+p_koi_stu_take01_00,竹台,Bamboo stand
+p_koi_stu_take02_00,竹半分,Bamboo half
+p_koi_stu_take03_00,竹食器,Bamboo tableware
+p_koi_stu_tarai00_00,タライ,Tarai
+p_koi_stu_kakigo00_00,かき氷機,Shaker ice machine
+p_koi_stu_kakigohata00_00,かき氷の旗,Flag of shaved ice
+p_koi_stu_bananabort00_00,バナナボート,Banana boat
+p_koi_stu_bort00_00,ボート,boat
+p_koi_stu_bort01_00,オール,All
+p_koi_stu_kanu00_00,カヌー,Canoeing
+p_koi_stu_bmat_00_01,ビーチマット,Beach mat
+p_koi_stu_Dleafs_00_01,シダ,Fern
+p_koi_stu_yashi_00_01,ヤシの木(直立),Palm tree (upright)
+p_koi_stu_yashi_01_01,ヤシの木(彎曲),Palm tree (curvature)
+p_koi_stu_zikusa_00_01,茂み,Bush
+p_koi_stu_himawari00_00,ひまわり,sunflower
+p_koi_stu_tetra00_00,消波ブロック,Wave block
+p_koi_stu_beel00_00,ビール,beer
+p_koi_stu_ramne00_00,ラムネ瓶,Ramune bottle
+p_koi_stu_soft00_00,ソフトクリーム,Soft cream
+p_koi_stu_beachball00_00,ビーチボール,Beach ball
+p_koi_stu_tyotin00_00,提灯,Lantern
+p_koi_stu_utiwa00_00,うちわ,A fan
+p_koi_stu_buta00_00,ぶたの置物,Butterfly of a pig
+p_koi_stu_kabuto00_00,カブトムシ,Beetle
+p_koi_stu_kuwagata00_00,クワガタ,Stag beetle
+p_koi_stu_musikago00_00,虫かご(小),Insect basket (small)
+p_koi_stu_musikago01_00,虫かご(大),Insect basket (large)
+p_koi_stu_shanger_00_01,水着,Bathing suits
+p_koi_stu_ukurere00_01,ウクレレ,ukulele
+p_koi_stu_sensu00_00,扇子(開),Fan (open)
+p_koi_stu_sensu01_00,扇子(閉),Fan (closed)
+p_koi_stu_ami00_00,虫取りあみ,Insect removal
+p_koi_stu_huusen00_00,水風船(無地),Water balloon (plain)
+p_koi_stu_huusen01_00,水風船(柄),Water balloon (handle)
+p_koi_stu_purabake00_00,プラバケツ,Prague bucket
+p_koi_stu_scop00_00,スコップ,scoop
+p_koi_stu_scop01_00,くまで,In a bear
+p_koi_stu_sarf00_00,サーフボード,surfboard
+p_acs_head_kani_stu,カニ,crab
+p_acs_hair_shell_stu,貝殻,shell
+p_acs_hair_hitode_stu,ヒトデ,Starfish
+p_koi_stu_wgun00_01,水鉄砲,Water gun
+p_koi_stu_marukage00_00,色影,Color shade
+h_ko_30_aegi_00,喘ぎ1,Pant 1
+h_ko_30_aegi_01,喘ぎ2,Pant Pain 2
+h_ko_30_fera_00,フェラ1,Blowjob 1
+h_ko_30_fera_01,フェラ2,Blowjob 2
+h_ko_31_aegi_00,喘ぎ1,Pant 1
+h_ko_31_aegi_01,喘ぎ2,Pant Pain 2
+h_ko_31_fera_00,フェラ1,Blowjob 1
+h_ko_31_fera_01,フェラ2,Blowjob 2
+h_ko_32_aegi_00,喘ぎ1,Pant 1
+h_ko_32_aegi_01,喘ぎ2,Pant Pain 2
+h_ko_32_fera_00,フェラ1,Blowjob 1
+h_ko_32_fera_01,フェラ2,Blowjob 2
+h_ko_33_aegi_00,喘ぎ1,Pant 1
+h_ko_33_aegi_01,喘ぎ2,Pant Pain 2
+h_ko_33_fera_00,フェラ1,Blowjob 1
+h_ko_33_fera_01,フェラ2,Blowjob 2

@@ -1,0 +1,11 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,StateType,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,KokanHide,ThumbAB,ThumbTex
+"0","0","1","なし","abdata","chara/etc.unity3d","p_dummy","3","0","0","0","0","0","0","0","0","1","chara/etc.unity3d","thumb_none"
+"5","1","1","パンストA","abdata","chara/co_panst_00.unity3d","p_o_panst_02","1","0","cf_panst_02_t","0","cf_panst_02_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_02"
+"1","0","1","パンストB","abdata","chara/co_panst_00.unity3d","p_o_panst_01","0","0","cf_panst_01_t","0","cf_panst_01_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_01"
+"7","1","1","厚手パンストA","abdata","chara/co_panst_00.unity3d","p_o_panst_02","1","0","cf_panst_02_2_t","0","cf_panst_02_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_02"
+"8","0","1","厚手パンストB","abdata","chara/co_panst_00.unity3d","p_o_panst_01","0","0","cf_panst_01_2_t","0","cf_panst_01_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_01"
+"2","0","1","スパッツ","abdata","chara/co_panst_00.unity3d","p_o_panst_spats01","1","0","cf_panst_spats01_t","0","cf_panst_spats01_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_spats01"
+"3","0","1","アンダースコート","abdata","chara/co_panst_00.unity3d","p_o_panst_unsco","0","0","cf_panst_unsco_t","0","cf_panst_unsco_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_unsco"
+"4","1","1","ガーターベルト","abdata","chara/co_panst_00.unity3d","p_o_panst_rinagarter","1","0","cf_panst_garterRina_d_t","0","cf_panst_garterRina_d_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_rinagarter"
+"9","1","1","網タイツ","abdata","chara/co_panst_00.unity3d","p_o_panst_ami","1","0","cf_panst_ami_t","0","cf_panst_ami_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_ami"
+"10","1","1","レギンス","abdata","chara/co_panst_00.unity3d","p_o_panst_regins","1","0","cf_panst_regins_t","0","cf_panst_regins_mc","0","0","0","0","1","chara/thumb/co_panst_00.unity3d","p_o_panst_regins"

@@ -1,0 +1,6 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
+"16","0","2","くノ一肩当て右用","add06","chara/ao_arm_06.unity3d","p_acs_kuno1_shoulder_R","a_n_arm_R","chara/thumb/ao_arm_06.unity3d","p_acs_kuno1_shoulder_R"
+"17","0","2","くノ一肩当て左用","add06","chara/ao_arm_06.unity3d","p_acs_kuno1_shoulder_L","a_n_arm_L","chara/thumb/ao_arm_06.unity3d","p_acs_kuno1_shoulder_L"
+"18","0","2","巫女袖右用","add06","chara/ao_arm_06.unity3d","p_acs_mikosode_R","a_n_arm_R","chara/thumb/ao_arm_06.unity3d","p_acs_mikosode_R"
+"19","0","2","巫女袖左用","add06","chara/ao_arm_06.unity3d","p_acs_mikosode_L","a_n_arm_L","chara/thumb/ao_arm_06.unity3d","p_acs_mikosode_L"
+"20","0","2","鬼神の肩当て","add06","chara/ao_arm_06.unity3d","p_acs_shoulder_onikata","a_n_arm_L","chara/thumb/ao_arm_06.unity3d","p_acs_shoulder_onikata"

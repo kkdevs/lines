@@ -1,0 +1,4 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,HideHair,ThumbAB,ThumbTex
+"41","0","2","羊の角","add06","chara/ao_head_06.unity3d","p_acs_tuno_01","a_n_headside","0","chara/thumb/ao_head_06.unity3d","p_acs_tuno_01"
+"42","0","2","牛の角","add06","chara/ao_head_06.unity3d","p_acs_tuno_02","a_n_headside","0","chara/thumb/ao_head_06.unity3d","p_acs_tuno_02"
+"43","0","2","一角","add06","chara/ao_head_06.unity3d","p_acs_tuno_03","a_n_head","0","chara/thumb/ao_head_06.unity3d","p_acs_tuno_03"

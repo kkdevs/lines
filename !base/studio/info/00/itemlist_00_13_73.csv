@@ -1,0 +1,8 @@
+"管理番号","大きい項目","中間項目","名称","マニフェスト","バンドルパス","ファイルパス","子の接続先","アニメがあるか","カラー１","柄","カラー２","柄","カラー３","柄","拡縮判定"
+"929","13","73","滝","studio00","studio/00.unity3d","p_koi_syu_WaterJet_00_01","","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+"971","13","73","液体","studio00","studio/00.unity3d","p_koi_syu_LiquidWater_00_00","","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+"972","13","73","濃い液体（弱）","studio00","studio/00.unity3d","p_koi_syu_LiquidSio_00_00","","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+"973","13","73","濃い液体（中）","studio00","studio/00.unity3d","p_koi_syu_LiquidSiru_00_00","","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+"974","13","73","濃い液体（強）","studio00","studio/00.unity3d","p_koi_syu_LiquidKancho_00_00","","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+"975","13","73","シャワー（弱）","studio00","studio/00.unity3d","p_koi_syu_LiquidShower_01_00","","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"
+"976","13","73","シャワー（強）","studio00","studio/00.unity3d","p_koi_syu_LiquidShower_00_00","","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE","FALSE"

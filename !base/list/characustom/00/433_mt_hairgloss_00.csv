@@ -1,0 +1,7 @@
+ID,Kind,Possess,Name,MainTexAB,MainTex,ThumbAB,ThumbTex
+"5","0","1","なし","0","0","chara/etc.unity3d","thumb_none"
+"3","0","1","線ハイライト","chara/mt_hairgloss_00.unity3d","cf_hair_00_04_mh","chara/thumb/mt_hairgloss_00.unity3d","thumb_cf_hair_04_gloss"
+"2","0","1","丸ハイライト","chara/mt_hairgloss_00.unity3d","cf_hair_00_03_mh","chara/thumb/mt_hairgloss_00.unity3d","thumb_cf_hair_03_gloss"
+"1","0","1","雷ハイライト","chara/mt_hairgloss_00.unity3d","cf_hair_00_02_mh","chara/thumb/mt_hairgloss_00.unity3d","thumb_cf_hair_02_gloss"
+"0","0","1","帯ハイライト","chara/mt_hairgloss_00.unity3d","cf_hair_00_01_mh","chara/thumb/mt_hairgloss_00.unity3d","thumb_cf_hair_01_gloss"
+"4","0","1","四角ハイライト","chara/mt_hairgloss_00.unity3d","cf_hair_00_05_mh","chara/thumb/mt_hairgloss_00.unity3d","thumb_cf_hair_05_gloss"

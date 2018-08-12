@@ -1,0 +1,5 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
+"0","0","1","チアガーターリボン（左）","abdata","chara/ao_leg_00.unity3d","p_acs_legL_cheer","a_n_leg_L","chara/thumb/ao_leg_00.unity3d","p_acs_legL_cheer"
+"1","0","1","チアガーターリボン（右）","abdata","chara/ao_leg_00.unity3d","p_acs_legR_cheer","a_n_leg_R","chara/thumb/ao_leg_00.unity3d","p_acs_legR_cheer"
+"2","0","1","フリルガーターリング（左）","abdata","chara/ao_leg_00.unity3d","p_acs_frillgarter_l","a_n_leg_L","chara/thumb/ao_leg_00.unity3d","p_acs_frillgarter_l"
+"3","0","1","フリルガーターリング（右）","abdata","chara/ao_leg_00.unity3d","p_acs_frillgarter_r","a_n_leg_R","chara/thumb/ao_leg_00.unity3d","p_acs_frillgarter_r"

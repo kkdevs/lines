@@ -1,0 +1,7 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,ThumbAB,ThumbTex
+"0","0","1","なし","abdata","chara/etc.unity3d","p_dummy","0","0","0","0","0","0","0","0","chara/etc.unity3d","thumb_none"
+"1","0","1","リボン","abdata","chara/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco01","0","cf_top_deco01_t","0","cf_top_deco01_mc","0","0","0","0","chara/thumb/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco01"
+"3","0","1","細リボン","abdata","chara/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco03","0","cf_top_deco03_t","0","cf_top_deco03_mc","0","0","0","0","chara/thumb/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco03"
+"2","0","1","ネクタイ","abdata","chara/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco02","0","cf_top_deco02_t","0","cf_top_deco02_mc","0","0","0","0","chara/thumb/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco02"
+"4","0","1","ルーズネクタイ短","abdata","chara/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco04","0","cf_top_deco04_t","0","cf_top_deco04_mc","0","0","0","0","chara/thumb/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco04"
+"5","0","1","ルーズネクタイ長","abdata","chara/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco05","0","cf_top_deco02_t","0","cf_top_deco02_mc","0","0","0","0","chara/thumb/cpo_jacket_c_00.unity3d","p_o_top_jacketdeco05"

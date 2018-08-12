@@ -1,0 +1,9 @@
+ID,Kind,Possess,Name,MainAB,EyeshadowTex,ThumbAB,ThumbTex
+"0","0","1","なし","0","0","chara/etc.unity3d","thumb_none"
+"1","0","1","タイプ１","chara/mt_eyeshadow_00.unity3d","cw_t_eyeshadow_000","chara/thumb/mt_eyeshadow_00.unity3d","thumb_eyeshadow_000"
+"2","0","1","タイプ２","chara/mt_eyeshadow_00.unity3d","cw_t_eyeshadow_001","chara/thumb/mt_eyeshadow_00.unity3d","thumb_eyeshadow_001"
+"3","0","1","タイプ３","chara/mt_eyeshadow_00.unity3d","cw_t_eyeshadow_002","chara/thumb/mt_eyeshadow_00.unity3d","thumb_eyeshadow_002"
+"4","0","1","タイプ４","chara/mt_eyeshadow_00.unity3d","cw_t_eyeshadow_003","chara/thumb/mt_eyeshadow_00.unity3d","thumb_eyeshadow_003"
+"5","0","1","タイプ５","chara/mt_eyeshadow_00.unity3d","cw_t_eyeshadow_004","chara/thumb/mt_eyeshadow_00.unity3d","thumb_eyeshadow_004"
+"6","0","1","タイプ６","chara/mt_eyeshadow_00.unity3d","cw_t_eyeshadow_005","chara/thumb/mt_eyeshadow_00.unity3d","thumb_eyeshadow_005"
+"7","0","1","タイプ７","chara/mt_eyeshadow_00.unity3d","cw_t_eyeshadow_006","chara/thumb/mt_eyeshadow_00.unity3d","thumb_eyeshadow_006"

@@ -1,0 +1,7 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,HideHair,ThumbAB,ThumbTex
+"73","0","2","ロイヤルクラウン","add09","chara/ao_head_09.unity3d","p_acs_head_royalcrown","a_n_headtop","0","chara/thumb/ao_head_09.unity3d","p_acs_head_royalcrown"
+"74","0","2","羽の髪飾り左用","add09","chara/ao_head_09.unity3d","p_acs_head_hanekazari","a_n_headtop","0","chara/thumb/ao_head_09.unity3d","p_acs_head_hanekazari"
+"75","0","2","羽の髪飾り右用","add09","chara/ao_head_09.unity3d","p_acs_head_hanekazariRR","a_n_headtop","0","chara/thumb/ao_head_09.unity3d","p_acs_head_hanekazariRR"
+"70","0","2","ナイトバイザー","add09","chara/ao_head_09.unity3d","p_acs_armor_head","a_n_headflont","0","chara/thumb/ao_head_09.unity3d","p_acs_armor_head"
+"72","0","2","鎧兜","add09","chara/ao_head_09.unity3d","p_acs_armorhead_cm","a_n_headside","0","chara/thumb/ao_head_09.unity3d","p_acs_armorhead_cm"
+"71","0","2","毛玉","add09","chara/ao_head_09.unity3d","p_acs_kedama","a_n_headtop","0","chara/thumb/ao_head_09.unity3d","p_acs_kedama"

@@ -1,0 +1,6 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,SetHair,ThumbAB,ThumbTex
+"50","5","2","三つ編み横おさげ(左)","abdata","chara/bo_hair_b_13.unity3d","p_cf_hair_b_24","0","chara/thumb/bo_hair_b_13.unity3d","p_cf_hair_b_24"
+"51","5","2","三つ編み横おさげ(右)","abdata","chara/bo_hair_b_13.unity3d","p_cf_hair_b_24_I","0","chara/thumb/bo_hair_b_13.unity3d","p_cf_hair_b_24_I"
+"52","2","2","ぱっつんボブ","abdata","chara/bo_hair_b_13.unity3d","p_cf_hair_b_117","0","chara/thumb/bo_hair_b_13.unity3d","p_cf_hair_b_117"
+"53","0","2","カジュアルオールバック","abdata","chara/bo_hair_b_13.unity3d","p_cf_hair_b_118","0","chara/thumb/bo_hair_b_13.unity3d","p_cf_hair_b_118"
+"54","4","2","ツーサイドアップショート","abdata","chara/bo_hair_b_13.unity3d","p_cf_hair_b_119","0","chara/thumb/bo_hair_b_13.unity3d","p_cf_hair_b_119"

@@ -1,0 +1,6 @@
+ID,Kind,Possess,Name,MainAB,NoseTex,ThumbAB,ThumbTex
+"4","0","1","なし","0","0","chara/etc.unity3d","thumb_none"
+"0","0","1","タイプ１","chara/mt_nose_00.unity3d","cw_t_noseline_000","chara/thumb/mt_nose_00.unity3d","thumb_noseline_000"
+"1","0","1","タイプ２","chara/mt_nose_00.unity3d","cw_t_noseline_001","chara/thumb/mt_nose_00.unity3d","thumb_noseline_001"
+"2","0","1","タイプ３","chara/mt_nose_00.unity3d","cw_t_noseline_002","chara/thumb/mt_nose_00.unity3d","thumb_noseline_002"
+"3","0","1","タイプ４","chara/mt_nose_00.unity3d","cw_t_noseline_003","chara/thumb/mt_nose_00.unity3d","thumb_noseline_003"

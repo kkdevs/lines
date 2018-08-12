@@ -1,0 +1,5 @@
+ID,Kind,Possess,Name,ColorMaskAB,ColorMaskTex,ThumbAB,ThumbTex
+"0","0","1","タイプ１","chara/mt_eye_gradation_00.unity3d","cw_t_hitomigrad_000","chara/thumb/mt_eye_gradation_00.unity3d","thumb_hitomigrad_000"
+"1","0","1","タイプ２","chara/mt_eye_gradation_00.unity3d","cw_t_hitomigrad_001","chara/thumb/mt_eye_gradation_00.unity3d","thumb_hitomigrad_001"
+"2","0","1","タイプ３","chara/mt_eye_gradation_00.unity3d","cw_t_hitomigrad_002","chara/thumb/mt_eye_gradation_00.unity3d","thumb_hitomigrad_002"
+"3","0","1","タイプ４","chara/mt_eye_gradation_00.unity3d","cw_t_hitomigrad_003","chara/thumb/mt_eye_gradation_00.unity3d","thumb_hitomigrad_003"

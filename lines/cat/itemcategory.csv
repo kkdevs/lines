@@ -1,0 +1,91 @@
+0,通常,Normal
+1,キャラ,Character
+6,地面,Ground
+7,ドア,door
+8,壁,wall
+9,階段,The stairs
+72,設置物,Installed matter
+76,建造物,Building
+37,空,Sky
+38,画像板,Image plate
+10,ベッド,bed
+12,机,desk
+13,椅子,Chair
+15,棚,shelf
+14,仕切り,partition
+17,水周り,Around the water
+16,スポーツ,Sports
+18,植物,plant
+19,置物,ornament
+39,その他,Other
+20,飲み物,drink
+21,食べ物,food
+22,日用品,Daily necessities
+71,雑貨,Sundries
+24,電化製品,Electric appliances
+25,医療,Medical
+29,髪,hair
+30,頭,Head
+31,顔,face
+32,首,neck
+33,胴,Body
+34,腰,Waist
+35,腕,arm
+36,手,hand
+27,おもちゃ,toy
+4,吹き出し,Speech balloon
+5,画面効果,Screen effect
+2,obj有り,With obj
+3,obj無し,No obj
+40,環境音,Environmental sound
+41,セクシー,sexy
+42,お嬢様,Lady
+43,高飛車,High handedness
+44,後輩キャラ,Junior characters
+45,ミステリアス,mysterious
+46,電波,Radio wave
+47,大和撫子,Yamatonosako
+48,ボーイッシュ,boyish
+49,純真無垢,pure
+50,単純,Simple
+51,邪気眼,Evil eye
+52,母性的,Maternal
+53,姉御肌,Sister skin
+54,ギャル,Gal
+55,不良少女,Bad girl
+56,野性的,Wild
+57,意識高いクール,Awareness high cool
+58,ひねくれ,Twitch
+59,不幸少女,Unfortunate girl
+60,文学少女,Literary girl
+61,モジモジ,Mojimoji
+62,正統派ヒロイン,Orthodox heroin
+63,ミーハー,Meer
+64,オタク女子,Geek girls
+65,ヤンデレ,Yandere
+66,ものぐさ,Stubbornness
+67,無口,Silent
+68,意地っ張り,Senselessness
+69,のじゃっ子,Tanga
+70,素直クール,Girls cool
+28,コイカツ,A carpet
+26,固定エフェクト,Fixed effect
+73,パーティクル,particle
+11,照明,illumination
+77,メカ,Mecha
+74,通常,Normal
+75,H,H
+78,メカ,Mecha
+79,ファンタジー,Fantasy
+81,ファンタジー,Fantasy
+80,ファンタジー,Fantasy
+82,追加01,Addition 01
+83,追加02,Addition 02
+87,サマー,summer
+85,サマー,summer
+84,サマー,summer
+86,サマー,summer
+88,気さく,Friendly
+89,勝気,Victory
+90,誠実,Sincere
+91,艶やか,glossy

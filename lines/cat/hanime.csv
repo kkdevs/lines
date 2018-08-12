@@ -1,0 +1,77 @@
+Idle,待機,Wait
+M_Touch,胸反応開始,Chest reaction initiation
+M_Idle,胸触り待機,Chest touch standby
+A_Touch,股間反応開始,Start crotch reaction
+A_Idle,股間触り待機,Crotch touch waiting
+S_Touch,尻反応開始,Start ass action
+S_Idle,尻触り待機,Stand touching buttocks
+K_Touch,キス反応開始,Start kissing reaction
+K_Loop,キス反応ループ,Kiss reaction loop
+Front_Dislikes,前嫌がりループ,Pre-disgusted loop
+Back_Dislikes,後嫌がりループ,After disgusting loop
+Orgasm_Start,絶頂開始,Cum start
+Orgasm_Loop,絶頂ループ,Cum loop
+Orgasm_A,事後,after
+Stop_Idle,待機,Wait
+WLoop,弱ループ,Weak loop
+SLoop,強ループ,Strong loop
+OLoop,絶頂前ループ,Cum loop before loop
+M_OUT_Start,外出し開始,Start going out
+M_OUT_Loop,外出しループ,Going out Loop
+OUT_A,外出し事後,After going out
+IN_Start,中出し開始,Cum shot starts
+IN_Loop,中出しループ,Cream in the middle
+Oral_Idle_IN,口内待機IN,Waiting in your mouth IN
+Oral_Idle,口内待機,Waiting in the mouth
+Drink_IN,のむIN,Dull IN
+Drink,のむ,Dull
+Drink_A,のむ事後,After dinner
+Vomit_IN,はくIN,Foil IN
+Vomit,はく,foil
+Vomit_A,はく事後,Post insecurity
+Insert,挿入,Insert
+InsertIdle,挿入待機,Insertion wait
+M_IN_Start,中出し開始,Cum shot starts
+M_IN_Loop,中出しループ,Cream in the middle
+WF_IN_Start,女絶頂弱開始,Lady cum start starts weak
+WF_IN_Loop,女絶頂弱ループ,Woman cum eccentric weak loop
+WS_IN_Start,同時絶頂弱開始,Simultaneous culmination start at the same time
+WS_IN_Loop,同時絶頂弱ループ,Simultaneous cum weak loop
+WS_IN_A,絶頂弱事後,Cum sniper after
+SF_IN_Start,女絶頂強開始,Girl cum hard start strong
+SF_IN_Loop,女絶頂強ループ,Girls cum heavy loop
+SS_IN_Start,同時絶頂強開始,Simultaneous bloom start simultaneously
+SS_IN_Loop,同時絶頂強ループ,Simultaneous cumulative strong loop
+SS_IN_A,絶頂強事後,Cum swell afterwards
+IN_A,中出し事後,Post cumshot
+Pull,抜く,To pull out
+Drop,汁垂れ,Juice
+A_Insert,挿入,Insert
+A_InsertIdle,挿入待機,Insertion wait
+A_WLoop,弱ループ,Weak loop
+A_SLoop,強ループ,Strong loop
+A_OLoop,絶頂前ループ,Cum loop before loop
+A_M_IN_Start,中出し開始,Cum shot starts
+A_M_IN_Loop,中出しループ,Cream in the middle
+A_WF_IN_Start,女絶頂弱開始,Lady cum start starts weak
+A_WF_IN_Loop,女絶頂弱ループ,Woman cum eccentric weak loop
+A_WS_IN_Start,同時絶頂弱開始,Simultaneous culmination start at the same time
+A_WS_IN_Loop,同時絶頂弱ループ,Simultaneous cum weak loop
+A_WS_IN_A,絶頂弱事後,Cum sniper after
+A_SF_IN_Start,女絶頂強開始,Girl cum hard start strong
+A_SF_IN_Loop,女絶頂強ループ,Girls cum heavy loop
+A_SS_IN_Start,同時絶頂強開始,Simultaneous bloom start simultaneously
+A_SS_IN_Loop,同時絶頂強ループ,Simultaneous cumulative strong loop
+A_SS_IN_A,絶頂強事後,Cum swell afterwards
+A_IN_A,中出し事後,Post cumshot
+A_M_OUT_Start,外出し開始,Start going out
+A_M_OUT_Loop,外出しループ,Going out Loop
+A_OUT_A,外出し事後,After going out
+A_Pull,抜く,To pull out
+A_Drop,汁垂れ,Juice
+MLoop,中ループ,Medium loop
+Orgasm,絶頂,Cum
+Orgasm_B,事後,after
+In,ループIN,Loop IN
+Loop,ループ,loop
+Out,ループOUT,Loop OUT

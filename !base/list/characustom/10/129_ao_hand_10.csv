@@ -1,0 +1,6 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
+"44","0","2","エンシェントロッド","add10","chara/ao_hand_10.unity3d","p_acs_bat_rod1_00","a_n_hand_R","chara/thumb/ao_hand_10.unity3d","p_acs_bat_rod1_00"
+"42","0","2","メカハンド握り右用","add10","chara/ao_hand_10.unity3d","p_acs_armorhand_gR","a_n_hand_R","chara/thumb/ao_hand_10.unity3d","p_acs_armorhand_gR"
+"43","0","2","メカハンド開き右用","add10","chara/ao_hand_10.unity3d","p_acs_armorhand_nR","a_n_hand_R","chara/thumb/ao_hand_10.unity3d","p_acs_armorhand_nR"
+"40","0","2","メカハンド握り左用","add10","chara/ao_hand_10.unity3d","p_acs_armorhand_gL","a_n_hand_L","chara/thumb/ao_hand_10.unity3d","p_acs_armorhand_gL"
+"41","0","2","メカハンド開き左用","add10","chara/ao_hand_10.unity3d","p_acs_armorhand_nL","a_n_hand_L","chara/thumb/ao_hand_10.unity3d","p_acs_armorhand_nL"

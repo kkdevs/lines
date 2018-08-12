@@ -1,0 +1,7 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
+"13","0","2","鞘小太刀","add06","chara/ao_waist_06.unity3d","p_acs_kuno1_kodachi","a_n_waist_f","chara/thumb/ao_waist_06.unity3d","p_acs_kuno1_kodachi"
+"14","0","2","白木拵え納刀","add06","chara/ao_waist_06.unity3d","p_acs_saya_siraki","a_n_waist_L","chara/thumb/ao_waist_06.unity3d","p_acs_saya_siraki"
+"19","0","2","白木拵えの鞘","add06","chara/ao_waist_06.unity3d","p_acs_saya_siraki_2","a_n_waist_L","chara/thumb/ao_waist_06.unity3d","p_acs_saya_siraki_2"
+"15","0","2","2連鞘刀","add06","chara/ao_waist_06.unity3d","p_acs_katana_duo","a_n_waist_b","chara/thumb/ao_waist_06.unity3d","p_acs_katana_duo"
+"16","0","2","鬼神の腰当右用","add06","chara/ao_waist_06.unity3d","p_acs_waistR_kosiate_oni","a_n_waist_R","chara/thumb/ao_waist_06.unity3d","p_acs_waistR_kosiate_oni"
+"17","0","2","鬼神の腰当左用","add06","chara/ao_waist_06.unity3d","p_acs_waistL_kosiate_oni","a_n_waist_L","chara/thumb/ao_waist_06.unity3d","p_acs_waistL_kosiate_oni"

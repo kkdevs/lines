@@ -1,0 +1,5 @@
+ID,Kind,Possess,Name,MainAB,MoleTex,ThumbAB,ThumbTex
+"0","0","1","なし","0","0","chara/etc.unity3d","thumb_none"
+"1","0","1","ホクロ","chara/mt_mole_00.unity3d","cw_t_mole_000","chara/thumb/mt_mole_00.unity3d","thumb_mole_000"
+"2","0","1","そばかす１","chara/mt_mole_00.unity3d","cw_t_mole_001","chara/thumb/mt_mole_00.unity3d","thumb_mole_001"
+"3","0","1","そばかす２","chara/mt_mole_00.unity3d","cw_t_mole_002","chara/thumb/mt_mole_00.unity3d","thumb_mole_002"

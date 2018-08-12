@@ -1,0 +1,4 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
+"23","0","2","小太刀","add06","chara/ao_hand_06.unity3d","p_acs_kuno1_kodachi_yaiba","a_n_hand_R","chara/thumb/ao_hand_06.unity3d","p_acs_kuno1_kodachi_yaiba"
+"24","0","2","白木拵え刀","add06","chara/ao_hand_06.unity3d","p_acs_katana_siraki","a_n_hand_R","chara/thumb/ao_hand_06.unity3d","p_acs_katana_siraki"
+"25","0","2","鬼神の金棒","add06","chara/ao_hand_06.unity3d","p_acs_handR_onikana","a_n_hand_R","chara/thumb/ao_hand_06.unity3d","p_acs_handR_onikana"

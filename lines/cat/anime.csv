@@ -1,0 +1,445 @@
+tpose,初期ポーズ,Initial pose
+Stand_00_00,立ち1,Standing 1
+Stand_01_00,立ち2,Standing 2
+Stand_02_00,立ち3,Standing 3
+Stand_03_00,立ち4,Standing 4
+Stand_04_00,立ち5,Standing 5
+Stand_05_00,立ち6,Standing 6
+Stand_06_00,立ち7,Standing 7
+Stand_07_00,立ち8,Standing 8
+Stand_08_00,立ち9,Standing 9
+Stand_09_00,立ち10,Standing 10
+Stand_10_00,立ち11,Standing 11
+Stand_11_00,立ち12,Standing 12
+Stand_12_00,立ち13,Standing 13
+Stand_13_00,立ち14,Standing 14
+Stand_14_00,立ち15,Standing 15
+Stand_15_00,立ち16,Standing 16
+Stand_16_00,立ち17,Standing 17
+Stand_17_00,立ち18,Standing 18
+Stand_18_00,立ち19,Standing 19
+Stand_19_00,立ち20,Standing 20
+Stand_20_00,立ち21,Standing 21
+Stand_21_00,立ち22,Standing 22
+Stand_22_00,立ち23,Standing 23
+Stand_23_00,立ち24,Standing 24
+Stand_24_00,立ち25,Standing 25
+Stand_25_00,立ち26,Standing 26
+Stand_26_00,立ち27,Standing 27
+Stand_27_00,立ち28,Standing 28
+Stand_28_00,立ち29,Standing 29
+Stand_29_00,立ち30,Standing 30
+homeroom teacher_00,立ち31,Standing 31
+Math teacher_00,立ち32,Standing 32
+Idle_08_01,立ち33,Standing 33
+Idle_00_00,ポーズ1,Pause 1
+Idle_00_01,ポーズ2,Pause 2
+Idle_00_02,ポーズ3,Pause 3
+Idle_00_03,ポーズ4,Pause 4
+Idle_01_01,ポーズ5,Pause 5
+Idle_01_02,ポーズ6,Pause 6
+Idle_01_03,ポーズ7,Pause 7
+Idle_02_00,ポーズ8,Pause 8
+Idle_02_01,ポーズ9,Pause 9
+Idle_02_02,ポーズ10,Pause 10
+Idle_03_01,ポーズ11,Pause 11
+Idle_03_02,ポーズ12,Pause 12
+Idle_03_03,ポーズ13,Pause 13
+Idle_03_04,ポーズ14,Pause 14
+Idle_04_01,ポーズ15,Pause 15
+Idle_04_02,ポーズ16,Pause 16
+Idle_05_01,ポーズ17,Pause 17
+Idle_05_02,ポーズ18,Pause 18
+Idle_06_01,ポーズ19,Pause 19
+Idle_06_02,ポーズ20,Pause 20
+Idle_06_03,ポーズ21,Pause 21
+Idle_07_01,ポーズ22,Pause 22
+Idle_09_01,ポーズ23,Pause 23
+Idle_10_01,ポーズ24,Pause 24
+Idle_12_01,ポーズ25,Pause 25
+Idle_13_01,ポーズ26,Pause 26
+Idle_14_01,ポーズ27,Pause 27
+Idle_15_01,ポーズ28,Pause 28
+Idle_16_01,ポーズ29,Pause 29
+Stand_Joy_00,喜1,Joy 1
+Stand_Joy_01,喜2,Joy 2
+Stand_Joy_02,喜3,Ji 3
+Stand_Joy_03,喜4,Joy 4
+Stand_Joy_04,喜5,Joy 5
+Stand_Joy_05,喜6,Ji 6
+Stand_Joy_06,喜7,Joy 7
+Stand_Joy_07,喜8,Joy 8
+Stand_Joy_08,喜9,Ji 9
+Stand_Joy_09,喜10,Ji 10
+Stand_Ang_00,怒1,Anger 1
+Stand_Ang_01,怒2,Anger 2
+Stand_Ang_02,怒3,Anger 3
+Stand_Ang_03,怒4,Angry 4
+Stand_Ang_04,怒5,Anger 5
+Stand_Ang_05,怒6,Angry 6
+Stand_Ang_06,怒7,Angry 7
+Stand_Ang_07,怒8,Anger 8
+Stand_Ang_08,怒9,Anger 9
+Stand_Ang_09,怒10,Anger 10
+Stand_Sat_00,哀1,Sorrow 1
+Stand_Sat_01,哀2,Sorrow 2
+Stand_Sat_02,哀3,Sorrow 3
+Stand_Sat_03,哀4,Sorrow 4
+Stand_Sat_04,哀5,Sorrow 5
+Stand_Sat_05,哀6,Sorrow 6
+Stand_Sat_06,哀7,Sorrow 7
+Stand_Sat_07,哀8,Sorrow 8
+Stand_Sat_08,哀9,Sorrow 9
+Stand_Sat_09,哀10,Sorrow 10
+Stand_Oth_00,驚恥他1,Awesome others 1
+Stand_Oth_01,驚恥他2,Awesome other 2
+Stand_Oth_02,驚恥他3,Awesome others 3
+Stand_Oth_03,驚恥他4,Amazing others 4
+Stand_Oth_04,驚恥他5,Amazing others 5
+Stand_Oth_05,驚恥他6,Amazing others 6
+Stand_Oth_06,驚恥他7,Embarrassment and others 7
+Stand_Oth_07,驚恥他8,Embarrassment and others 8
+Stand_Oth_08,驚恥他9,Embarrassment and others 9
+Stand_Oth_09,驚恥他10,Amazing others 10
+f_aruki_00_00_01,歩く1,Walk 1
+f_aruki_00_01_01,歩く2,Walk 2
+f_hasiru_00_00_01,走る1,Run 1
+f_hasiru_00_01_01,走る2,Run 2
+f_hasiru_00_02_01,走る3,Run 3
+f_Land_00_00,走る4,Running 4
+f_stand_00_00,待機1,Wait 1
+f_tachi_00_12,待機2,Wait 2
+f_cheer_00_03,待機3,Wait 3
+f_tachi_00_00,本を探す,Find a book
+f_tachi_00_02,本を見る,Watch a book
+f_tachi_00_04,スマホを眺める,Look at the smartphone
+f_tachi_00_05,フリック操作,Flick operation
+f_tachi_00_06,音楽を聴く,I listen to music
+f_tachi_00_07_00,自撮り待機,Self-filming standby
+f_tachi_00_07_01,自撮り,Self-taken
+f_tachi_00_09,飲む待機,Wait for drinking
+f_tachi_00_10,飲む,drink
+f_tachi_00_11,外を眺める,I look outside
+f_tachi_00_13,伸び,Elongation
+f_tachi_00_14,髪を直す,To fix hair
+f_tachi_00_15,容姿を確認する,Confirm appearance
+f_manken_00_01,チラシを配る,Distribute flyers
+f_tachi_00_16_00,箒持ち待機,Hold the brother stand
+f_tachi_00_16_02,掃く,Sweep away
+f_tachi_00_17,箒持ち待機さぼり,Hold a brother standby
+f_tachi_00_18,机を拭く,Wipe the desk
+f_tachi_00_19,窓を拭く,Wipe the windows
+f_tachi_00_20,壁立ち1,Wall Standing 1
+f_tachi_00_21,壁立ち2,Wall standing 2
+f_tachi_00_22,壁立ち3,Wall Standing 3
+f_talk_00_00_00,待機1,Wait 1
+f_talk_00_00_01,話す1,Talking 1
+f_talk_00_01_00,待機2,Wait 2
+f_talk_00_01_01,話す2,Talk 2
+f_talk_00_02_00,待機3,Wait 3
+f_talk_00_02_01,話す3,Talking 3
+f_talk_00_03_00,待機4,Wait 4
+f_talk_00_03_01,話す4,Talk 4
+f_talk_00_04_00,待機5,Wait 5
+f_talk_00_04_01,話す5,Talk 5
+f_talk_00_05_00,待機6,Wait 6
+f_talk_00_05_01,話す6,Talk 6
+f_talk_00_06_00,待機7,Wait 7
+f_talk_00_06_01,話す7,Talk 7
+f_talk_00_07_00,待機8,Wait 8
+f_talk_00_07_01,話す8,Talk 8
+f_talk_00_08_00,待機9,Wait 9
+f_talk_00_08_01,話す9,Talk 9
+f_talk_00_09_00,待機10,Wait 10
+f_talk_00_09_01,話す10,Talk 10
+f_talk_00_10_00,待機11,Standby 11
+f_talk_00_10_01,話す11,Talking 11
+f_talk_00_11_00,待機12,Wait 12
+f_talk_00_11_01,話す12,Talking about 12
+f_talk_00_12_00,待機13,Wait 13
+f_talk_00_12_01,話す13,Talking 13
+f_talk_00_13_00,待機14,Wait 14
+f_talk_00_13_01,話す14,Talking 14
+f_suwari_00_14,待機,Wait
+f_suwari_00_02,本を読む1,Reading books 1
+f_manken_00_02,本を読む2,Reading a book 2
+f_suwari_00_09_00,スマホを眺める,Look at the smartphone
+f_suwari_00_09_01,フリック操作,Flick operation
+f_suwari_00_10,ゲームをする,To play a game
+f_suwari_00_13,音楽を聴く,I listen to music
+f_suwari_00_16,飲む待機,Wait for drinking
+f_suwari_00_17,飲む,drink
+f_suwari_00_18,伸び,Elongation
+f_suwari_00_15,髪を直す,To fix hair
+f_suwari_00_21,片足上げ抱え,One foot lifting hug
+f_suwari_00_11_00,足を組み待機1,Stand waiting for feet 1
+f_suwari_00_11_01,足を組み換える1,Rebuild your feet 1
+f_suwari_00_11_02,足を組み待機2,Stand feet waiting 2
+f_suwari_00_11_03,足を組み換える2,Rebuild your feet 2
+f_Koikatu_00_01,ソファーでまったり,Chill in the sofa
+f_suwari_00_04_00,本を読む待機1,Waiting to read a book 1
+f_suwari_00_04_01,姿勢を変える1,Change posture 1
+f_suwari_00_04_02,本を読む待機2,Waiting to read a book 2
+f_suwari_00_04_03,姿勢を変える2,Change posture 2
+f_suwari_00_03_00,勉強をする待機,Waiting to study
+f_suwari_00_03_01,勉強をする,study
+f_manken_00_00_00,絵を描く待機,Wait to draw a picture
+f_manken_00_00_01,絵を描く,draw a picture
+f_suwari_00_24_00,スマホを眺める,Look at the smartphone
+f_suwari_00_24_01,フリック操作,Flick operation
+f_suwari_00_07,音楽を聴く,I listen to music
+f_suwari_00_08_00,飲む待機,Wait for drinking
+f_suwari_00_08_01,飲む,drink
+f_suwari_00_00,容姿を確認する待機,Wait for confirmation of appearance
+f_suwari_00_01,容姿を確認する,Confirm appearance
+f_suwari_00_19,横座り,Sideways
+f_suwari_00_20,机に座る,Sit on the desk
+f_suwari_00_22,机によりかかる,It takes with a desk
+f_suwari_00_23,寝たふり,Pretending to sleep
+f_syagami_00_00,しゃがみ1,Crouching 1
+f_syagami_00_01,しゃがみ2,Crouching 2
+f_syagami_00_02,しゃがみ3,Squatting 3
+f_sadou_00_02,正座,Seiza
+f_sadou_00_01_00,お茶をたてる待機,Standby waiting for tea
+f_sadou_00_01_01,お茶をたてる,To make tea
+f_sadou_00_00_00,お茶を飲む待機,Wait for tea
+f_sadou_00_00_01,お茶を飲む,drink tea
+f_Koikatu_00_00,女の子座り,Girls sitting
+f_suwari_00_12,お姉さん座り,Sister sitting
+f_eat_00_00,食事Ａ1,Meal A1
+f_eat_00_01,食事Ａ2,Meals A2
+f_eat_00_02,食事Ａ3,Meals A3
+f_eat_00_04,食事B1,Meals B1
+f_eat_00_05,食事B2,Meals B 2
+f_eat_00_06,食事C1,Meal C1
+f_eat_00_07,食事C2,Meal C2
+f_action_00_00,くしゃみ,sneeze
+f_action_00_01,あくび,Yawn
+f_action_00_02,暑がる,It gets hot
+f_action_00_03,手を振る,wave hands
+f_action_00_04_00,リップクリームを塗る待機,Waiting to apply lip balm
+f_action_00_04_01,リップクリームを塗る,Apply lip balm
+f_poster_action_00_00,ポスターを貼る,Paste a poster
+f_cheer_00_00,チアダンス待機,Waiting for cheerleading
+f_cheer_00_01,チアダンス練習1,Cheer Dance Exercise 1
+f_cheer_00_02,チアダンス練習2,Cheer Dance Practice 2
+f_tachi_00_08_00,ダンス練習待機,Dance practice standby
+f_tachi_00_08_01,ダンス練習,Dance practice
+f_undou_00_00,ストレッチ1,Stretch 1
+f_undou_00_01,ストレッチ2,Stretch 2
+f_undou_00_02,ストレッチ3,Stretch 3
+f_undou_00_03,ストレッチ4,Stretch 4
+f_suiei_00_00,クロールで泳ぐ,Swim with crawl
+f_suiei_00_01,プール座り1,Pool sitting 1
+f_suiei_00_02_00,プール座り2,Pool Sitting 2
+f_suiei_00_02_02,プール座り3,Pool sitting 3
+f_reaction_00_00_M,恥ずかしがる1,I am shy
+f_reaction_00_01_M,恥ずかしがる2,I am shy 2
+f_reaction_00_02_M,恥ずかしがる3,I am shy 3
+f_reaction_00_03_M,顔を見られ隠す,Hide face and conceal
+f_reaction_00_04_M,胸を見られ恥ずかしがる,I feel shy at my breast.
+f_reaction_00_05_M,胸を触られ隠す1,Hold my chest and hide it 1
+f_reaction_00_06_M,胸を触られ隠す2,Hold my chest and hide it 2
+f_reaction_00_07_M,胸を触られ隠す3,Hold my chest and hide it 3
+f_reaction_00_08_M,頬を触られ嫌がられる,Cheated and cheated
+f_reaction_00_09_M,手を触れられ恥ずかしがる,I touch my hands and I feel shy
+f_reaction_00_10_M,手を触れられ嫌がられる,I hate being touched by hands
+f_defense_00_00_00,隠す,hide
+f_defense_00_00_01,隠すループ,Hide loop
+f_sleep_00_00,寝返り待機,Turn over wait
+f_sleep_00_01,寝返り,Turning over
+f_sleep_00_02,寝,Sleeping
+f_sleep_00_03,机で寝る,I go to bed at my desk.
+f_sleep_00_04,椅子で寝る,I sleep in a chair
+f_sleep_00_05,ベンチで寝る1,I sleep on the bench 1
+f_sleep_00_06,ベンチで寝る2,I sleep on the bench 2
+f_soine_00_00,添い寝1,Co-sleeping 1
+f_soine_00_01,添い寝2,Co-sleeping 2
+f_soine_00_02,添い寝3,Co-sleeping 3
+01,シーン1,Scene 1
+02,シーン2,Scene 2
+03,シーン3,Scene 3
+04,シーン4,Scene 4
+05,シーン5,Scene 5
+live_dance,フル,full
+mc_m_stand_00_00,待機,Wait
+mc_m_walk_00_00_01,歩く,walk
+mc_m_run_01_00,走り,Running
+mc_m_squat_00_00_01,しゃがみ,Squat down
+mc_m_squat_walk_00_00_01,しゃがみ歩き,Squatting Walking
+mc_m_talk_00_00,話す,speak
+m_call_00,呼び出し,call
+m_tachi_00_02,本を読む1,Reading books 1
+m_Lewd_00_00,本を読む2,Reading a book 2
+m_undou_00_02,パタパタ,Pitter-patter
+m_action_00_00,スクワット,Squat
+m_action_00_01,しんきゃく,Rice field
+m_action_00_02,シャドーボクシング,Shadow boxing
+m_Lewd_00_01,腰振り,Waist swing
+m_suwari_00_03,勉強をする,study
+m_Lewd_00_02,座り,sitting
+katana_00,ポーズ1,Pause 1
+katana_01,ポーズ2,Pause 2
+katana_02,ポーズ3,Pause 3
+katana_03,ポーズ4,Pause 4
+kasa_00,ポーズ5,Pause 5
+konbou_00,ポーズ6,Pause 6
+konbou_01,ポーズ7,Pause 7
+pole_dance_00,ポールダンス,pole dance
+meka_00,ポーズ1,Pause 1
+meka_01,ポーズ2,Pause 2
+meka_02,ポーズ3,Pause 3
+dance_00,ダンス1,Dance 1
+dance_01,ダンス2,Dance 2
+dance_02,ダンス3,Dance 3
+dance_03,ダンス4,Dance 4
+dance_04,ダンス5,Dance 5
+dance_05,ダンス6,Dance 6
+dance_06,ダンス7,Dance 7
+fantasy_00,ポーズ1,Pause 1
+fantasy_01,ポーズ2,Pause 2
+fantasy_02,ポーズ3,Pause 3
+fantasy_03,ポーズ4,Pause 4
+nage_00_01,アニメ,Anime
+FightA_cutin_00,格闘A１,Fight A1
+FightA_cutin_01,格闘A２,Fighting A2
+FightA_cutin_02,格闘A３,Fight A3
+FightB_cutin_00,格闘B１,Fighting B1
+FightB_cutin_01,格闘B２,Fighting B2
+FightB_cutin_02,格闘B３,Fight B 3
+AuraShot_cutin_00,気弾１,Nuisance 1
+AuraShot_cutin_01,気弾２,Nuisance 2
+AuraShot_cutin_02,気弾３,Airbomb 3
+Sword_cutin_00,片手剣１,One handed sword 1
+Sword_cutin_01,片手剣２,One handed sword 2
+Sword_cutin_02,片手剣３,One handed sword 3
+ShieldSword_cutin_00,盾と剣１,Shield and sword 1
+ShieldSword_cutin_01,盾と剣２,Shield and sword 2
+ShieldSword_cutin_02,盾と剣３,Shield and Sword 3
+Dagger1_cutin_00,小太刀１,Odotori 1
+Dagger1_cutin_01,小太刀２,Odotori 2
+Dagger1_cutin_02,小太刀３,Odotori 3
+Dagger2_cutin_00,小太刀二刀１,Odotori two knives 1
+Dagger2_cutin_01,小太刀二刀２,Two small swords 2
+Dagger2_cutin_02,小太刀二刀３,Odotori two swords 3
+Gun1_cutin_00,拳銃１,Handgun 1
+Gun1_cutin_01,拳銃２,Handgun 2
+Gun1_cutin_02,拳銃３,Handgun 3
+Gun2_cutin_00,二丁拳銃１,Two dingers gun 1
+Gun2_cutin_01,二丁拳銃２,Two-hand gun 2
+Gun2_cutin_02,二丁拳銃３,Two-hand gun 3
+Throwing_cutin_00,投擲１,Throwing 1
+Throwing_cutin_01,投擲２,Throw 2
+Throwing_cutin_02,投擲３,Throwing 3
+MagicWand_cutin_00,魔法杖１,Magic wand 1
+MagicWand_cutin_01,魔法杖２,Magic wand 2
+MagicWand_cutin_02,魔法杖３,Magic wand 3
+MagicBook_cutin_00,魔法本１,Magic book 1
+MagicBook_cutin_01,魔法本２,Magic book 2
+MagicBook_cutin_02,魔法本３,Magic book 3
+LargeSword_cutin_00,両手剣１,Two handed sword 1
+LargeSword_cutin_01,両手剣２,Two handed sword 2
+LargeSword_cutin_02,両手剣３,Two handed sword 3
+Rod_Spear_cutin_00,棒・槍１,Stick / Spear 1
+Rod_Spear_cutin_01,棒・槍２,Stick / Spear 2
+Rod_Spear_cutin_02,棒・槍３,Stick / Spear 3
+Hammer_Sickle_cutin_00,槌・鎌１,Hammer / scythe 1
+Hammer_Sickle_cutin_01,槌・鎌２,Hammer and sickle 2
+Hammer_Sickle_cutin_02,槌・鎌３,Hammer and sickle 3
+Rifle_cutin_00,ライフル１,Rifle 1
+Rifle_cutin_01,ライフル２,Rifle 2
+Rifle_cutin_02,ライフル３,Rifle 3
+Bow_cutin_00,弓矢１,Bow and arrow 1
+Bow_cutin_01,弓矢２,Bow and arrow 2
+Bow_cutin_02,弓矢３,Bow and arrow 3
+attack_00,攻撃１,Attack 1
+attack_01,攻撃２,Attack 2
+attack_02,攻撃３,Attack 3
+attack_03,攻撃４,Attack 4
+defense_00,防御,defense
+down_00,倒れる,Collapse
+tachi_00,立ちポーズ1,Standing pose 1
+tachi_01,立ちポーズ2,Standing pose 2
+tachi_02,立ちポーズ3,Standing pose 3
+tachi_03,立ちポーズ4,Standing pose 4
+tachi_04,立ちポーズ5,Standing pose 5
+tachi_05,立ちポーズ6,Standing pose 6
+tachi_06,立ちポーズ7,Standing pose 7
+tachi_07,立ちポーズ8,Standing pose 8
+tachi_08,立ちポーズ9,Standing pose 9
+tachi_09,立ちポーズ10,Standing pose 10
+tachi_10,立ちポーズ11,Standing pose 11
+tachi_11,立ちポーズ12,Standing pose 12
+tachi_12,立ちポーズ13,Standing pose 13
+tachi_13,立ちポーズ14,Standing pose 14
+tachi_14,立ちポーズ15,Standing pose 15
+suwari_00,座り1,Sitting 1
+suwari_01,座り2,Sitting 2
+suwari_02,座り3,Sitting 3
+suwari_03,座り4,Sitting 4
+suwari_04,座り5,Sitting 5
+suwari_05,座り6,Sitting 6
+suwari_06,座り7,Sitting 7
+suwari_07,座り8,Sitting 8
+sleep_00,寝1,Sleeping 1
+sleep_01,寝2,Sleeping 2
+sleep_02,寝3,Sleeping 3
+sleep_03,寝4,Sleeping 4
+sleep_04,寝5,Sleeping 5
+tyugosi_00,中腰１,Middle 1
+tyugosi_01,中腰２,Middle hip 2
+tyugosi_02,中腰３,Middle back 3
+tyugosi_03,中腰４,Middle hip 4
+tyugosi_04,中腰５,Middle waist 5
+tyugosi_05,中腰６,Middle waist 6
+tyugosi_06,中腰７,Middle hip 7
+suwari_08,座り９,Sitting 9
+suwari_09,座り１０,Sitting 10
+suwari_10,座り１１,Sitting 11
+ne_00,寝１,Sleeping 1
+ne_01,寝２,Sleeping 2
+ne_02,寝３,Sleeping 3
+ne_03,寝４,Sleeping 4
+ne_04,寝５,Sleeping 5
+ne_05,寝６,Sleeping 6
+ne_06,寝７,Sleeping 7
+ne_07,寝８,Sleeping 8
+isu_00,椅子１,Chair 1
+isu_01,椅子２,Chair 2
+isu_02,椅子３,Chair 3
+f_action_00,スイング,swing
+f_action_01,orz,orz
+stretch_00,ストレッチ１,Stretch 1
+stretch_01,ストレッチ２,Stretch 2
+stretch_02,ストレッチ３,Stretch 3
+stretch_03,ストレッチ４,Stretch 4
+chase_00,動き回る１,Move around 1
+chase_01,動き回る２,Move around 2
+chase_02,動き回る３,Move around 3
+chase_03,動き回る４,Move around 4
+chase_04,動き回る５,Move around 5
+dive_00,ダイブ１,Dive 1
+dive_01,ダイブ２,Dive 2
+dive_02,ダイブ３,Dive 3
+dive_03,ダイブ４,Dive 4
+beachball_01,ビーチボール1,Beach ball 1
+beachball_02,ビーチボール2,Beach ball 2
+beachball_03,ビーチボール3,Beach ball 3
+beachball_04,ビーチボール4,Beach ball 4
+f_action_02,女 準備体操,Female preparatory exercise
+m_action_01,男 準備体操,Male preparation gymnastics
+m_action_02,男 水を掛ける,Men water up
+m_action_03,男 水を掛けられる,Men can put water on
+m_action_00,ウクレレ,ukulele
+f_action_04,シューティング,Shooting
+nugi_00,着替え1,Dress change 1
+nugi_01,着替え2,Dress change 2
+nugi_02,着替え3,Dress change 3
+nugi_03,着替え4,Dress change 4
+nugi_04,着替え5,Dress change 5
+nugi_05,着替え6,Dress change 6
+f_action_03,着替え7,Dress change 7
+Stand_30_00,立ち1,Standing 1
+Stand_31_00,立ち2,Standing 2
+Stand_32_00,立ち3,Standing 3
+Stand_33_00,立ち4,Standing 4

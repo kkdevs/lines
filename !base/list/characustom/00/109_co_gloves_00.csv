@@ -1,0 +1,9 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,StateType,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,ThumbAB,ThumbTex
+"0","0","1","なし","abdata","chara/etc.unity3d","p_dummy","3","0","0","0","0","0","0","0","0","chara/etc.unity3d","thumb_none"
+"1","0","1","弓かけ","abdata","chara/co_gloves_00.unity3d","p_o_glove_kyuudou","1","0","cf_glove_yumikake_t","0","cf_t_glove_yumikake_mc","0","0","0","0","chara/thumb/co_gloves_00.unity3d","p_o_glove_kyuudou"
+"2","0","1","小悪魔手袋","abdata","chara/co_gloves_00.unity3d","p_o_glove_manken","1","0","cf_glove_manken_00_t","0","cf_glove_manken_00_mc","0","0","0","0","chara/thumb/co_gloves_00.unity3d","p_o_glove_manken"
+"3","0","1","アイドル手袋","abdata","chara/co_gloves_00.unity3d","p_o_gloves_idol01","1","0","cf_gloves_idol_t","0","cf_gloves_idol_mc","0","0","0","0","chara/thumb/co_gloves_00.unity3d","p_o_gloves_idol01"
+"4","0","1","指先絆創膏左手","abdata","chara/co_gloves_00.unity3d","p_o_gloves_bandaid2","1","0","cf_bandaid_00_t","0","cf_bandaid_00_mc","0","0","0","0","chara/thumb/co_gloves_00.unity3d","p_o_gloves_bandaid2"
+"5","0","1","指先絆創膏右手","abdata","chara/co_gloves_00.unity3d","p_o_gloves_bandaid1","1","0","cf_bandaid_00_t","0","cf_bandaid_00_mc","0","0","0","0","chara/thumb/co_gloves_00.unity3d","p_o_gloves_bandaid1"
+"9","0","1","手袋","abdata","chara/co_gloves_00.unity3d","p_o_glove_short","1","0","cf_glove_short_t","0","cf_glove_short_mc","0","0","0","0","chara/thumb/co_gloves_00.unity3d","p_o_glove_short"
+"10","0","1","長手袋","abdata","chara/co_gloves_00.unity3d","p_o_gloves_long01","1","0","cf_gloves_long01_t","0","cf_gloves_long01_mc","0","0","0","0","chara/thumb/co_gloves_00.unity3d","p_o_gloves_long01"

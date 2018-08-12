@@ -1,0 +1,7 @@
+"","","","","","","",""
+"管理番号","大きい項目","中間項目","表示名","バンドルパス","ファイル名","バンドルパス","ファイル名","クリップ名","BreastLayerの有り無し","揺れ制御左","揺れ制御右","モーション揺らぎ","pv_hand_L","pv_hand_R","pv_Leg_L","pv_Leg_R"
+"0","3","111","床","h/anim/male/01_00_00.unity3d","khh_m_base","h/anim/male/01_00_00.unity3d","khh_m_00","Idle","","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE"
+"1","3","111","椅子","h/anim/male/01_00_00.unity3d","khh_m_base","h/anim/male/01_00_00.unity3d","khh_m_16","Idle","","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE"
+"2","3","111","立ち","h/anim/male/01_00_00.unity3d","khh_m_base","h/anim/male/01_00_00.unity3d","khh_m_32","Idle","","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE"
+"3","3","111","プール","h/anim/male/01_00_00.unity3d","khh_m_base","h/anim/male/01_00_00.unity3d","khh_m_48","Idle","","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE"
+"4","3","111","オナホ","h/anim/male/01_00_00.unity3d","khh_f_base","h/anim/male/01_06_00.unity3d","khh_m_49","Idle","","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE"

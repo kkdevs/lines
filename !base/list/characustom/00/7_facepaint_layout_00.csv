@@ -1,0 +1,7 @@
+ID,Kind,Name,PosX,PosY,Rot,Scale,ThumbAB,ThumbTex
+"0","0","左頬",".75",".25",".5",".7","chara/thumb/facepaint_layout_00.unity3d","facepaint_layout_00"
+"1","0","右頬",".25",".25",".5",".7","chara/thumb/facepaint_layout_00.unity3d","facepaint_layout_01"
+"2","0","おでこ",".5",".75",".5",".7","chara/thumb/facepaint_layout_00.unity3d","facepaint_layout_02"
+"3","0","鼻",".5",".35",".5",".7","chara/thumb/facepaint_layout_00.unity3d","facepaint_layout_03"
+"4","0","口",".5",".14",".5",".7","chara/thumb/facepaint_layout_00.unity3d","facepaint_layout_04"
+"5","0","顎",".5","0",".5",".7","chara/thumb/facepaint_layout_00.unity3d","facepaint_layout_05"

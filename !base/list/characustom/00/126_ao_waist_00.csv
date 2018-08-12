@@ -1,0 +1,12 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,Parent,ThumbAB,ThumbTex
+"0","0","1","腰巻カーディガン","abdata","chara/ao_waist_00.unity3d","p_acs_waistcardigan01","a_n_waist","chara/thumb/ao_waist_00.unity3d","p_acs_waistcardigan01"
+"6","0","1","エレガントリボン","abdata","chara/ao_waist_00.unity3d","p_acs_waist_Wribon","a_n_waist_b","chara/thumb/ao_waist_00.unity3d","p_acs_waist_Wribon"
+"1","0","1","テールリボン","abdata","chara/ao_waist_00.unity3d","p_acs_idolwaistribbon","a_n_waist_b","chara/thumb/ao_waist_00.unity3d","p_acs_idolwaistribbon"
+"2","0","1","ウォレットチェーン","abdata","chara/ao_waist_00.unity3d","p_acs_waistchain01","a_n_waist_L","chara/thumb/ao_waist_00.unity3d","p_acs_waistchain01"
+"5","0","1","刀の鞘","abdata","chara/ao_waist_00.unity3d","p_acs_sao","a_n_waist_L","chara/thumb/ao_waist_00.unity3d","p_acs_sao"
+"3","0","1","小悪魔尻尾","abdata","chara/ao_waist_00.unity3d","p_acs_waist_b_d_tail","a_n_waist_b","chara/thumb/ao_waist_00.unity3d","p_acs_waist_b_d_tail"
+"4","0","1","悪魔尻尾","abdata","chara/ao_waist_00.unity3d","p_acs_aku01_sippo","a_n_waist_b","chara/thumb/ao_waist_00.unity3d","p_acs_aku01_sippo"
+"9","0","1","ウサギ尻尾","abdata","chara/ao_waist_00.unity3d","p_acs_waist_bunnytaile","a_n_waist_b","chara/thumb/ao_waist_00.unity3d","p_acs_waist_bunnytaile"
+"10","0","1","キツネ尻尾","abdata","chara/ao_waist_00.unity3d","p_acs_tail_fox","a_n_waist_b","chara/thumb/ao_waist_00.unity3d","p_acs_tail_fox"
+"11","0","1","エレキギター","abdata","chara/ao_waist_00.unity3d","p_acs_guitorE","a_n_waist_f","chara/thumb/ao_waist_00.unity3d","p_acs_guitorE"
+"12","0","1","ベルト","abdata","chara/ao_waist_00.unity3d","p_acs_beruto","a_n_waist","chara/thumb/ao_waist_00.unity3d","p_acs_beruto"

@@ -1,0 +1,8 @@
+ID,Kind,Possess,Name,MainAB,LiplineTex,ThumbAB,ThumbTex
+"0","0","1","なし","0","0","chara/etc.unity3d","thumb_none"
+"1","0","1","タイプ１","chara/mt_lipline_00.unity3d","cw_t_lip_line_000","chara/thumb/mt_lipline_00.unity3d","thumb_lip_line_000"
+"2","0","1","タイプ２","chara/mt_lipline_00.unity3d","cw_t_lip_line_001","chara/thumb/mt_lipline_00.unity3d","thumb_lip_line_001"
+"3","0","1","タイプ３","chara/mt_lipline_00.unity3d","cw_t_lip_line_002","chara/thumb/mt_lipline_00.unity3d","thumb_lip_line_002"
+"4","0","1","タイプ４","chara/mt_lipline_00.unity3d","cw_t_lip_line_003","chara/thumb/mt_lipline_00.unity3d","thumb_lip_line_003"
+"5","0","1","タイプ５","chara/mt_lipline_00.unity3d","cw_t_lip_line_004","chara/thumb/mt_lipline_00.unity3d","thumb_lip_line_004"
+"6","0","1","タイプ６","chara/mt_lipline_00.unity3d","cw_t_lip_line_005","chara/thumb/mt_lipline_00.unity3d","thumb_lip_line_005"

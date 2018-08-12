@@ -1,0 +1,2 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,StateType,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,ThumbAB,ThumbTex
+"15","0","2","メカハンド","add10","chara/co_gloves_10.unity3d","p_o_armorhand","1","0","cf_armorhand_t","0","cf_armorhand_mc","0","0","0","0","chara/thumb/co_gloves_10.unity3d","p_o_armorhand"

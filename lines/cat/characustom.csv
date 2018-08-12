@@ -1,0 +1,1277 @@
+0+0,サンプル０１,Sample 01
+100+0,タイプ０１,Type 01
+101+0,ロングヘア,Long hair
+101+1,ロングサイドテール(左),Long side tail (left)
+101+14,ロングサイドテール(右),Long side tail (right)
+101+24,リボンなしロングサイド(左),No ribbon long side (left)
+101+25,リボンなしロングサイド(右),No ribbon long side (right)
+101+2,ボブヘア,Bob Hair
+101+3,お嬢様ロング,Lady long
+101+4,ツインテール,Twin tail
+101+5,アップツイン,Up Twin
+101+6,ショート,short
+101+7,カールボブ,Carl Bob
+101+8,サイドテール(左),Side tail (left)
+101+15,サイドテール(右),Side tail (right)
+101+9,ベリーショート,Berry Short
+101+10,ツインおさげ,Twin pigtails
+101+11,結わえロング,Tongue long
+101+26,リボンなし結わえロング,No ribbon tied long
+101+12,ポニーテール,ponytail
+101+27,リボンなしポニーテール,No ribbon ponytail
+101+13,サイドアップ(左),Side up (left)
+101+16,サイドアップ(右),Side up (right)
+101+17,三つ編み,Braid
+101+18,外はねロング,Outside is Long
+101+19,ベリーロング,Berry Long
+101+20,細ツインテール,Thin twin tail
+101+21,ツーサイドアップ,Two Side Up
+101+22,ストレートミディアム,Straight Medium
+101+23,セミロング,semi-long
+102+0,なし,None
+102+1,ストレート,straight
+102+2,横はねカール(左),Horizontal spiral curl (left)
+102+19,横はねカール(右),Horizontal spherical curl (right)
+102+3,姫カット(左),Princess cut (left)
+102+20,姫カット(右),Princess cut (right)
+102+4,お嬢様分け,Ladies' division
+102+5,くせストレート,Hakute straight
+102+6,M字バング,M-shaped Bang
+102+7,ショートヘア,short hair
+102+8,きのこヘア,Mushroom hair
+102+9,切りっぱなし,To leave
+102+10,ウェーブロング,Wave Long
+102+11,前下がりボブ(左),Front down Bob (left)
+102+28,前下がりボブ(右),Fall down Bob (right)
+102+12,中分ヘア(左),Chubu Hare hair (left)
+102+29,中分ヘア(右),Medium-size hair (right)
+102+13,おかっぱ,Sleeping
+102+14,前おさげ,Before the pigeon
+102+15,縦巻きロール,Vertical wound roll
+102+16,横分けぱっつん(左),Horizontal division (left)
+102+31,横分けぱっつん(右),Horizontal division (right)
+102+17,片目隠し(左),One blindfold (left)
+102+32,片目隠し(右),One blindfold (right)
+102+35,ボーイッシュ,boyish
+102+36,横流しヘア(左),Horizontal flowing hair (left)
+102+34,横流しヘア（右),Horizontal flowing hair (right)
+102+37,アイドルカット(左),Idle cut (left)
+102+38,アイドルカット（右),Idle cut (right)
+102+39,でこだし,Ok with us
+102+40,でこだしウェーブ,Kochi wave
+102+41,カーブきのこ,Curved mushrooms
+102+42,でこだし横流し(左),Okoshi cross-flow (left)
+102+43,でこだし横流し(右),Okoshi cross-flow (right)
+102+44,M字バングストレート(左),M-shaped Bang straight (left)
+102+45,M字バングストレート(右),M-shaped Bang straight (right)
+102+46,横分けヘア(左),Horizontal Hair (left)
+102+47,横分けヘア(右),Horizontal Hair (Right)
+103+0,なし,None
+103+1,ほそロング,Near long
+103+2,おさげ,Pigtails
+103+3,太い,thick
+103+4,ふとロング,Suddenly
+103+6,はねロング,Hane Long
+103+7,ウェーブロング,Wave Long
+104+0,なし,None
+104+1,ちょび,Chibi
+104+2,くるくる,Spinning
+104+4,ギザギザ,jagged
+104+5,ハート,heart
+104+3,触覚(1本),Tactile (1)
+104+6,触覚(2本),Tactile (2)
+104+7,はね毛,Hair Hair
+104+8,長触覚,Long touch
+105+0,なし,None
+105+1,セーラータイプ,Sailor type
+105+2,ジャケットタイプ,Jacket type
+105+38,Tシャツ(無地),T-shirt (solid color)
+105+3,Tシャツ(柄A),T-shirt (pattern A)
+105+39,Tシャツ(柄B),T-shirt (pattern B)
+105+41,ジャージ(フィット),Jersey (Fit)
+105+4,ジャージ(スカート),Jersey (skirt)
+105+21,ジャージ前開き ,Jersey front opening
+105+5,チアトップス,Cheer Tops
+105+6,テニスウェア,Tennis wear
+105+19,ランニングウェア,Running Wear
+105+7,弓道衣,Archery costume
+105+8,弓道衣胸当てなし,Archery clothes without breastplate
+105+9,着物,kimono
+105+27,着物(柄あり),Kimono (with handle)
+105+11,小悪魔トップス,Small Devil Tops
+105+23,悪魔ワンピース,Devil One Piece
+105+12,アイドルワンピ,Idol dress
+105+18,ワンピース,one piece
+105+24,白衣 ,White coat
+105+25,スーツ ,suit
+105+30,ノースリーブワンピース,Sleeveless dress
+105+26,カーディガンキャミソール,Cardigan Camisole
+105+29,ジャケットタンクトップ,Jacket tank top
+105+44,キャミソール,camisole
+105+31,パーカー前開き,Parker front opening
+105+42,半開きパーカー,Half open parka
+105+20,ネグリジェ,negligee
+105+22,ベビードール,baby doll
+105+28,バスタオル,bath towel
+105+36,バニースーツ,Bunny suit
+105+13,Tシャツ無地(男),T-shirt solid color (man)
+105+14,ネクタイブレザー(男),Necktie blazer (man)
+105+15,学ラン(男),School run (male)
+105+16,学ランTシャツ(男),School Run T-Shirt (Man)
+105+17,ワイシャツ(男),Shirt (man)
+105+43,ワイシャツベスト(男),Shirt vest (man)
+105+45,パジャマ(上),Pajamas (top)
+105+46,サロペット,overalls
+105+47,裸サロペット,Naked Salopette
+105+48,裸エプロン,Naked apron
+105+49,ロングワイシャツ,Long shirt
+105+50,ショルダーレスブラウス,Shoulderless blouse
+106+0,なし,None
+106+1,ブルマ,Bulma
+106+2,ショートジャージ,Short jersey
+106+29,ハーフジャージ,Half jersey
+106+30,スカートジャージ,Skirt jersey
+106+9,ショートパンツ,Shorts
+106+3,ロングパンツ,Long pants
+106+25,ゆったりロングパンツ,Loose Long Pants
+106+22,ホットパンツ,hot pants
+106+28,カーゴパンツ,cargo pants
+106+4,プリーツスカートA,Pleated skirt A
+106+7,プリーツスカートB,Pleated Skirt B
+106+5,ボックススカートA,Box skirt A
+106+6,ボックススカートB,Box skirt B
+106+8,フレアスカートA,Flare skirt A
+106+19,フレアスカートB,Flare skirt B
+106+15,プリーツスカートロングA,Pleated Skirt Long A
+106+31,プリーツスカートミニ,Pleated Skirt Mini
+106+10,チアスカート,Cheer skirt
+106+11,テニススカート,Tennis skirt
+106+12,ランニングショーツ,Running Shorts
+106+13,弓道袴,Kyudo Hakama
+106+14,小悪魔スカート,Small devil skirt
+106+16,トレパン,Trepan
+106+17,フリルタイトスカート,Frilled tight skirt
+106+18,セクシータイトスカート,Sexy tight skirt
+106+20,タイトスカート,Tight Skirt
+106+21,ミニタイトスカート,Miniteitosukirt
+106+32,パジャマ(下),Pajamas (bottom)
+106+33,キュロットスカート,Culottes skirt
+106+34,ハーフパンツ,Half pants
+106+35,キュートパンツ,Cute pants
+107+0,なし,None
+107+1,リボンブラ,Ribbon bra
+107+3,レーストップブラ,Lace top bra
+107+4,三角ブラ,Triangular bra
+107+5,ストラップレスブラ,Strapless Bra
+107+7,スポーツブラ,Sports bra
+107+6,ハーフトップブラ,Half top bra
+107+2,スクール水着,School swimwear
+107+10,競泳水着,Swimsuit
+107+8,ビキニ水着,Bikini Swimwear
+107+9,サラシ,Salty
+107+11,タンクトップブラ,Tank top bra
+107+12,リボンレースブラ,Ribbon Lace Bra
+107+13,オープンレースブラ,Open Race Bra
+107+14,レースビスチェ ,Lace Bustier
+107+15,エンブレムシール(上),Emblem seal (top)
+107+16,レオタード ,Leotard
+107+17,ハイレグレオタード ,High-Leotard
+108+0,なし,None
+108+1,リボンショーツ,Ribbon Shorts
+108+2,レーストップショーツ,Lace Top Shorts
+108+3,ハイレッグショーツ,High leg shorts
+108+4,ローライズショーツ,Low Rise Shorts
+108+6,スポーツショーツ,Sports Shorts
+108+10,スタンダードショーツ,Standard Shorts
+108+5,くまパンツ,Bear Pants
+108+7,ビキニ水着,Bikini Swimwear
+108+8,ブーメランパンツ,Boomerang pants
+108+9,ふんどし,Loincloth
+108+11,ファンシーショーツ,Fancy Shorts
+108+12,リボンレースーショーツ,Ribbon Race Shorts
+108+13,オープンレースショーツ,Open race shorts
+108+14,エレガントショーツ,Elegant shorts
+108+15,エンブレムシール(下),Emblem seal (bottom)
+109+0,なし,None
+109+1,弓かけ,A bow
+109+2,小悪魔手袋,Small devil gloves
+109+3,アイドル手袋,Idol gloves
+109+4,指先絆創膏左手,Finger tapes bandage left hand
+109+5,指先絆創膏右手,Fingertip band paper right hand
+109+9,手袋,gloves
+109+10,長手袋,Long gloves
+110+0,なし,None
+110+5,パンストA,Pantyhose A
+110+1,パンストB,Pantyhose B
+110+7,厚手パンストA,Thick pantyhose A
+110+8,厚手パンストB,Thick pantyhose B
+110+2,スパッツ,spats
+110+3,アンダースコート,Anders Court
+110+4,ガーターベルト,garter belt
+110+9,網タイツ,Fishnet tights
+110+10,レギンス,leggings
+111+0,なし,None
+111+15,ハイソックス,High Socks
+111+1,色分けハイソックス,Color-coded high-socks
+111+2,ルーズソックス,loose socks
+111+3,ニーソックス,Knee socks
+111+14,アンクルソックス,Uncle socks
+111+4,フットカバー,Foot cover
+111+5,ガーターソックスA,Garter socks A
+111+6,ガーターソックスB,Garter socks B
+111+7,足袋,tabi
+111+8,小悪魔ニーソックス,Little Devil Knee Socks
+111+9,アイドルニーソックス,Idol Knee socks
+111+10,シームニーソックス,Seam thighhighs
+111+11,フリルニーソックス,Frilled thighhighs
+111+16,クルーソックス（折り返し）,Crew socks (folded)
+111+17,レッグウォーマー ,Leg warmer
+112+0,なし,None
+112+1,ローファー,loafers
+112+2,上履き,Shoes
+112+3,運動靴,Sports shoes
+112+4,ランニングシューズ,running shoes
+112+5,チアブーツ,Cheer Boots
+112+6,小悪魔パンプス,Little devil pumps
+112+7,アイドルパンプス,Idol Pumps
+112+8,リボンパンプス ,Ribbon pumps
+112+9,サンダル ,Sandals
+112+10,サイドリボンパンプス ,Side ribbon pumps
+112+11,パンプス ,Pumps
+112+12,ビーチサンダル,Beach sandal
+112+13,フラワーサンダル,Flower sandals
+112+14,便所サンダル,Toilet sandals
+112+15,ベルトブーツ,Belt boots
+112+16,リボンストラップサンダル,Ribbon strap sandals
+112+17,草履,Sandals
+112+22,ハイカットスニーカー,High cut sneaker
+112+23,ダンスシューズ,Dance shoes
+120+0,なし,None
+121+3,ヘアピン,hairpin
+121+7,クロスヘアピン,Cross hairpin
+121+4,髪留め,A hair clamp
+121+6,安全ピン,Safety pin
+121+11,星の髪飾り,Stars hair ornament
+121+0,星のバレッタ,Star's Valletta
+121+12,ハートの髪飾り,Heart hair ornament
+121+1,ハートのバレッタ,Heart's Valletta
+121+13,蝶の髪飾り,Butterfly's hair accessories
+121+14,ドクロの髪飾り,Skull hair ornament
+121+9,細リボンA,Small ribbon A
+121+10,細リボンB,Small ribbon B
+121+8,大きなリボン,Big ribbon
+121+5,花,flower
+121+2,ハイビスカス,hibiscus
+121+16,花の髪飾り（揺れ）,Flower hair ornament (shaking)
+121+17,牡丹の髪飾り,Peony's hair ornament
+122+0,リボン,ribbon
+122+14,ヘアバンド,hair band
+122+19,結びヘアバンド,Conclusion hair band
+122+33,紐リボン,String Ribbon
+122+4,ヘッドホン,headphone
+122+13,密着型ヘッドホン,Close headphone
+122+5,水泳キャップ,Swimming cap
+122+12,サンバイザー,Sun visor
+122+1,カラー帽子,Color hat
+122+6,麦わら帽子,Straw Hat
+122+7,野球ヘルメット,Baseball Helmet
+122+9,パーティーハット,Party Hat
+122+16,王冠,crown
+122+2,悪魔の角,The corner of the devil
+122+8,めんだこ,Menko
+122+10,カニ,crab
+122+11,きのこ,mushroom
+122+15,鉢巻,headband
+122+17,うなぎ,eel
+122+26,キツネ耳,Fox ears
+122+18,猫のおもちゃ,Cat Toy
+122+20,あほ毛,Aho hair
+122+21,くるくるあほ毛,Around the hair
+122+22,ギザギザあほ毛,Jagged hair
+122+23,ちょびあほ毛,Chobiho hair
+122+24,ハートあほ毛,Heart bruise
+122+32,ベレー帽,beret
+122+34,うさ耳バンド,Rabbit ear band
+122+35,天使の輪,Angel's ring
+122+36,うさぎの着ぐるみ頭,Rabbit costume head
+122+37,いぬの着ぐるみ頭,The dog's head of the dog
+122+40,三角巾,Sling width
+123+0,スクエア,Square
+123+1,ウェリントン,Wellington
+123+2,スポーツ,Sports
+123+3,オーバル,Oval
+123+4,ラウンド,round
+123+25,丸瓶底眼鏡,Round bottoms glasses
+123+5,シューティンググラス,Shooting glasses
+123+6,アンダーリム,Under rim
+123+22,アンダーリム(細),Under rim (fine)
+123+24,フレームレス,Frameless
+123+7,水泳ゴーグル,Swimming goggles
+123+19,眼帯右用,For the right eye zone
+123+20,眼帯左用,For the left eye zone
+123+8,ハートA,Heart A
+123+9,ハートB,Heart B
+123+10,スペード,spade
+123+11,ダイア,Dia
+123+12,クローバー,Clover
+123+13,ムーン,Moon
+123+14,スター,Star
+123+15,ビッグスター,Big star
+123+16,エンジェル,Angel
+123+17,ソードスカル,Sword skull
+123+21,ハートインカム,Heart Income
+123+18,プリーツマスク,Pleated mask
+123+23,トースト,toast
+123+26,ピエロの鼻,Clown's nose
+123+27,ガラスの鼻,Glass nose
+123+28,第三の目,Third Eye
+123+29,ワンポイント,one point
+123+30,土星,Saturn
+124+0,マフラー,Scarf
+124+1,ロングネクタイ,Long necktie
+124+6,リボンチョーカー ,Ribbon choker
+124+2,小悪魔チョーカー,Small devil choker
+124+3,ホイッスル,whistle
+124+5,聴診器,Stethoscope
+124+4,首枷,Hanging
+124+9,蝶ネクタイ ,A bow tie
+124+10,首掛けメガホン,Neck megaphone
+124+11,ハートペンダント,Heart pendant
+124+12,リボンペンダント,Ribbon pendant
+124+13,一粒ペンダント,One grain pendant
+124+14,星のペンダント,Star pendant
+124+15,土星のペンダント,Saturn's pendant
+125+0,リュックサック,rucksack
+125+1,背負いボストン,Back ship Boston
+125+2,背負いカバン,Shoulder bag
+125+12,ポスターリュックサック,Poster Backpack
+125+3,小悪魔の翼左用,For small devil's wing left
+125+4,小悪魔の翼右用,Small devil wing for right
+125+5,悪魔の翼左用,Devil's wing for left
+125+6,悪魔の翼右用,Devil's wing for right
+125+7,乳首リング,Nipple ring
+125+8,乳首リングジュエル,Nipple ring jewel
+125+9,乳首クリップ,Nipple clip
+125+10,乳首洗濯ばさみ,Nipple laundry shears
+125+11,乳首ローター,Nipple rotor
+125+13,天使の翼左用,Angel wing for left
+125+14,天使の翼右用,Angel wing for right
+125+15,ギターケース,Guitar case
+126+0,腰巻カーディガン,Ladicular cardigan
+126+6,エレガントリボン,Elegant ribbon
+126+1,テールリボン,Tail ribbon
+126+2,ウォレットチェーン,Wallet Chain
+126+5,刀の鞘,Sword sheath
+126+3,小悪魔尻尾,Little devil tail
+126+4,悪魔尻尾,Devil tail
+126+9,ウサギ尻尾,Rabbit tail
+126+10,キツネ尻尾,Fox tail
+126+11,エレキギター,Electric guitar
+126+12,ベルト,belt
+127+0,チアガーターリボン（左）,Cheer garter ribbon (left)
+127+1,チアガーターリボン（右）,Cheer Garter Ribbon (right)
+127+2,フリルガーターリング（左）,Ruffle garter ring (left)
+127+3,フリルガーターリング（右）,Ruffle garter ring (right)
+128+0,ナイロンボストンA,Nylon Boston A
+128+1,ナイロンボストンB,Nylon Boston B
+128+6,シュシュA,Shuushu A
+128+7,シュシュB,Chouchou B
+128+4,ハート腕時計,Heart watches
+128+5,ボールビーズ,Ball beads
+128+10,メタルバングル,Metal Bangle
+128+11,腕章「委員長」,"Armband ""Chairperson"""
+128+12,腕章「実習」,"Armband ""Practice"""
+128+13,腕章「風紀」,Armband 'Kiki'
+128+2,リストバンド左用,For wrist band left
+128+3,リストバンド右用,For wrist band right
+128+8,拘束バンド左用,Restraint band left
+128+9,拘束バンド右用,Restraint band right
+128+14,カフス左用,For cufflink left
+128+15,カフス右用,Cufflinks for right
+129+0,革カバン,Leather bag
+129+8,指示棒,Indicator bar
+129+15,出席名簿,Attendance list
+129+7,刀,sword
+129+14,竹刀,Bamboo sword
+129+10,弓,bow
+129+11,矢,arrow
+129+12,弓袋,A bow bag
+129+13,傘,umbrella
+129+1,ポンポン左用,Pom for left
+129+2,ポンポン右用,Pom Pom for right
+129+3,テニスボール,Tennis ball
+129+19,テニスラケット,tennis racket
+129+4,小悪魔フォーク,Small Devil Fork
+129+20,小悪魔フォーク(小),Small devil fork (small)
+129+18,ステージマイク,Stage microphone
+129+6,食べかけアイスバー,Eating Ice Bar
+129+5,お金持ちの指輪,The rich ring
+129+21,アナルバイブ,Anal Vibration
+129+22,電気マッサージ器,Electric massager
+130+0,バイブ,A vibe
+130+1,アナルバイブ,Anal Vibration
+1+0,サンプル０１,Sample 01
+200+0,タイプ１,Type 1
+200+1,タイプ２,Type 2
+200+2,タイプ３,Type 3
+200+3,タイプ４,Type 4
+200+4,タイプ５,Type 5
+200+5,タイプ６,Type 6
+201+0,タイプ１,Type 1
+201+1,タイプ２,Type 2
+201+2,タイプ３,Type 3
+201+3,タイプ４,Type 4
+201+4,タイプ５,Type 5
+201+5,タイプ６,Type 6
+202+0,なし,None
+202+1,タイプ１,Type 1
+202+2,タイプ２,Type 2
+202+3,タイプ３,Type 3
+202+4,タイプ４,Type 4
+202+5,タイプ５,Type 5
+202+6,タイプ６,Type 6
+210+0,ワイシャツ,shirt
+210+1,ワイシャツ襟開け,Opening the shirt collar
+210+2,ワイシャツベスト,Shirt Best
+210+3,ワイシャツパーカー,Shirt parka
+210+4,肩吊りワイシャツ,Shoulder hanging shirt
+210+5,体操着,Gym clothes
+210+7,キャミソール,camisole
+210+6,ノースリーブシャツ,Sleeveless shirt
+211+0,なし,None
+211+1,ブレザーA,Blazer A
+211+5,ブレザーA前開き,Blazer A front opening
+211+2,ブレザーB,Blazer B
+211+7,ブレザーC,Blazer C
+211+11,ブレザーC(ライン色固定),Blazer C (line color fixed)
+211+8,ブレザーC前開き,Blazer C front opening
+211+12,ブレザーC前開き(ライン色固定),Blazer C front opening (line color fixed)
+211+3,カーディガン,cardigan
+211+4,ジャージ前開き,Jersey front opening
+211+9,学ラン前開き,Open before school run
+211+6,うさ耳パーカー,Rabbit ears Parka
+211+13,ポンチョコート,Poncho Court
+211+14,エプロン,apron
+212+0,なし,None
+212+1,リボン,ribbon
+212+3,細リボン,Thin ribbon
+212+2,ネクタイ,tie
+212+4,ルーズネクタイ短,Loose necktie short
+212+5,ルーズネクタイ長,Loose necktie length
+2+0,デフォルト,Default
+2+1,両目閉じ,Both eyes closed
+2+2,笑顔,A smile
+2+3,笑顔　両目閉じ,Smile both eyes closed
+2+4,微笑,smile
+2+5,ウィンク左,Wink left
+2+6,ウィンク右,Wink right
+2+7,切ない,painful
+2+8,照れ,Blunder
+2+9,怒り,anger
+2+10,真剣,Seriously
+2+11,つまらない,It's boring
+2+12,苦しい,painful
+2+13,嫌悪,Aversion
+2+14,思案,Thought
+2+15,悲しい,sad
+2+16,泣き,Weeping
+2+17,焦り,impatience
+2+18,落胆,Disappointment
+2+19,困る,Be troubled
+2+20,ドヤ,Doya
+2+21,ぐるぐる目１,Around the eyes 1
+2+22,ぐるぐる目２,Swinging eyes 2
+2+23,ぐるぐる目３,Swinging eyes 3
+2+24,瞳に星,A star in the eyes
+2+25,瞳にハート,Heart in your eyes
+2+26,目がハート,Eyes are hearts
+2+27,目に炎,Flame in eyes
+2+28,デフォルメウィンク,Deformed wink
+2+29,縦一文字,Vertical single letter
+2+30,ディフォルメつむり,Towards deformume
+2+31,横一文字,Side one letter
+2+32,デフォルメ泣き,Deformed crying
+2+33,左目ぎゅっと閉じ,Left eye tight closure
+2+34,右目ぎゅっと閉じ,Close your right eye tight
+2+35,両目ぎゅっと閉じ,Both eyes close tightly
+2+36,左目ぎゅっと閉じ02,Left eye tight closure 02
+2+37,右目ぎゅっと閉じ02,Right eye tight closure 02
+2+38,両目ぎゅっと閉じ02,Both eyes tightly closed 02
+3+0,胸,breast
+3+1,腹・股間,Belly · crotch
+3+2,背中・うなじ,Back and nape
+3+3,腰,Waist
+3+4,右脚裏,Right leg
+3+5,右ふくらはぎ,Right calves
+3+6,左脚裏,Left leg
+3+7,左ふくらはぎ,Left calves
+3+8,右脚,Right leg
+3+9,左脚,Left leg
+3+10,右スネ,Right snake
+3+11,左スネ,Left Snane
+3+12,右足,Right foot
+3+13,左足,left foot
+3+14,左尻,Left side
+3+15,右尻,Right butt
+3+16,左肩,Shoulder
+3+17,左腕,Left arm
+3+18,右肩,Shoulder
+3+19,右腕,Right arm
+400+0,なし,None
+400+2,シワ,Wrinkle
+400+3,強調１,Emphasis 1
+400+5,強調２,Emphasis 2
+400+1,境界線,border
+400+4,目周りの影,Shadow around eyes
+401+0,なし,None
+401+1,タイプ１,Type 1
+401+2,タイプ２,Type 2
+401+3,タイプ３,Type 3
+401+4,タイプ４,Type 4
+401+5,タイプ５,Type 5
+401+6,タイプ６,Type 6
+401+7,タイプ７,Type 7
+402+0,なし,None
+402+1,タイプ１,Type 1
+402+2,タイプ２,Type 2
+402+3,タイプ３,Type 3
+402+4,タイプ４,Type 4
+402+5,タイプ５,Type 5
+402+6,タイプ６,Type 6
+402+7,タイプ７,Type 7
+403+0,なし,None
+403+1,タイプ１,Type 1
+403+2,タイプ2,Type 2
+403+3,タイプ３,Type 3
+403+4,タイプ４,Type 4
+403+5,タイプ５,Type 5
+403+6,タイプ６,Type 6
+404+0,なし,None
+404+1,タイプ１,Type 1
+404+2,タイプ２,Type 2
+404+3,タイプ３,Type 3
+404+4,タイプ４,Type 4
+404+5,タイプ５,Type 5
+404+6,タイプ６,Type 6
+405+0,なし,None
+405+1,ハート,heart
+405+2,水滴,Water drop
+405+3,星A,Star A
+405+4,星B,Star B
+405+5,三日月,Crescent Moon
+405+6,キスマーク,A kiss mark
+405+7,クモ,Spider
+405+8,クモの巣,Spider's nest
+405+9,バラ,rose
+405+10,陰陽,Yin Yang
+405+11,禁止,Ban
+405+12,蝶,butterfly
+405+13,肉球,Pad
+405+14,ターゲット,target
+405+15,ネイティブライン,Native line
+405+16,スラッシュ,Slash
+405+17,クロススラッシュ,Cross slash
+405+18,クロススラッシュ×５,Cross slash × 5
+405+19,第三の目,Third Eye
+405+20,ドクロ,skull
+405+21,怒り,anger
+405+22,三角,triangle
+405+23,絆創膏,Bandage
+406+0,タイプ１,Type 1
+406+1,タイプ２,Type 2
+406+2,タイプ３,Type 3
+406+3,タイプ４,Type 4
+406+4,タイプ５,Type 5
+406+5,タイプ６,Type 6
+406+6,タイプ７,Type 7
+406+7,タイプ８,Type 8
+406+8,タイプ９,Type 9
+406+9,タイプ１０,Type 10
+406+10,タイプ１１,Type 11
+406+11,タイプ１２,Type 12
+406+12,タイプ１３,Type 13
+406+13,タイプ１４,Type 14
+406+14,タイプ１５,Type 15
+407+0,タイプ１,Type 1
+407+1,タイプ２,Type 2
+407+2,タイプ３,Type 3
+407+3,タイプ４,Type 4
+407+4,タイプ５,Type 5
+408+0,タイプ１,Type 1
+408+1,タイプ２,Type 2
+408+2,タイプ３,Type 3
+408+3,タイプ４,Type 4
+408+4,タイプ５,Type 5
+408+5,タイプ６,Type 6
+408+6,タイプ７,Type 7
+408+7,タイプ８,Type 8
+408+8,タイプ９,Type 9
+408+9,タイプ１０,Type 10
+408+10,タイプ１１,Type 11
+408+11,タイプ１２,Type 12
+408+12,タイプ１３,Type 13
+408+13,タイプ１４,Type 14
+408+14,タイプ１５,Type 15
+408+15,タイプ１６,Type 16
+408+16,タイプ１７,Type 17
+408+17,タイプ１８,Type 18
+408+18,タイプ１９,Type 19
+408+19,タイプ２０,Type 20
+408+20,タイプ２１,Type 21
+408+21,タイプ２２,Type 22
+408+22,タイプ２３,Type 23
+408+23,タイプ２４,Type 24
+408+24,タイプ２５,Type 25
+408+25,タイプ２６,Type 26
+408+26,タイプ２７,Type 27
+408+27,タイプ２８,Type 28
+408+28,タイプ２９,Type 29
+408+29,タイプ３０,Type 30
+408+30,タイプ３１,Type 31
+408+31,タイプ３２,Type 32
+408+32,タイプ３３,Type 33
+408+33,タイプ３４,Type 34
+408+34,タイプ３５,Type 35
+408+35,タイプ３６,Type 36
+408+36,タイプ３７,Type 37
+408+37,タイプ３８,Type 38
+408+38,タイプ３９,Type 39
+408+39,タイプ４０,Type 40
+408+40,タイプ４１,Type 41
+408+41,タイプ４２,Type 42
+408+42,タイプ４３,Type 43
+408+43,タイプ４４,Type 44
+408+44,タイプ４５,Type 45
+408+45,タイプ４６,Type 46
+408+46,タイプ４７,Type 47
+408+47,タイプ４８,Type 48
+408+48,タイプ４９,Type 49
+408+49,タイプ５０,Type 50
+408+50,タイプ５１,Type 51
+408+51,タイプ５２,Type 52
+408+52,タイプ５３,Type 53
+408+53,タイプ５４,Type 54
+408+54,タイプ５５,Type 55
+408+55,タイプ５６,Type 56
+408+56,タイプ５７,Type 57
+408+57,タイプ５８,Type 58
+408+58,タイプ５９,Type 59
+408+59,タイプ６０,Type 60
+408+60,タイプ６１,Type 61
+408+61,タイプ６２,Type 62
+408+62,タイプ６３,Type 63
+408+63,タイプ６４,Type 64
+408+64,タイプ６５,Type 65
+408+65,タイプ６６,Type 66
+408+66,タイプ６７,Type 67
+408+67,タイプ６８,Type 68
+408+68,タイプ６９,Type 69
+408+69,タイプ７０,Type 70
+408+70,タイプ７１,Type 71
+408+71,タイプ７２,Type 72
+408+72,タイプ７３,Type 73
+408+73,タイプ７４,Type 74
+408+74,タイプ７５,Type 75
+408+75,タイプ７６,Type 76
+408+76,タイプ７７,Type 77
+409+0,タイプ１,Type 1
+409+1,タイプ２,Type 2
+409+2,タイプ３,Type 3
+409+3,タイプ４,Type 4
+410+0,タイプ１,Type 1
+410+1,タイプ２,Type 2
+410+2,タイプ３,Type 3
+410+3,タイプ４,Type 4
+410+4,タイプ５,Type 5
+410+5,タイプ６,Type 6
+410+6,タイプ７,Type 7
+410+7,タイプ８,Type 8
+410+8,タイプ９,Type 9
+410+9,タイプ１０,Type 10
+410+10,タイプ１１,Type 11
+410+11,タイプ１２,Type 12
+410+12,タイプ１３,Type 13
+410+13,タイプ１４,Type 14
+410+14,タイプ１５,Type 15
+410+15,タイプ１６,Type 16
+410+16,タイプ１７,Type 17
+410+17,タイプ１８,Type 18
+410+18,タイプ１９,Type 19
+410+19,タイプ２０,Type 20
+410+20,タイプ２１,Type 21
+410+21,タイプ２２,Type 22
+410+22,タイプ２３,Type 23
+410+23,タイプ２４,Type 24
+410+24,タイプ２５,Type 25
+410+25,タイプ２６,Type 26
+410+26,タイプ２７,Type 27
+410+27,タイプ２８,Type 28
+410+28,タイプ２９,Type 29
+410+29,タイプ３０,Type 30
+410+30,タイプ３１,Type 31
+410+31,タイプ３２,Type 32
+410+32,タイプ３３,Type 33
+410+33,タイプ３４,Type 34
+410+34,タイプ３５,Type 35
+410+35,タイプ３６,Type 36
+410+36,タイプ３７,Type 37
+410+37,タイプ３８,Type 38
+410+38,タイプ３９,Type 39
+410+39,タイプ４０,Type 40
+410+40,タイプ４１,Type 41
+411+0,タイプ１,Type 1
+411+1,タイプ２,Type 2
+411+2,タイプ３,Type 3
+411+3,タイプ４,Type 4
+411+4,タイプ５,Type 5
+411+5,タイプ６,Type 6
+411+6,タイプ７,Type 7
+411+7,タイプ８,Type 8
+411+8,タイプ９,Type 9
+411+9,タイプ１０,Type 10
+411+10,タイプ１１,Type 11
+411+11,タイプ１２,Type 12
+411+12,タイプ１３,Type 13
+411+13,タイプ１４,Type 14
+411+14,タイプ１５,Type 15
+411+15,タイプ１６,Type 16
+411+16,タイプ１７,Type 17
+411+17,タイプ１８,Type 18
+411+18,タイプ１９,Type 19
+411+19,タイプ２０,Type 20
+411+20,タイプ２１,Type 21
+411+21,タイプ２２,Type 22
+411+22,タイプ２３,Type 23
+411+23,タイプ２４,Type 24
+411+24,タイプ２５,Type 25
+411+25,タイプ２６,Type 26
+412+0,タイプ１,Type 1
+412+1,タイプ２,Type 2
+412+2,タイプ３,Type 3
+412+3,タイプ４,Type 4
+412+4,タイプ５,Type 5
+412+5,タイプ６,Type 6
+412+6,タイプ７,Type 7
+412+7,タイプ８,Type 8
+412+8,タイプ９,Type 9
+412+9,タイプ１０,Type 10
+412+10,タイプ１１,Type 11
+412+11,タイプ１２,Type 12
+412+12,タイプ１３,Type 13
+412+13,タイプ１４,Type 14
+412+14,タイプ１５,Type 15
+412+15,タイプ１６,Type 16
+412+16,タイプ１７,Type 17
+412+17,タイプ１８,Type 18
+412+18,タイプ１９,Type 19
+412+19,タイプ２０,Type 20
+412+20,タイプ２１,Type 21
+412+21,タイプ２２,Type 22
+412+22,タイプ２３,Type 23
+412+23,タイプ２４,Type 24
+412+24,タイプ２５,Type 25
+412+25,タイプ２６,Type 26
+412+26,タイプ２７,Type 27
+412+27,タイプ２８,Type 28
+412+28,タイプ２９,Type 29
+412+29,タイプ３０,Type 30
+412+30,タイプ３１,Type 31
+412+31,タイプ３２,Type 32
+412+32,タイプ３３,Type 33
+412+33,タイプ３４,Type 34
+412+34,タイプ３５,Type 35
+412+35,タイプ３６,Type 36
+412+36,タイプ３７,Type 37
+412+37,タイプ３８,Type 38
+412+38,タイプ３９,Type 39
+412+39,タイプ４０,Type 40
+412+40,タイプ４１,Type 41
+412+41,タイプ４２,Type 42
+412+42,タイプ４３,Type 43
+412+43,タイプ４４,Type 44
+412+44,タイプ４５,Type 45
+412+45,タイプ４６,Type 46
+412+46,タイプ４７,Type 47
+412+47,タイプ４８,Type 48
+412+48,タイプ４９,Type 49
+412+49,タイプ５０,Type 50
+412+50,タイプ５１,Type 51
+412+51,タイプ５２,Type 52
+412+52,タイプ５３,Type 53
+413+21,なし,None
+413+0,タイプ１,Type 1
+413+1,タイプ２,Type 2
+413+2,タイプ３,Type 3
+413+3,タイプ４,Type 4
+413+4,タイプ５,Type 5
+413+5,タイプ６,Type 6
+413+6,タイプ７,Type 7
+413+7,タイプ８,Type 8
+413+8,タイプ９,Type 9
+413+9,タイプ１０,Type 10
+413+10,タイプ１１,Type 11
+413+11,タイプ１２,Type 12
+413+12,タイプ１３,Type 13
+413+13,タイプ１４,Type 14
+413+14,タイプ１５,Type 15
+413+15,タイプ１６,Type 16
+413+16,タイプ１７,Type 17
+413+17,タイプ１８,Type 18
+413+18,タイプ１９,Type 19
+413+19,タイプ２０,Type 20
+413+20,タイプ２１,Type 21
+414+4,なし,None
+414+0,タイプ１,Type 1
+414+1,タイプ２,Type 2
+414+2,タイプ３,Type 3
+414+3,タイプ４,Type 4
+415+0,なし,None
+415+1,ホクロ,Balloon
+415+2,そばかす１,Freckle 1
+415+3,そばかす２,Freckle 2
+420+0,なし,None
+420+1,ムキムキ,Muscles
+420+2,ポッチャリ,Chubby
+420+3,スレンダー,slender
+421+0,なし,None
+421+1,ハート,heart
+421+2,水滴,Water drop
+421+3,星A,Star A
+421+4,星B,Star B
+421+5,三日月,Crescent Moon
+421+6,キスマーク,A kiss mark
+421+7,クモ,Spider
+421+8,クモの巣,Spider's nest
+421+9,バラ,rose
+421+10,陰陽,Yin Yang
+421+11,禁止,Ban
+421+12,蝶,butterfly
+421+13,肉球,Pad
+421+14,ターゲット,target
+421+15,ネイティブライン,Native line
+421+16,正の字,Positive letter
+421+17,スラッシュ,Slash
+421+18,クロススラッシュ,Cross slash
+421+19,クロススラッシュ×５,Cross slash × 5
+421+20,第三の目,Third Eye
+421+21,ドクロ,skull
+421+22,三角,triangle
+421+23,絆創膏,Bandage
+422+0,なし,None
+422+1,タイプ１,Type 1
+422+2,タイプ２,Type 2
+422+3,タイプ３,Type 3
+422+4,タイプ４,Type 4
+422+5,タイプ５,Type 5
+422+6,タイプ６,Type 6
+422+7,タイプ７,Type 7
+422+8,タイプ８,Type 8
+423+0,タイプ１,Type 1
+423+1,タイプ２,Type 2
+423+2,タイプ３,Type 3
+423+3,タイプ４,Type 4
+423+4,タイプ５,Type 5
+423+5,タイプ６,Type 6
+423+6,タイプ７,Type 7
+424+0,なし,None
+424+1,四角,square
+424+2,三角,triangle
+424+3,小三角,Small triangle
+424+4,丸,A circle
+424+5,薄い,thin
+424+6,小盾,Small shield
+424+7,大盾,Big shield
+424+8,太縦長,Thick vertical
+424+9,細縦長,Fine portrait
+424+10,薄縦長,Thin portrait
+424+11,大縦長,Vertical length
+424+12,横長,Horizontal
+424+13,そり跡,Sled mark
+430+0,なし,None
+430+1,ストライプ,stripe
+430+27,斜めストライプ,Diagonal stripe
+430+2,ボーダー,border
+430+3,チェックA,Check A
+430+9,チェックB,Check B
+430+17,市松チェック,Check check
+430+6,ハーリキンチェック,Hurikin check
+430+10,千鳥格子,Houndstooth grid
+430+8,ハート,heart
+430+4,水玉,Polka dot
+430+29,花柄,Floral
+430+25,星A,Star A
+430+7,星B,Star B
+430+5,イチゴ,Strawberry
+430+26,ドクロ,skull
+430+12,ヒョウ,Leopard
+430+13,シマウマ,zebra
+430+18,麻の葉,Hemp leaf
+430+19,青海波,Qinghai wave
+430+20,唐草,arabesque
+430+21,矢絣,Yasuri
+430+23,鹿子,Kagako
+430+24,亀甲花菱,Tortoise Flower
+430+22,ノルデック,Nordec
+430+14,迷彩,camouflage
+430+11,網,network
+430+16,編み込み,Weaving
+430+15,レンガ,Brick
+430+28,グラデーションボーダー,Gradient border
+430+30,縦線,Vertical line
+430+31,横線,horizontal line
+430+32,モザイク,mosaic
+430+33,アーガイル,Argyle
+430+34,チマヨ,Chimayo
+430+35,ギンガムチェック,Gingham check
+430+36,変則ストライプ,Irregular stripe
+430+37,変則ボーダー,Anomalous border
+430+38,丸,A circle
+431+0,なし,None
+431+1,赤と青,Red and blue
+431+2,C,C
+431+3,H,H
+431+4,年数Ⅰ,Year Ⅰ
+431+5,年数Ⅱ,Number of years Ⅱ
+431+6,年数Ⅲ,Year III
+431+7,北,North
+431+20,北2,North 2
+431+8,南,South
+431+21,南2,South 2
+431+9,西,West
+431+22,西2,West 2
+431+10,東,east
+431+23,東2,East 2
+431+11,鷹,hawk
+431+12,獅子,lion
+431+13,くま,Bear
+431+14,鉄十字学園,Iron Cross School
+431+15,サイコうさぎ,Psion rabbit
+431+19,番号00,Number 00
+431+16,番号01,Number 01
+431+17,番号02,Number 02
+431+18,番号03,Number 03
+432+4,浅いなめらか影,Shallow smooth shadow
+432+5,浅いくっきり影,Shallow sharp shadows
+432+2,深いなめらか影,Deep Sleek Shadow
+432+1,深いくっきり影,Deep sharp shadow
+432+3,境界線のある影,Shadow with borderline
+432+0,完全なめらか影,Perfectly smooth shadow
+432+6,影なし,No shadow
+433+5,なし,None
+433+3,線ハイライト,Line highlight
+433+2,丸ハイライト,Round highlight
+433+1,雷ハイライト,Thunder highlight
+433+0,帯ハイライト,Band highlight
+433+4,四角ハイライト,Square highlight
+6+0,セクシー系お姉さま,Sexy sister
+6+1,お嬢様,Lady
+6+2,タカビー,Takabee
+6+3,小悪魔っ子,Little Devil
+6+4,ミステリアス,mysterious
+6+5,電波,Radio wave
+6+6,大和撫子,Yamatonosako
+6+7,ボーイッシュ,boyish
+6+8,純粋無垢な子供,Pure innocent child
+6+9,アホの子,A child of Aho
+6+10,邪気眼,Evil eye
+6+11,母性的お姉さん,Maternal older sister
+6+12,姉御肌,Sister skin
+6+13,コギャル,Cogal
+6+14,不良少女,Bad girl
+6+15,野生的,Wild
+6+16,意識高いクールな女性,A conscious and cool woman
+6+17,ひねくれ,Twitch
+6+18,不幸少女,Unfortunate girl
+6+19,文学少女,Literary girl
+6+20,モジモジ,Mojimoji
+6+21,正統派ヒロイン,Orthodox heroin
+6+22,ミーハー,Meer
+6+23,オタク女子,Geek girls
+6+24,ヤンデレ,Yandere
+6+25,ダル,Dal
+6+26,無口,Silent
+6+27,意地っ張り,Senselessness
+6+28,ロリばばあ,Roli baba
+6+29,素直クール,Girls cool
+7+0,左頬,Left cheek
+7+1,右頬,Right cheek
+7+2,おでこ,Forehead
+7+3,鼻,nose
+7+4,口,mouth
+7+5,顎,chin
+8+0,左の口元,Left mouth
+8+1,右の口元,Right mouth
+8+2,左の口上,Left mouth
+8+3,右の口上,Right mouth
+8+4,左の目元,Left eyes
+8+5,右の目元,Right eyes
+8+6,額中央,Middle frame
+8+7,そばかす,freckles
+105+32,キュートナース服,Cute nurse clothes
+111+12,網ニーソックス,Net thighhighs
+112+18,キュートナースシューズ,Cute nurse shoes
+122+25,キュートナースキャップ,Cute nurse cap
+127+4,注射ガーターリング（左）,Injection garter ring (left)
+127+5,注射ガーターリング（右）,Injection garter ring (right)
+129+16,注射器,Syringe
+105+33,魔法学園制服上着,Magical school uniform uniform
+106+23,魔法学園制服スカート,Magical school uniform clothing skirt
+109+6,魔法学園制服の袖,Magical school uniform sleeve
+111+13,魔法のニーソックス,Magical thighhighs
+112+19,魔法のブーツ,Magical boots
+122+30,魔法の帽子,Magical hat
+129+17,魔法のステッキ,Magical stick
+105+35,セクシーランジェリー（上）,Sexy lingerie (top)
+106+26,セクシーランジェリー（下）,Sexy lingerie (bottom)
+122+27,猫耳（右）,Cat ears (right)
+122+28,猫耳（左）,Cat ears (left)
+122+29,鈴付きリボン,Ribbon with bell
+124+7,鈴付きチョーカー ,Choker with a bell
+126+7,猫尻尾,Cat Tail
+105+34,軍服 ,Military uniform
+106+24,軍服タイトスカート　,Military uniform tight skirt
+109+8,将校の手袋,Officer's gloves
+110+6,将校のガーターベルト,Officer's garter belt
+112+20,将校のブーツ,Officer boots
+122+31,将校の帽子 ,Official hat
+124+8,階級バッジ ,Class Badge
+126+8,将校のサーベル,Officer saber
+105+37,メイド服,Maid clothes
+106+27,メイドスカート,Maid skirt
+109+7,メイド服の袖,Made clothes sleeve
+112+21,ラウンドパンプス,Round Pumps
+122+38,メイドヘアバンド,Maid hair band
+122+39,メイドカチューシャ,Maid headband
+101+28,ボリュームポニーテール,Volume ponytail
+101+29,外はねショート,Outside the Short
+102+48,ハネぱっつん,Honey pants
+105+51,鬼神の装束(上),Demon's Costume (top)
+106+36,巫女スカート,Maiden skirt
+106+37,鬼神の装束A(下),Demon's Costume A (Bottom)
+106+38,鬼神の装束B(下),Demon's Costume B (Bottom)
+109+11,巫女武者手甲,Shrine maiden samurai hand grenade
+109+12,鬼神の小手,Kid gloves
+111+18,巫女ニーソックス,Maiden garter thigh
+112+24,鬼神の脛当て,Devil's shin rest
+122+41,羊の角,Sheep horn
+122+42,牛の角,Cow horn
+122+43,一角,narwhal
+123+31,鬼神の額当て（右）,Demonic forehead restriction (right)
+123+32,鬼神の額当て（左）,Devil's forehead rest (left)
+124+16,鈴,bell
+124+17,シデ,Side
+124+18,鬼神のリボン ,Demon ribbon
+124+19,勾玉の首飾り ,Jewel necklace
+126+13,鞘小太刀,Sheath scallop
+126+14,白木拵え納刀,Shiraki 拵 え 刀 刀
+126+19,白木拵えの鞘,Sheath of Shiraki Aya
+126+15,2連鞘刀,Two-tiered sword
+126+16,鬼神の腰当右用,Demonic waist paw for right
+126+17,鬼神の腰当左用,Demonic lumbarism for left
+128+16,くノ一肩当て右用,Kunoichi shoulder for right
+128+17,くノ一肩当て左用,Kunoichi Shoulder For Left
+128+18,巫女袖右用,For shrine maiden sleeve right
+128+19,巫女袖左用,For shrine maiden sleeve left
+128+20,鬼神の肩当て,Demonic shoulder rest
+129+23,小太刀,Odaito
+129+24,白木拵え刀,Shiraki 拵 え sword
+129+25,鬼神の金棒,Demon gold bar
+210+9,巫女内衣,Shrine maiden garb
+211+16,陣羽織,Batting weave
+212+6,のど輪,Trading ring
+401+8,タイプ８,Type 8
+401+9,タイプ９,Type 9
+402+8,タイプ８,Type 8
+402+9,タイプ９,Type 9
+403+7,タイプ７,Type 7
+403+8,タイプ８,Type 8
+405+24,桜,Cherry Blossoms
+405+25,印,mark
+421+24,桜,Cherry Blossoms
+421+25,印,mark
+431+24,桔梗の紋(白),The bellflower's crest (white)
+431+25,桔梗の紋(黒),Kikyo's crest (black)
+431+26,三つ巴(白),Three Piece (White)
+431+27,三つ巴(黒),Three Piece (Black)
+433+6,ぼかし帯ハイライト,Blur band highlight
+433+7,ぼかし四角ハイライト,Blur square highlight
+433+8,ぼかし線ハイライト,Blur line highlight
+101+30,ぱっつんロング,Pad Long
+102+49,ぱっつんエアインテーク,Petit Air Intake
+107+18,メカスーツ,Mecha suit
+109+13,メカグローブ,Mechanical glove
+111+19,メカソックス,Mecha socks
+121+18,メカヘアー,Mechanical hair
+121+19,メカループ,Mekalp
+121+20,メカウィングリング,Mechanical wing ring
+122+44,メカレシーバー,Mechanical receiver
+122+45,メカ装甲１,Mechanical armor 1
+122+46,メカ装甲２,Mechanical Armor 2
+122+47,メカ装甲３,Mechanical Armor 3
+122+48,メカ装甲４,Mechanical Armor 4
+122+49,メカポッド,Mechanical pod
+122+50,メカシールド,Mechanical shield
+122+51,メカゴーグル,Mechanical goggles
+122+52,メカバイザー,Mechan visor
+122+53,メカボール,Mecha ball
+122+54,メカポール,Mechanpor
+122+55,メカビームポール,Mechanical beam pole
+122+56,メカデルタ,Mechanical delta
+122+57,メカボックス,Mechanical box
+122+58,メカサークル,Mechanical circle
+122+59,メカウィング,Mechanical wing
+122+60,メカブースター,Mechanical booster
+122+61,メカチューブ,Mechanical tube
+122+62,メカシザー,Mechaniser
+122+63,メカドリル,Mechanical drill
+122+64,艦艇の模型,Model of a warship
+122+65,魚雷発射管の模型,Model of torpedo launch tube
+122+66,2連装砲台の模型,Model of two consecutive batteries
+122+67,メカアンテナ,Mechanical antenna
+122+68,メカウイングⅡ,Mechanical wing Ⅱ
+122+69,メカバイザーⅡ,Mechanical visor Ⅱ
+124+20,メカタイ,Mechatai
+126+18,メカアンプ,Mechanical amplifier
+128+21,メカショルダー,Mechanical shoulder
+128+22,メカ装甲５,Mechanical Armor 5
+128+23,メカ装甲６,Mechanical armor 6
+128+24,メカ装甲６×３,Mechanical Armor 6 x 3
+128+25,メカシールドⅡ,Mechanical shield Ⅱ
+128+26,メカブースターⅡ,Mechanical Booster II
+405+26,バーコード,barcode
+405+27,ターゲット,target
+405+28,CAUTION,CAUTION
+405+29,DANGER,DANGER
+405+30,WARNING,WARNING
+405+31,００,00
+405+32,０１,01
+405+33,０２,02
+405+34,０３,03
+421+26,バーコード,barcode
+421+27,ターゲット,target
+421+28,CAUTION,CAUTION
+421+29,DANGER,DANGER
+421+30,WARNING,WARNING
+421+31,００,00
+421+32,０１,01
+421+33,０２,02
+421+34,０３,03
+422+9,電子回路,Electronic circuit
+422+10,ライン,line
+431+29,CAUTION,CAUTION
+431+30,DANGER,DANGER
+101+31,三つ編みお団子,Braids and dumplings
+102+50,ナイトバング,Night Bang
+105+52,騎士のスーツ,Knight's suit
+106+39,騎士のスカート,Knight's Skirt
+109+14,騎士の手袋,Knight's glove
+111+20,騎士のソックス,Knight's socks
+112+25,騎士のブーツ,Knight's boots
+122+73,ロイヤルクラウン,Royal Crown
+122+74,羽の髪飾り左用,Feather hair ornament for left
+122+75,羽の髪飾り右用,Feather hair ornament for right
+122+70,ナイトバイザー,Night visor
+122+72,鎧兜,Armor
+122+71,毛玉,Hairball
+124+21,ロイヤルリボン,Royal ribbon
+125+22,アーマープレート,Armor plate
+126+21,騎士の腰当右用,Knight's Lapse For Right
+126+22,騎士の腰当左用,Knight's Lapse For Left
+126+20,ロングソードの鞘,Longsword sheath
+128+28,タングルショルダー右用,Tangle shoulder right
+128+27,タングルショルダー左用,Tangle shoulder left
+128+29,騎士の肩当て右用,Knight's shoulder for right
+128+30,騎士の肩当て左用,Knight's shoulders for left
+128+32,鎧肩当て右用,For armor shoulders for right
+128+31,鎧肩当て左用,For armor shoulder stiff left
+129+26,ロングソード,Long sword
+129+27,バックラー,Buckler
+129+28,ルーンソード,Rune Sword
+129+29,ルーンシールド,Runeshield
+129+30,ウォーハンマー,Warhammer
+129+31,ハルバード,Halberd
+129+32,クレイモア,Claymore
+129+33,ダガー,Dagger
+129+34,ロングボウ,Long bow
+129+35,古式ライフル銃,Ancient rifle
+129+36,古式銃,Ancient gun
+129+37,魔法の書,Magical book
+129+38,騎士のレイピア,Knight Rapier
+129+39,騎士のレイピア(鞘),Rapier of the knight (sheath)
+101+43,ゆるふわボブ,Yuwafu Bob
+101+44,くせっ毛ショート,Curl Short
+101+45,ウェーブロング,Wave Long
+102+53,ゆるふわボブ前,Luffy Bob front
+102+54,くせっ毛ショート前,Before curl hair short
+102+55,中分けぱっつん,Medium separation papers
+105+53,裸サスペンダー,Naked suspenders
+107+19,全身タイツ,Whole body tights
+107+20,大人ワンピース,Adult One Piece
+109+15,メカハンド,Mechanical Hand
+112+26,メカブーツ,Mechanical boots
+122+76,玉飾り,Ball decoration
+127+6,メカフット（左）,Mechanical foot (left)
+127+7,メカフット（右）,Mechanical foot (right)
+129+44,エンシェントロッド,Ancient rod
+129+42,メカハンド握り右用,Mecha hand hand grip for right
+129+43,メカハンド開き右用,Mechanical hand opening for right
+129+40,メカハンド握り左用,Mecha hand hand grip for left
+129+41,メカハンド開き左用,Mechanical hand opening for left
+210+8,チューブトップシャツ,Tube Top Shirt
+211+15,サスペンダー,suspenders
+101+32,ふわポニー,Fluid pony
+101+33,お団子シングル,Dumpling single
+101+34,ふわポニーロング,Float Pony Long
+101+35,カールポニー,Carl Pony
+101+36,ショートツイン,Short Twin
+101+37,ショートツインカール,Short twin curl
+101+38,お団子ダブル,Dumpling Double
+101+39,ショートツインロール,Short Twin Roll
+101+40,ツインカール,Twin curl
+101+41,ふわツインウェーブ,Twin waves
+101+42,ツインロール,Twin roll
+102+51,ウェーブショート,Wave Short
+102+52,アップバング,Up Bang
+101+46,ツイン三つ編み,Twin braids
+101+47,ミディアムダウン,Medium Down
+101+48,ツインロングおさげ,Twin long pigtails
+101+49,ハーフアップ,Half up
+102+56,斜めぱっつん(右),Diagonal puck (right)
+102+57,斜めぱっつん(左),Diagonal puck (left)
+102+58,でこジャギー,Boy juggy
+102+59,ハネミディアム,Hane Medium
+102+60,ふわカール,Fluff curl
+105+54,フリルワンピース,Frill one piece
+105+55,ワンピース（花柄）,One Piece (Flower Pattern)
+105+56,ワンピース（無地）,One piece (plain)
+112+27,ブロッサムサンダル,Blossom sandals
+112+28,コルクサンダル,Cork sandals
+122+77,つば広帽子,A brim wide hat
+123+33,雫,drop
+124+22,3ポイント,3 points
+128+33,オーバル腕時計,Oval watches
+101+50,三つ編み横おさげ(左),Braiding Horizontal Beard (left)
+101+51,三つ編み横おさげ(右),Braiding Horizontal Beard (Right)
+101+52,ぱっつんボブ,Pad Bob
+101+53,カジュアルオールバック,Casual all back
+101+54,ツーサイドアップショート,Two Side Up Short
+102+61,サイドカール,Side Curl
+102+62,ウェーブロング,Wave Long
+102+63,スパイキー前,Before Spikey
+102+64,中分けミディアム,Medium dividing medium
+105+57,ショートパレオ,Short Pareo
+105+58,ショートパレオ（単色）,Short Pareo (monochrome)
+105+59,シースルーパレオ,See-through pareo
+105+60,セクシーパレオ,Sexy Pareo
+106+40,パレオ,Pareo
+112+29,シェルサンダル,Shell sandals
+121+21,貝殻,shell
+121+22,ヒトデ,Starfish
+430+39,ハイビスカス,hibiscus
+6+30,気さく,Friendly
+6+31,勝ち気,Victory
+6+32,誠実,Sincere
+6+33,艶やか,glossy
+107+21,ラインタンガ,Line tanga
+107+22,マイクロモノキニ,Micro monokini
+107+23,クロスホルター,Cross Halter

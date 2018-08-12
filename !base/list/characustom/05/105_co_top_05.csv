@@ -1,0 +1,2 @@
+ID,Kind,Possess,Name,MainManifest,MainAB,MainData,NormalData,StateType,Coordinate,NotBra,Sex,OverBodyMaskAB,OverBodyMask,OverBraMaskAB,OverBraMask,MainTexAB,MainTex,ColorMaskAB,ColorMaskTex,MainTex02AB,MainTex02,ColorMask02AB,ColorMask02Tex,KokanHide,ThumbAB,ThumbTex
+"37","5","2","メイド服","add05","chara/co_top_05.unity3d","p_o_top_maid_01","0","0","0","0","3","chara/mt_mask_body_05.unity3d","cf_maid01_body_mab","chara/mt_mask_bra_05.unity3d","cf_maid01_bra_mab","0","cf_top_maid_01_t","0","cf_top_maid_01_mc","0","0","0","0","0","chara/thumb/co_top_05.unity3d","p_o_top_maid_01"

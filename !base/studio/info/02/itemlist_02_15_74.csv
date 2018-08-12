@@ -1,0 +1,7 @@
+"管理番号","大きい項目","中間項目","名称","マニフェスト","バンドルパス","ファイルパス","子の接続先","アニメがあるか","色替え","柄","色替え(カラー２)","柄","カラー３","柄","拡縮判定"
+"978","15","74","FK関節","studio02","studio/02.unity3d","p_koi_syu_FK_00_00","N_setuzoku","FALSE","TRUE","FALSE","FALSE","FALSE","FALSE","FALSE","TRUE"
+"979","15","74","FK軸","studio02","studio/02.unity3d","p_koi_stu_flybace03_00","","FALSE","TRUE","FALSE","TRUE","FALSE","FALSE","FALSE","TRUE"
+"980","15","74","FK先端1","studio02","studio/02.unity3d","p_koi_stu_flybace01_00","","FALSE","TRUE","FALSE","TRUE","FALSE","FALSE","FALSE","TRUE"
+"981","15","74","FK先端2","studio02","studio/02.unity3d","p_koi_stu_flybace02_00","","FALSE","TRUE","FALSE","TRUE","FALSE","FALSE","FALSE","TRUE"
+"982","15","74","土台1","studio02","studio/02.unity3d","p_koi_stu_flybace04_00","","FALSE","TRUE","FALSE","FALSE","FALSE","FALSE","FALSE","TRUE"
+"983","15","74","土台2","studio02","studio/02.unity3d","p_koi_stu_flybace00_00","","FALSE","TRUE","FALSE","FALSE","FALSE","FALSE","FALSE","TRUE"

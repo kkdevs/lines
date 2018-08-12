@@ -1,0 +1,5 @@
+"","","","","","","",""
+"管理番号","大きい項目","中間項目","表示名","バンドルパス","ファイル名","バンドルパス","ファイル名","クリップ名","BreastLayerの有り無し","揺れ制御左","揺れ制御右","揺らぎ","pv_hand_L","pv_hand_R","pv_Leg_L","pv_Leg_R"
+"0","6","175","ループIN","h/anim/female/04_00_00.unity3d","khn_f_00","","","In","","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE"
+"1","6","175","ループ","h/anim/female/04_00_00.unity3d","khn_f_00","","","Loop","","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE","TRUE"
+"2","6","175","ループOUT","h/anim/female/04_00_00.unity3d","khn_f_00","","","Out","","FALSE","FALSE","FALSE","TRUE","TRUE","TRUE","TRUE"
